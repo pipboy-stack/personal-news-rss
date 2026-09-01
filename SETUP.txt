@@ -1,0 +1,32 @@
+ブラウザ版GitHub用セットアップ
+
+1. まず次の6ファイルをGitHubへアップロードして Commit changes
+   - config.json
+   - generate_rss.py
+   - README.md
+   - requirements.txt
+   - WORKFLOW_COPY.txt
+   - SETUP.txt
+
+2. GitHub上で Add file → Create new file
+
+3. ファイル名:
+   .github/workflows/update-rss.yml
+
+4. WORKFLOW_COPY.txt を開き、
+   説明文より下にある "name: Update Personal News RSS" から最後までをコピーして貼り付け
+
+5. Commit changes
+
+6. Actions タブを開き、
+   Update Personal News RSS → Run workflow
+
+7. 成功すると docs フォルダと feed.xml が自動生成されます。
+
+8. Settings → Pages
+   Source: Deploy from a branch
+   Branch: main
+   Folder: /docs
+   Save
+
+これでRSS公開準備完了です。

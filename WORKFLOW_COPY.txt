@@ -1,0 +1,33 @@
+GitHubで Add file → Create new file を選び、
+ファイル名に次を入力してください:
+
+.github/workflows/update-rss.yml
+
+その下の編集欄に、以下をそのまま貼り付けます。
+
+name: Update Personal News RSS
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 22 * * *' # 07:30 JST
+    - cron: '0 3 * * *'   # 12:00 JST
+    - cron: '0 9 * * *'   # 18:00 JST
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - run: python generate_rss.py
+      - name: Commit generated feeds
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          git diff --cached --quiet || git commit -m "Update news RSS"
+          git push

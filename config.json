@@ -1,0 +1,237 @@
+{
+  "feed_title": "Personal News RSS",
+  "max_items": 100,
+  "summary_chars": 240,
+  "lookback_hours": 96,
+  "google_news_locale": {
+    "hl": "ja",
+    "gl": "JP",
+    "ceid": "JP:ja"
+  },
+  "direct_sources": [
+    {
+      "name": "NHK 国内",
+      "url": "https://www.nhk.or.jp/rss/news/cat0.xml",
+      "category_hint": "国内重要ニュース"
+    },
+    {
+      "name": "ITmedia NEWS",
+      "url": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
+      "category_hint": "IT・AI"
+    },
+    {
+      "name": "ITmedia Mobile",
+      "url": "https://rss.itmedia.co.jp/rss/2.0/mobile.xml",
+      "category_hint": "ガジェット"
+    },
+    {
+      "name": "PC Watch",
+      "url": "https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf",
+      "category_hint": "ガジェット"
+    },
+    {
+      "name": "AV Watch",
+      "url": "https://av.watch.impress.co.jp/data/rss/1.0/avw/feed.rdf",
+      "category_hint": "ガジェット"
+    },
+    {
+      "name": "4Gamer",
+      "url": "https://www.4gamer.net/rss/index.xml",
+      "category_hint": "ゲーム"
+    }
+  ],
+  "search_sources": [
+    {
+      "name": "浜松ニュース検索",
+      "query": "浜松 OR 浜松市 OR 静岡県西部 when:2d",
+      "category_hint": "浜松市・静岡県西部"
+    },
+    {
+      "name": "浜松公式情報検索",
+      "query": "site:city.hamamatsu.shizuoka.jp 浜松 when:7d",
+      "category_hint": "浜松市・静岡県西部"
+    },
+    {
+      "name": "AIニュース検索",
+      "query": "ChatGPT OR OpenAI OR Gemini OR Claude OR 生成AI when:2d",
+      "category_hint": "IT・AI"
+    },
+    {
+      "name": "ガジェット検索",
+      "query": "Galaxy OR iPhone OR Android OR イヤホン OR ヘッドホン OR スマートウォッチ OR PC周辺機器 when:2d",
+      "category_hint": "ガジェット"
+    },
+    {
+      "name": "車載ガジェット検索",
+      "query": "Android Auto OR CarPlay OR Ottocast OR 車載ディスプレイ OR 車載ガジェット when:7d",
+      "category_hint": "ガジェット"
+    },
+    {
+      "name": "ゲーム検索",
+      "query": "Steam OR PlayStation OR PS5 OR Nintendo Switch OR Xbox OR Escape from Tarkov when:2d",
+      "category_hint": "ゲーム"
+    },
+    {
+      "name": "J-HipHop検索",
+      "query": "J-HipHop OR 日本語ラップ OR ヒップホップ 新曲 OR ラップ MV when:7d",
+      "category_hint": "J-HipHop・音楽"
+    },
+    {
+      "name": "レゲエ検索",
+      "query": "ジャパニーズレゲエ OR レゲエ 新曲 日本 when:7d",
+      "category_hint": "J-HipHop・音楽"
+    },
+    {
+      "name": "QOL検索",
+      "query": "便利家電 OR スマートホーム OR 便利アプリ OR 時短 OR 生活改善 ガジェット when:7d",
+      "category_hint": "QOL・生活改善"
+    },
+    {
+      "name": "Prime Video検索",
+      "query": "site:aboutamazon.jp Prime Video 新着 OR 配信 OR オリジナル when:30d",
+      "category_hint": "映画・動画配信"
+    },
+    {
+      "name": "Netflix検索",
+      "query": "site:about.netflix.com/ja Netflix 日本 配信 OR 新作 OR オリジナル when:30d",
+      "category_hint": "映画・動画配信"
+    },
+    {
+      "name": "配信ドラマ検索",
+      "query": "Netflix OR Prime Video オリジナルドラマ 新作 OR 新シーズン OR 続編 when:14d",
+      "category_hint": "オリジナルドラマ"
+    }
+  ],
+  "category_rules": {
+    "浜松市・静岡県西部": [
+      "浜松",
+      "浜松市",
+      "静岡県西部",
+      "遠州",
+      "磐田",
+      "袋井",
+      "湖西",
+      "掛川"
+    ],
+    "IT・AI": [
+      "AI",
+      "人工知能",
+      "ChatGPT",
+      "OpenAI",
+      "Gemini",
+      "Claude",
+      "生成AI",
+      "Windows",
+      "Android",
+      "Microsoft",
+      "Google"
+    ],
+    "ガジェット": [
+      "Galaxy",
+      "iPhone",
+      "スマホ",
+      "スマートフォン",
+      "イヤホン",
+      "ヘッドホン",
+      "PC",
+      "ノートPC",
+      "タブレット",
+      "スマートウォッチ",
+      "周辺機器",
+      "Android Auto",
+      "CarPlay",
+      "Ottocast",
+      "車載",
+      "充電器",
+      "モバイルバッテリー"
+    ],
+    "ゲーム": [
+      "ゲーム",
+      "Steam",
+      "PlayStation",
+      "PS5",
+      "Nintendo",
+      "Switch",
+      "Xbox",
+      "Tarkov",
+      "Escape from Tarkov"
+    ],
+    "J-HipHop・音楽": [
+      "J-HipHop",
+      "ヒップホップ",
+      "HIPHOP",
+      "日本語ラップ",
+      "ラップ",
+      "新曲",
+      "MV",
+      "アルバム",
+      "レゲエ"
+    ],
+    "QOL・生活改善": [
+      "QOL",
+      "時短",
+      "便利",
+      "家電",
+      "スマートホーム",
+      "自動化",
+      "生活改善",
+      "収納",
+      "掃除",
+      "家事",
+      "便利グッズ",
+      "便利アプリ"
+    ],
+    "映画・動画配信": [
+      "Prime Video",
+      "Amazon Prime",
+      "アマプラ",
+      "Netflix",
+      "ネトフリ",
+      "映画",
+      "配信開始",
+      "見放題",
+      "独占配信"
+    ],
+    "オリジナルドラマ": [
+      "オリジナルドラマ",
+      "ドラマ",
+      "新シーズン",
+      "続編",
+      "シリーズ",
+      "Netflixオリジナル",
+      "Prime Videoオリジナル"
+    ]
+  },
+  "exclude_keywords": [
+    "NISA",
+    "新NISA",
+    "投資信託",
+    "ETF",
+    "株価",
+    "為替",
+    "日経平均",
+    "金融政策",
+    "新型車",
+    "新車",
+    "SUV",
+    "セダン",
+    "ミニバン",
+    "自動車販売",
+    "モーターショー",
+    "海外ニュース",
+    "米国政治",
+    "欧州政治",
+    "ウクライナ情勢",
+    "ロシア情勢",
+    "中東情勢"
+  ],
+  "allow_even_if_excluded": [
+    "Android Auto",
+    "CarPlay",
+    "Ottocast",
+    "車載",
+    "ドライブレコーダー",
+    "車載ディスプレイ",
+    "ワイヤレスアダプター"
+  ]
+}
