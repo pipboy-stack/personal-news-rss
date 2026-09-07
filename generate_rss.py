@@ -61,6 +61,50 @@ def normalize_title(title, source):
         return title[:-len(suffix)].strip()
     return title
 
+
+def extract_image(entry):
+    # RSS/Atom media fields
+    for attr in ("media_thumbnail", "media_content"):
+        values = getattr(entry, attr, None) or []
+        if isinstance(values, dict):
+            values = [values]
+        for v in values:
+            if isinstance(v, dict):
+                url = v.get("url")
+                if url and url.startswith(("http://", "https://")):
+                    return url
+
+    # enclosure
+    for enc in getattr(entry, "enclosures", []) or []:
+        if isinstance(enc, dict):
+            url = enc.get("href") or enc.get("url")
+            typ = (enc.get("type") or "").lower()
+            if url and (typ.startswith("image/") or re.search(r"\.(?:jpe?g|png|webp)(?:\?|$)", url, re.I)):
+                return url
+
+    # image embedded in summary/description HTML
+    raw = getattr(entry, "summary", "") or getattr(entry, "description", "") or ""
+    if raw:
+        soup = BeautifulSoup(raw, "html.parser")
+        img = soup.find("img")
+        if img:
+            url = img.get("src") or img.get("data-src")
+            if url and url.startswith(("http://", "https://")):
+                return url
+    return ""
+
+CATEGORY_VISUALS = {
+    "国内重要ニュース": ("🇯🇵", "国内"),
+    "浜松市・静岡県西部": ("📍", "浜松・静岡西部"),
+    "IT・AI": ("🤖", "IT・AI"),
+    "ガジェット": ("📱", "ガジェット"),
+    "ゲーム": ("🎮", "ゲーム"),
+    "J-HipHop・音楽": ("🎧", "音楽"),
+    "QOL・生活改善": ("🏠", "QOL"),
+    "映画・動画配信": ("🎬", "映画・配信"),
+    "オリジナルドラマ": ("📺", "ドラマ"),
+}
+
 def fetch_one(name,url,hint,kind):
     feed=feedparser.parse(url)
     out=[]
@@ -79,7 +123,7 @@ def fetch_one(name,url,hint,kind):
         limit=int(CFG["summary_chars"])
         if len(summary)>limit: summary=summary[:limit].rstrip()+"…"
         guid=hashlib.sha256((link+"|"+title).encode()).hexdigest()
-        out.append(dict(id=guid,title=title,link=link,summary=summary,source=src,category=cat,published=pub))
+        out.append(dict(id=guid,title=title,link=link,summary=summary,source=src,category=cat,published=pub,image=extract_image(e)))
     return out
 
 def collect():
@@ -123,20 +167,128 @@ def write_feed(items, filename="feed.xml", category=None):
     (DOCS/filename).write_text(xml,encoding="utf-8")
 
 def write_index(items):
-    cards=[]
-    for i in items[:50]:
-        dt=i["published"].astimezone(JST).strftime("%m/%d %H:%M")
-        cards.append(f"<article><div class=meta>{html.escape(i['category'])} ・ {dt} ・ {html.escape(i['source'])}</div>"
-                     f"<h2><a href='{html.escape(i['link'])}' target=_blank rel=noopener>{html.escape(i['title'])}</a></h2>"
-                     f"<p>{html.escape(i['summary'])}</p></article>")
-    cats=sorted({i["category"] for i in items})
-    links=" ".join(f"<a href='feed-{slug(c)}.xml'>{html.escape(c)}</a>" for c in cats)
-    page=f"""<!doctype html><html lang=ja><head><meta charset=utf-8><meta name=viewport content='width=device-width,initial-scale=1'>
-<title>Personal News RSS</title><style>
-body{{font-family:system-ui,sans-serif;max-width:960px;margin:auto;padding:24px;line-height:1.6}}
-article{{padding:16px 0;border-bottom:1px solid #ddd}} h2{{font-size:1.05rem;margin:.3rem 0}}
-.meta{{font-size:.84rem;opacity:.68}} nav a{{margin-right:12px}} a{{color:inherit}}
-</style></head><body><h1>Personal News RSS</h1><p><a href=feed.xml>すべてのニュースRSS</a></p><nav>{links}</nav>{''.join(cards)}</body></html>"""
+    preferred = [
+        "国内重要ニュース","浜松市・静岡県西部","IT・AI","ガジェット","ゲーム",
+        "J-HipHop・音楽","QOL・生活改善","映画・動画配信","オリジナルドラマ"
+    ]
+    present = {i["category"] for i in items}
+    cats = [c for c in preferred if c in present]
+
+    buttons = ["<button class='filter active' data-category='all'>すべて</button>"]
+    buttons += [
+        f"<button class='filter' data-category='{html.escape(c, quote=True)}'>{html.escape(c)}</button>"
+        for c in cats
+    ]
+
+    cards = []
+    for i in items[:100]:
+        dt = i["published"].astimezone(JST).strftime("%m/%d %H:%M")
+        cat = i["category"]
+        emoji, visual_label = CATEGORY_VISUALS.get(cat, ("📰", "ニュース"))
+        image = i.get("image", "")
+        if image:
+            media = (
+                f"<div class='media'>"
+                f"<img src='{html.escape(image, quote=True)}' alt='' loading='lazy' referrerpolicy='no-referrer' "
+                f"onerror=\"this.parentElement.innerHTML='<div class=&quot;fallback&quot;><span>{emoji}</span><b>{html.escape(visual_label)}</b></div>'\">"
+                f"</div>"
+            )
+        else:
+            media = f"<div class='media'><div class='fallback'><span>{emoji}</span><b>{html.escape(visual_label)}</b></div></div>"
+
+        summary = i["summary"] or "要約はありません。見出しを押すと元記事を開きます。"
+        cards.append(
+            f"<article class='news-card' data-category='{html.escape(cat, quote=True)}'>"
+            f"{media}"
+            f"<div class='card-body'>"
+            f"<div class='category'>{html.escape(cat)}</div>"
+            f"<h2><a href='{html.escape(i['link'], quote=True)}' target='_blank' rel='noopener'>{html.escape(i['title'])}</a></h2>"
+            f"<p class='summary'>{html.escape(summary)}</p>"
+            f"<div class='meta'><span>{dt}</span><span>{html.escape(i['source'])}</span></div>"
+            f"</div></article>"
+        )
+
+    page = f"""<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>Personal News RSS</title>
+<style>
+:root {{
+  --bg:#f3f4f6; --card:#fff; --text:#1f2937; --muted:#6b7280;
+  --line:#e5e7eb; --chip:#fff; --chip-active:#111827; --chip-active-text:#fff;
+}}
+@media (prefers-color-scheme:dark) {{
+  :root {{ --bg:#111318; --card:#1b1f27; --text:#edf0f5; --muted:#9da6b5;
+           --line:#2c3340; --chip:#1b1f27; --chip-active:#edf0f5; --chip-active-text:#111318; }}
+}}
+*{{box-sizing:border-box}}
+body{{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,"Segoe UI",sans-serif;line-height:1.5}}
+.wrap{{max-width:1500px;margin:auto;padding:20px}}
+header{{display:flex;justify-content:space-between;gap:16px;align-items:end;margin-bottom:12px}}
+h1{{font-size:1.55rem;margin:0}} .rss{{font-size:.82rem;color:var(--muted)}} a{{color:inherit}}
+.toolbar{{display:flex;gap:8px;overflow-x:auto;padding:10px 0 14px;position:sticky;top:0;background:var(--bg);z-index:20;scrollbar-width:thin}}
+.filter{{flex:0 0 auto;border:1px solid var(--line);background:var(--chip);color:var(--text);border-radius:999px;padding:8px 13px;cursor:pointer;font-weight:650}}
+.filter.active{{background:var(--chip-active);color:var(--chip-active-text);border-color:var(--chip-active)}}
+.status{{font-size:.84rem;color:var(--muted);margin:0 0 12px}}
+.grid{{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;align-items:start}}
+.news-card{{background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden;box-shadow:0 2px 10px rgba(0,0,0,.04);break-inside:avoid}}
+.news-card[hidden]{{display:none}}
+.media{{aspect-ratio:16/9;background:#242936;overflow:hidden}}
+.media img{{width:100%;height:100%;object-fit:cover;display:block}}
+.fallback{{height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;background:linear-gradient(145deg,#303744,#171b23);color:white}}
+.fallback span{{font-size:3rem}} .fallback b{{font-size:.95rem;letter-spacing:.02em}}
+.card-body{{padding:14px}}
+.category{{display:inline-block;font-size:.76rem;font-weight:750;background:var(--bg);border-radius:999px;padding:4px 8px;margin-bottom:8px}}
+h2{{font-size:1.06rem;line-height:1.42;margin:0 0 8px}}
+h2 a{{text-decoration:none}} h2 a:hover{{text-decoration:underline}}
+.summary{{font-size:.91rem;color:var(--muted);margin:0 0 12px;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}}
+.meta{{display:flex;justify-content:space-between;gap:8px;font-size:.76rem;color:var(--muted);border-top:1px solid var(--line);padding-top:9px}}
+@media (max-width:1000px){{.grid{{grid-template-columns:repeat(2,minmax(0,1fr))}}}}
+@media (max-width:620px){{.wrap{{padding:12px}} header{{display:block}} .rss{{margin-top:5px}} .grid{{grid-template-columns:1fr;gap:12px}} .toolbar{{margin:0 -12px;padding-left:12px;padding-right:12px}}}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div><h1>Personal News RSS</h1><div class="rss">画像付きニュースカード</div></div>
+  <div class="rss">RSSリーダー登録用：<a href="feed.xml">feed.xml</a></div>
+</header>
+<nav class="toolbar">{''.join(buttons)}</nav>
+<div id="status" class="status"></div>
+<main id="grid" class="grid">{''.join(cards)}</main>
+</div>
+<script>
+const buttons=[...document.querySelectorAll('.filter')];
+const cards=[...document.querySelectorAll('.news-card')];
+const status=document.getElementById('status');
+
+function filterNews(category, setHash=true) {{
+  let shown=0;
+  cards.forEach(card => {{
+    const visible = category==='all' || card.dataset.category===category;
+    card.hidden=!visible;
+    if(visible) shown++;
+  }});
+  buttons.forEach(b=>b.classList.toggle('active',b.dataset.category===category));
+  status.textContent = (category==='all' ? 'すべて' : category) + '：' + shown + '件';
+  if(setHash) history.replaceState(null,'',category==='all' ? location.pathname : '#'+encodeURIComponent(category));
+}}
+
+buttons.forEach(b=>b.addEventListener('click',()=>filterNews(b.dataset.category)));
+let initial='all';
+if(location.hash) {{
+  try {{
+    const h=decodeURIComponent(location.hash.slice(1));
+    if(buttons.some(b=>b.dataset.category===h)) initial=h;
+  }} catch(e) {{}}
+}}
+filterNews(initial,false);
+</script>
+</body>
+</html>"""
     (DOCS/"index.html").write_text(page,encoding="utf-8")
 
 def slug(s):
