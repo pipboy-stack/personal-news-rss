@@ -166,13 +166,35 @@ def write_feed(items, filename="feed.xml", category=None):
 </channel></rss>"""
     (DOCS/filename).write_text(xml,encoding="utf-8")
 
+
+def detect_game_badges(title, summary, category):
+    if category != "ゲーム":
+        return []
+    text = f"{title} {summary}".lower()
+    badges = []
+    free_words = [
+        "無料配布", "無料で配布", "期間限定無料", "free to keep",
+        "free game", "無料入手", "無料でもら", "100% off", "無料配信"
+    ]
+    sale_words = [
+        "セール", "sale", "割引", "値下げ", "特価", "discount",
+        "サマーセール", "ウィンターセール", "オータムセール", "スプリングセール"
+    ]
+    weekend_words = ["free weekend", "フリーウィークエンド", "週末無料", "無料プレイ"]
+    if any(w in text for w in free_words):
+        badges.append(("🎁", "無料配布"))
+    if any(w in text for w in weekend_words):
+        badges.append(("🆓", "無料プレイ"))
+    if any(w in text for w in sale_words):
+        badges.append(("🔥", "セール"))
+    return badges
+
 def write_index(items):
     preferred = [
         "国内重要ニュース","浜松市・静岡県西部","IT・AI","ガジェット","ゲーム",
         "J-HipHop・音楽","QOL・生活改善","映画・動画配信","オリジナルドラマ"
     ]
-    present = {i["category"] for i in items}
-    cats = [c for c in preferred if c in present]
+    cats = preferred
 
     buttons = ["<button class='filter active' data-category='all'>すべて</button>"]
     buttons += [
@@ -188,20 +210,24 @@ def write_index(items):
         image = i.get("image", "")
         if image:
             media = (
-                f"<div class='media'>"
+                f"<div class='media has-image'>"
                 f"<img src='{html.escape(image, quote=True)}' alt='' loading='lazy' referrerpolicy='no-referrer' "
-                f"onerror=\"this.parentElement.innerHTML='<div class=&quot;fallback&quot;><span>{emoji}</span><b>{html.escape(visual_label)}</b></div>'\">"
+                f"onerror=\"this.parentElement.outerHTML='<div class=&quot;compact-fallback&quot;><span>{emoji}</span><b>{html.escape(visual_label)}</b></div>'\">"
                 f"</div>"
             )
         else:
-            media = f"<div class='media'><div class='fallback'><span>{emoji}</span><b>{html.escape(visual_label)}</b></div></div>"
+            media = f"<div class='compact-fallback'><span>{emoji}</span><b>{html.escape(visual_label)}</b></div>"
 
         summary = i["summary"] or "要約はありません。見出しを押すと元記事を開きます。"
+        badge_html = "".join(
+            f"<span class='alert-badge'>{icon} {html.escape(label)}</span>"
+            for icon, label in detect_game_badges(i["title"], summary, cat)
+        )
         cards.append(
             f"<article class='news-card' data-category='{html.escape(cat, quote=True)}'>"
             f"{media}"
             f"<div class='card-body'>"
-            f"<div class='category'>{html.escape(cat)}</div>"
+            f"<div class='topline'><div class='category'>{html.escape(cat)}</div><div class='badges'>{badge_html}</div></div>"
             f"<h2><a href='{html.escape(i['link'], quote=True)}' target='_blank' rel='noopener'>{html.escape(i['title'])}</a></h2>"
             f"<p class='summary'>{html.escape(summary)}</p>"
             f"<div class='meta'><span>{dt}</span><span>{html.escape(i['source'])}</span></div>"
@@ -236,12 +262,15 @@ h1{{font-size:1.55rem;margin:0}} .rss{{font-size:.82rem;color:var(--muted)}} a{{
 .grid{{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;align-items:start}}
 .news-card{{background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden;box-shadow:0 2px 10px rgba(0,0,0,.04);break-inside:avoid}}
 .news-card[hidden]{{display:none}}
-.media{{aspect-ratio:16/9;background:#242936;overflow:hidden}}
+.media.has-image{{aspect-ratio:16/9;background:#242936;overflow:hidden}}
 .media img{{width:100%;height:100%;object-fit:cover;display:block}}
-.fallback{{height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;background:linear-gradient(145deg,#303744,#171b23);color:white}}
-.fallback span{{font-size:3rem}} .fallback b{{font-size:.95rem;letter-spacing:.02em}}
+.compact-fallback{{height:72px;display:flex;align-items:center;gap:10px;padding:0 14px;background:linear-gradient(145deg,#303744,#171b23);color:white}}
+.compact-fallback span{{font-size:1.65rem}} .compact-fallback b{{font-size:.9rem;letter-spacing:.02em}}
 .card-body{{padding:14px}}
-.category{{display:inline-block;font-size:.76rem;font-weight:750;background:var(--bg);border-radius:999px;padding:4px 8px;margin-bottom:8px}}
+.topline{{display:flex;align-items:center;justify-content:space-between;gap:8px;flex-wrap:wrap;margin-bottom:8px}}
+.category{{display:inline-block;font-size:.76rem;font-weight:750;background:var(--bg);border-radius:999px;padding:4px 8px}}
+.badges{{display:flex;gap:6px;flex-wrap:wrap}}
+.alert-badge{{display:inline-block;font-size:.74rem;font-weight:800;border:1px solid var(--line);background:var(--bg);border-radius:999px;padding:4px 8px}}
 h2{{font-size:1.06rem;line-height:1.42;margin:0 0 8px}}
 h2 a{{text-decoration:none}} h2 a:hover{{text-decoration:underline}}
 .summary{{font-size:.91rem;color:var(--muted);margin:0 0 12px;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}}
@@ -273,7 +302,7 @@ function filterNews(category, setHash=true) {{
     if(visible) shown++;
   }});
   buttons.forEach(b=>b.classList.toggle('active',b.dataset.category===category));
-  status.textContent = (category==='all' ? 'すべて' : category) + '：' + shown + '件';
+  status.textContent = (category==='all' ? 'すべて' : category) + '：' + shown + '件' + (shown===0 ? '（現在、新着記事なし）' : '');
   if(setHash) history.replaceState(null,'',category==='all' ? location.pathname : '#'+encodeURIComponent(category));
 }}
 
