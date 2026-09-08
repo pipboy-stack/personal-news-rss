@@ -4,8 +4,8 @@ from pathlib import Path
 from datetime import datetime, timezone, timedelta
 from email.utils import format_datetime
 from urllib.parse import quote_plus
+from urllib.request import Request, urlopen
 import feedparser
-import requests
 from bs4 import BeautifulSoup
 from dateutil import parser as dateparser
 
@@ -113,9 +113,11 @@ def fetch_og_image(url):
         headers = {
             "User-Agent": "Mozilla/5.0 (compatible; PersonalNewsRSS/1.0; +https://github.com/)"
         }
-        r = requests.get(url, headers=headers, timeout=8)
-        r.raise_for_status()
-        soup = BeautifulSoup(r.text, "html.parser")
+        req = Request(url, headers=headers)
+        with urlopen(req, timeout=8) as r:
+            charset = r.headers.get_content_charset() or "utf-8"
+            page = r.read(2_000_000).decode(charset, errors="replace")
+        soup = BeautifulSoup(page, "html.parser")
         for attrs in (
             {"property": "og:image"},
             {"name": "twitter:image"},
@@ -147,7 +149,7 @@ def fetch_one(name,url,hint,kind):
         limit=int(CFG["summary_chars"])
         if len(summary)>limit: summary=summary[:limit].rstrip()+"…"
         guid=hashlib.sha256((link+"|"+title).encode()).hexdigest()
-                image = extract_image(e)
+        image = extract_image(e)
         if not image:
             image = fetch_og_image(link)
         out.append(dict(id=guid,title=title,link=link,summary=summary,source=src,category=cat,published=pub,image=image))
@@ -328,30 +330,30 @@ const buttons=[...document.querySelectorAll('.filter')];
 const cards=[...document.querySelectorAll('.news-card')];
 const status=document.getElementById('status');
 const STORAGE_KEY='personal-news-rss-bookmarks-v1';
-function loadBookmarks(){try{const v=JSON.parse(localStorage.getItem(STORAGE_KEY)||'[]');return new Set(Array.isArray(v)?v:[]);}catch(e){return new Set();}}
+function loadBookmarks(){{try{{const v=JSON.parse(localStorage.getItem(STORAGE_KEY)||'[]');return new Set(Array.isArray(v)?v:[]);}}catch(e){{return new Set();}}}}
 let bookmarks=loadBookmarks();
-function saveBookmarks(){localStorage.setItem(STORAGE_KEY,JSON.stringify([...bookmarks]));}
-function syncBookmarkUI(){cards.forEach(card=>{const on=bookmarks.has(card.dataset.id);card.classList.toggle('bookmarked',on);const btn=card.querySelector('.bookmark-btn');if(btn){btn.classList.toggle('active',on);btn.textContent=on?'★':'☆';btn.title=on?'ブックマークを解除':'ブックマーク';}});}
-function filterNews(category,setHash=true){
+function saveBookmarks(){{localStorage.setItem(STORAGE_KEY,JSON.stringify([...bookmarks]));}}
+function syncBookmarkUI(){{cards.forEach(card=>{{const on=bookmarks.has(card.dataset.id);card.classList.toggle('bookmarked',on);const btn=card.querySelector('.bookmark-btn');if(btn){{btn.classList.toggle('active',on);btn.textContent=on?'★':'☆';btn.title=on?'ブックマークを解除':'ブックマーク';}}}});}}
+function filterNews(category,setHash=true){{
   let shown=0;
-  cards.forEach(card=>{
+  cards.forEach(card=>{{
     let visible;
     if(category==='all') visible=true;
     else if(category==='bookmarks') visible=bookmarks.has(card.dataset.id);
     else visible=card.dataset.category===category;
     card.hidden=!visible;
     if(visible) shown++;
-  });
+  }});
   buttons.forEach(b=>b.classList.toggle('active',b.dataset.category===category));
   const label=category==='all'?'すべて':category==='bookmarks'?'ブックマーク':category;
   status.textContent=label+'：'+shown+'件'+(shown===0?'（現在、新着記事なし）':'');
   if(setHash) history.replaceState(null,'',category==='all'?location.pathname:'#'+encodeURIComponent(category));
-}
-cards.forEach(card=>{const btn=card.querySelector('.bookmark-btn');if(!btn)return;btn.addEventListener('click',e=>{e.preventDefault();e.stopPropagation();const id=card.dataset.id;if(bookmarks.has(id))bookmarks.delete(id);else bookmarks.add(id);saveBookmarks();syncBookmarkUI();const active=buttons.find(b=>b.classList.contains('active'))?.dataset.category||'all';if(active==='bookmarks')filterNews('bookmarks',false);});});
+}}
+cards.forEach(card=>{{const btn=card.querySelector('.bookmark-btn');if(!btn)return;btn.addEventListener('click',e=>{{e.preventDefault();e.stopPropagation();const id=card.dataset.id;if(bookmarks.has(id))bookmarks.delete(id);else bookmarks.add(id);saveBookmarks();syncBookmarkUI();const active=buttons.find(b=>b.classList.contains('active'))?.dataset.category||'all';if(active==='bookmarks')filterNews('bookmarks',false);}});}});
 buttons.forEach(b=>b.addEventListener('click',()=>filterNews(b.dataset.category)));
 syncBookmarkUI();
 let initial='all';
-if(location.hash){try{const h=decodeURIComponent(location.hash.slice(1));if(buttons.some(b=>b.dataset.category===h))initial=h;}catch(e){}}
+if(location.hash){{try{{const h=decodeURIComponent(location.hash.slice(1));if(buttons.some(b=>b.dataset.category===h))initial=h;}}catch(e){{}}}}
 filterNews(initial,false);
 </script>
 </body>
