@@ -242,10 +242,11 @@ def write_index(items):
         image = i.get("image", "")
         if image:
             media = (
+                f"<a class='media-link' href='{html.escape(i['link'], quote=True)}' target='_blank' rel='noopener' aria-label='{html.escape(i['title'], quote=True)}'>"
                 f"<div class='media has-image'>"
                 f"<img src='{html.escape(image, quote=True)}' alt='' loading='lazy' referrerpolicy='no-referrer' "
-                f"onerror=\"this.parentElement.outerHTML='<div class=&quot;compact-fallback&quot;><span>{emoji}</span><b>{html.escape(visual_label)}</b></div>'\">"
-                f"</div>"
+                f"onerror=\"this.closest('a').outerHTML='<div class=&quot;compact-fallback&quot;><span>{emoji}</span><b>{html.escape(visual_label)}</b></div>'\">"
+                f"</div></a>"
             )
         else:
             media = f"<div class='compact-fallback'><span>{emoji}</span><b>{html.escape(visual_label)}</b></div>"
@@ -294,8 +295,8 @@ h1{{font-size:1.55rem;margin:0}} .rss{{font-size:.82rem;color:var(--muted)}} a{{
 .grid{{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;align-items:start}}
 .news-card{{background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden;box-shadow:0 2px 10px rgba(0,0,0,.04);break-inside:avoid}}
 .news-card[hidden]{{display:none}}
-.media.has-image{{aspect-ratio:16/9;background:#242936;overflow:hidden}}
-.media img{{width:100%;height:100%;object-fit:cover;display:block}}
+.media-link{{display:block;text-decoration:none}}\n.media.has-image{{aspect-ratio:16/9;background:#242936;overflow:hidden;cursor:pointer}}
+.media img{{width:100%;height:100%;object-fit:cover;display:block;transition:transform .18s ease}}\n.media-link:hover img{{transform:scale(1.02)}}
 .compact-fallback{{height:72px;display:flex;align-items:center;gap:10px;padding:0 14px;background:linear-gradient(145deg,#303744,#171b23);color:white}}
 .compact-fallback span{{font-size:1.65rem}} .compact-fallback b{{font-size:.9rem;letter-spacing:.02em}}
 .card-body{{padding:14px}}
