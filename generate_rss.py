@@ -5,6 +5,7 @@ from datetime import datetime, timezone, timedelta
 from email.utils import format_datetime
 from urllib.parse import quote_plus
 import feedparser
+import requests
 from bs4 import BeautifulSoup
 from dateutil import parser as dateparser
 
@@ -105,6 +106,29 @@ CATEGORY_VISUALS = {
     "オリジナルドラマ": ("📺", "ドラマ"),
 }
 
+def fetch_og_image(url):
+    if not url or not url.startswith(("http://", "https://")):
+        return ""
+    try:
+        headers = {
+            "User-Agent": "Mozilla/5.0 (compatible; PersonalNewsRSS/1.0; +https://github.com/)"
+        }
+        r = requests.get(url, headers=headers, timeout=8)
+        r.raise_for_status()
+        soup = BeautifulSoup(r.text, "html.parser")
+        for attrs in (
+            {"property": "og:image"},
+            {"name": "twitter:image"},
+            {"property": "twitter:image"},
+        ):
+            tag = soup.find("meta", attrs=attrs)
+            if tag and tag.get("content"):
+                return tag["content"].strip()
+    except Exception:
+        pass
+    return ""
+
+
 def fetch_one(name,url,hint,kind):
     feed=feedparser.parse(url)
     out=[]
@@ -123,7 +147,10 @@ def fetch_one(name,url,hint,kind):
         limit=int(CFG["summary_chars"])
         if len(summary)>limit: summary=summary[:limit].rstrip()+"…"
         guid=hashlib.sha256((link+"|"+title).encode()).hexdigest()
-        out.append(dict(id=guid,title=title,link=link,summary=summary,source=src,category=cat,published=pub,image=extract_image(e)))
+                image = extract_image(e)
+        if not image:
+            image = fetch_og_image(link)
+        out.append(dict(id=guid,title=title,link=link,summary=summary,source=src,category=cat,published=pub,image=image))
     return out
 
 def collect():
@@ -196,7 +223,10 @@ def write_index(items):
     ]
     cats = preferred
 
-    buttons = ["<button class='filter active' data-category='all'>すべて</button>"]
+    buttons = [
+        "<button class='filter active' data-category='all'>すべて</button>",
+        "<button class='filter bookmark-filter' data-category='bookmarks'>★ ブックマーク</button>"
+    ]
     buttons += [
         f"<button class='filter' data-category='{html.escape(c, quote=True)}'>{html.escape(c)}</button>"
         for c in cats
@@ -224,10 +254,10 @@ def write_index(items):
             for icon, label in detect_game_badges(i["title"], summary, cat)
         )
         cards.append(
-            f"<article class='news-card' data-category='{html.escape(cat, quote=True)}'>"
+            f"<article class='news-card' data-category='{html.escape(cat, quote=True)}' data-id='{html.escape(i['id'], quote=True)}'>"
             f"{media}"
             f"<div class='card-body'>"
-            f"<div class='topline'><div class='category'>{html.escape(cat)}</div><div class='badges'>{badge_html}</div></div>"
+            f"<div class='topline'><div class='category'>{html.escape(cat)}</div><div class='top-actions'><div class='badges'>{badge_html}</div><button class='bookmark-btn' type='button' aria-label='ブックマーク' title='ブックマーク'>☆</button></div></div>"
             f"<h2><a href='{html.escape(i['link'], quote=True)}' target='_blank' rel='noopener'>{html.escape(i['title'])}</a></h2>"
             f"<p class='summary'>{html.escape(summary)}</p>"
             f"<div class='meta'><span>{dt}</span><span>{html.escape(i['source'])}</span></div>"
@@ -270,7 +300,11 @@ h1{{font-size:1.55rem;margin:0}} .rss{{font-size:.82rem;color:var(--muted)}} a{{
 .topline{{display:flex;align-items:center;justify-content:space-between;gap:8px;flex-wrap:wrap;margin-bottom:8px}}
 .category{{display:inline-block;font-size:.76rem;font-weight:750;background:var(--bg);border-radius:999px;padding:4px 8px}}
 .badges{{display:flex;gap:6px;flex-wrap:wrap}}
+.top-actions{{display:flex;align-items:center;gap:8px;margin-left:auto}}
 .alert-badge{{display:inline-block;font-size:.74rem;font-weight:800;border:1px solid var(--line);background:var(--bg);border-radius:999px;padding:4px 8px}}
+.bookmark-btn{{width:34px;height:34px;border-radius:999px;border:1px solid var(--line);background:var(--chip);color:var(--text);font-size:1.3rem;line-height:1;cursor:pointer;display:grid;place-items:center}}
+.bookmark-btn.active{{background:#f2c94c;color:#111;border-color:#f2c94c}}
+.news-card.bookmarked{{outline:1px solid rgba(242,201,76,.55)}}
 h2{{font-size:1.06rem;line-height:1.42;margin:0 0 8px}}
 h2 a{{text-decoration:none}} h2 a:hover{{text-decoration:underline}}
 .summary{{font-size:.91rem;color:var(--muted);margin:0 0 12px;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}}
@@ -282,7 +316,7 @@ h2 a{{text-decoration:none}} h2 a:hover{{text-decoration:underline}}
 <body>
 <div class="wrap">
 <header>
-  <div><h1>Personal News RSS</h1><div class="rss">画像付きニュースカード</div></div>
+  <div><h1>Personal News RSS</h1><div class="rss">画像付きニュースカード（記事画像優先）</div></div>
   <div class="rss">RSSリーダー登録用：<a href="feed.xml">feed.xml</a></div>
 </header>
 <nav class="toolbar">{''.join(buttons)}</nav>
@@ -293,27 +327,31 @@ h2 a{{text-decoration:none}} h2 a:hover{{text-decoration:underline}}
 const buttons=[...document.querySelectorAll('.filter')];
 const cards=[...document.querySelectorAll('.news-card')];
 const status=document.getElementById('status');
-
-function filterNews(category, setHash=true) {{
+const STORAGE_KEY='personal-news-rss-bookmarks-v1';
+function loadBookmarks(){try{const v=JSON.parse(localStorage.getItem(STORAGE_KEY)||'[]');return new Set(Array.isArray(v)?v:[]);}catch(e){return new Set();}}
+let bookmarks=loadBookmarks();
+function saveBookmarks(){localStorage.setItem(STORAGE_KEY,JSON.stringify([...bookmarks]));}
+function syncBookmarkUI(){cards.forEach(card=>{const on=bookmarks.has(card.dataset.id);card.classList.toggle('bookmarked',on);const btn=card.querySelector('.bookmark-btn');if(btn){btn.classList.toggle('active',on);btn.textContent=on?'★':'☆';btn.title=on?'ブックマークを解除':'ブックマーク';}});}
+function filterNews(category,setHash=true){
   let shown=0;
-  cards.forEach(card => {{
-    const visible = category==='all' || card.dataset.category===category;
+  cards.forEach(card=>{
+    let visible;
+    if(category==='all') visible=true;
+    else if(category==='bookmarks') visible=bookmarks.has(card.dataset.id);
+    else visible=card.dataset.category===category;
     card.hidden=!visible;
     if(visible) shown++;
-  }});
+  });
   buttons.forEach(b=>b.classList.toggle('active',b.dataset.category===category));
-  status.textContent = (category==='all' ? 'すべて' : category) + '：' + shown + '件' + (shown===0 ? '（現在、新着記事なし）' : '');
-  if(setHash) history.replaceState(null,'',category==='all' ? location.pathname : '#'+encodeURIComponent(category));
-}}
-
+  const label=category==='all'?'すべて':category==='bookmarks'?'ブックマーク':category;
+  status.textContent=label+'：'+shown+'件'+(shown===0?'（現在、新着記事なし）':'');
+  if(setHash) history.replaceState(null,'',category==='all'?location.pathname:'#'+encodeURIComponent(category));
+}
+cards.forEach(card=>{const btn=card.querySelector('.bookmark-btn');if(!btn)return;btn.addEventListener('click',e=>{e.preventDefault();e.stopPropagation();const id=card.dataset.id;if(bookmarks.has(id))bookmarks.delete(id);else bookmarks.add(id);saveBookmarks();syncBookmarkUI();const active=buttons.find(b=>b.classList.contains('active'))?.dataset.category||'all';if(active==='bookmarks')filterNews('bookmarks',false);});});
 buttons.forEach(b=>b.addEventListener('click',()=>filterNews(b.dataset.category)));
+syncBookmarkUI();
 let initial='all';
-if(location.hash) {{
-  try {{
-    const h=decodeURIComponent(location.hash.slice(1));
-    if(buttons.some(b=>b.dataset.category===h)) initial=h;
-  }} catch(e) {{}}
-}}
+if(location.hash){try{const h=decodeURIComponent(location.hash.slice(1));if(buttons.some(b=>b.dataset.category===h))initial=h;}catch(e){}}
 filterNews(initial,false);
 </script>
 </body>
