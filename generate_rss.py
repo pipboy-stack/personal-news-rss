@@ -13,7 +13,7 @@ BASE = Path(__file__).resolve().parent
 CFG = json.loads((BASE/"config.json").read_text(encoding="utf-8"))
 DOCS = BASE/"docs"
 DOCS.mkdir(exist_ok=True)
-JST = timezone(timedelta(hours=9a))
+JST = timezone(timedelta(hours=9))
 
 def clean(v):
     if not v: return ""
@@ -319,7 +319,7 @@ h2 a{{text-decoration:none}} h2 a:hover{{text-decoration:underline}}
 <body>
 <div class="wrap">
 <header>
-  <div><h1>Personal News RSS</h1><div class="rss">画像付きニュースカード（記事画像優先） ・ <a href='external.html'>📡 外部RSS</a></div></div>
+  <div><h1>Personal News RSS</h1><div class="rss">画像付きニュースカード（記事画像優先） ・ <a href='external.html'>📡 外部RSS</a> ・ <a href='rss-admin.html'>⚙ RSS管理</a></div></div>
   <div class="rss">RSSリーダー登録用：<a href="feed.xml">feed.xml</a></div>
 </header>
 <nav class="toolbar">{''.join(buttons)}</nav>
@@ -409,10 +409,175 @@ def write_external_index(items):
     tbs="".join(f"<button class='tf' data-tag='{html.escape(t,quote=True)}'>#{html.escape(t)}</button>" for t in tags[:60])
     page=f"""<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>外部RSS</title><style>
 *{{box-sizing:border-box}}body{{margin:0;background:#111318;color:#edf0f5;font-family:system-ui,sans-serif}}.w{{max-width:1500px;margin:auto;padding:20px}}a{{color:inherit}}nav a,button,select{{background:#1b1f27;color:#edf0f5;border:1px solid #303744;border-radius:999px;padding:7px 11px;margin:3px;text-decoration:none}}.tools,.tagbar{{display:flex;gap:6px;flex-wrap:wrap;margin:12px 0}}.grid{{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}}.card{{background:#1b1f27;border:1px solid #303744;border-radius:15px;overflow:hidden}}.card[hidden]{{display:none}}.media{{display:block;aspect-ratio:16/9;overflow:hidden}}.media img{{width:100%;height:100%;object-fit:cover}}.fallback{{height:72px;display:grid;place-items:center;font-size:2rem;background:#252b36}}.body{{padding:14px}}small,p{{color:#9da6b5}}h2{{font-size:1.05rem}}p{{font-size:.9rem}}.active{{background:#edf0f5;color:#111318}}@media(max-width:1000px){{.grid{{grid-template-columns:repeat(2,1fr)}}}}@media(max-width:620px){{.grid{{grid-template-columns:1fr}}}}
-</style></head><body><div class="w"><h1>📡 外部RSS</h1><nav><a href="index.html">📰 マイニュース</a><a href="external.html">📡 外部RSS</a></nav><div class="tools">サイト <select id="site"><option value="">すべて</option>{opts}</select><button id="clear">解除</button><span id="count"></span></div><div class="tagbar">{tbs}</div><main class="grid">{''.join(cards)}</main></div><script>
+</style></head><body><div class="w"><h1>📡 外部RSS</h1><nav><a href="index.html">📰 マイニュース</a><a href="external.html">📡 外部RSS</a><a href="rss-admin.html">⚙ RSS管理</a></nav><div class="tools">サイト <select id="site"><option value="">すべて</option>{opts}</select><button id="clear">解除</button><span id="count"></span></div><div class="tagbar">{tbs}</div><main class="grid">{''.join(cards)}</main></div><script>
 const cs=[...document.querySelectorAll('.card')],s=document.getElementById('site'),ct=document.getElementById('count');let tag='';function ap(){{let n=0;cs.forEach(c=>{{let ok=(!s.value||c.dataset.site===s.value)&&(!tag||(c.dataset.tags||'').split('|').includes(tag));c.hidden=!ok;if(ok)n++}});ct.textContent=n+'件';document.querySelectorAll('.tf').forEach(b=>b.classList.toggle('active',b.dataset.tag===tag))}}s.onchange=ap;document.getElementById('clear').onclick=()=>{{s.value='';tag='';ap()}};document.querySelectorAll('.tf,.tag').forEach(b=>b.onclick=()=>{{tag=b.dataset.tag;ap();scrollTo(0,0)}});ap();
 </script></body></html>"""
     (DOCS/"external.html").write_text(page,encoding="utf-8")
+
+def write_rss_admin():
+    page = r"""<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>RSS管理</title>
+<style>
+:root{--bg:#111318;--card:#1b1f27;--text:#edf0f5;--muted:#9da6b5;--line:#303744;--accent:#edf0f5}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,"Segoe UI",sans-serif}
+.wrap{max-width:1000px;margin:auto;padding:20px}
+nav{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0 20px}
+nav a{color:inherit;text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:8px 12px;background:var(--card)}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:16px;margin-bottom:16px}
+.grid{display:grid;grid-template-columns:1.1fr 2fr 1fr auto;gap:8px;align-items:end}
+label{display:block;font-size:.78rem;color:var(--muted);margin-bottom:4px}
+input,select,button{width:100%;background:#111318;color:var(--text);border:1px solid var(--line);border-radius:10px;padding:10px}
+button{cursor:pointer;font-weight:700}
+button.primary{background:var(--accent);color:#111318}
+button.danger{color:#ffb4b4}
+.list{display:grid;gap:10px}
+.item{border:1px solid var(--line);border-radius:12px;padding:12px;background:#151922}
+.item-top{display:flex;justify-content:space-between;gap:10px;align-items:start}
+.item-title{font-weight:800}
+.item-url{font-size:.8rem;color:var(--muted);word-break:break-all}
+.badge{display:inline-block;font-size:.72rem;padding:3px 7px;border:1px solid var(--line);border-radius:999px;margin-top:6px}
+.actions{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}
+.actions button{width:auto;padding:7px 10px}
+.toolbar{display:flex;gap:8px;flex-wrap:wrap}
+.toolbar button,.toolbar label{width:auto}
+.note{font-size:.86rem;color:var(--muted);line-height:1.6}
+textarea{width:100%;min-height:160px;background:#0d1015;color:var(--text);border:1px solid var(--line);border-radius:10px;padding:10px}
+@media(max-width:760px){.grid{grid-template-columns:1fr}.toolbar{display:grid;grid-template-columns:1fr 1fr}.toolbar button{width:100%}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<h1>⚙ RSS管理</h1>
+<nav>
+<a href="index.html">📰 マイニュース</a>
+<a href="external.html">📡 外部RSS</a>
+<a href="rss-admin.html">⚙ RSS管理</a>
+</nav>
+
+<div class="panel">
+<h2>RSSを追加</h2>
+<div class="grid">
+<div><label>サイト名</label><input id="name" placeholder="例：サイト名"></div>
+<div><label>RSS URL</label><input id="url" placeholder="https://example.com/feed.xml"></div>
+<div><label>ジャンル</label><input id="genre" placeholder="例：ゲーム"></div>
+<div><button id="add" class="primary">＋ 追加</button></div>
+</div>
+<p class="note">RSSにタグ/category情報がある場合は、外部RSSページで自動取得してタグ表示します。</p>
+</div>
+
+<div class="panel">
+<div class="toolbar">
+<button id="export" class="primary">設定JSONを書き出す</button>
+<button id="copy">JSONをコピー</button>
+<label style="display:inline-block"><input id="importFile" type="file" accept=".json,application/json" style="display:none"><span style="display:inline-block;border:1px solid var(--line);border-radius:10px;padding:10px;cursor:pointer">JSONを読み込む</span></label>
+<button id="clearAll" class="danger">全削除</button>
+</div>
+<p class="note">登録内容はこのブラウザに保存されます。「設定JSONを書き出す」で <b>external_feeds.json</b> を作れます。</p>
+</div>
+
+<div class="panel">
+<h2>登録中のRSS <span id="count"></span></h2>
+<div id="list" class="list"></div>
+</div>
+
+<div class="panel">
+<h2>現在のJSON</h2>
+<textarea id="preview" readonly></textarea>
+<p class="note">GitHub側へ反映する場合は、書き出した <b>external_feeds.json</b> をリポジトリの同名ファイルと置き換えてください。GitHub Pagesは静的サイトなので、ブラウザだけでGitHub上のファイルを安全に直接書き換えることはできません。</p>
+</div>
+</div>
+
+<script>
+const KEY='personal-news-external-feeds-v1';
+let feeds=[];
+
+function load(){
+  try{
+    const x=JSON.parse(localStorage.getItem(KEY)||'[]');
+    feeds=Array.isArray(x)?x:[];
+  }catch(e){feeds=[]}
+}
+function save(){
+  localStorage.setItem(KEY,JSON.stringify(feeds));
+  render();
+}
+function config(){
+  return {feeds:feeds.map(x=>({name:x.name,url:x.url,genre:x.genre||'',enabled:x.enabled!==false}))};
+}
+function render(){
+  const list=document.getElementById('list');
+  list.innerHTML='';
+  feeds.forEach((f,i)=>{
+    const div=document.createElement('div');
+    div.className='item';
+    div.innerHTML=`<div class="item-top"><div><div class="item-title">${esc(f.name||'名称なし')}</div><div class="item-url">${esc(f.url)}</div><span class="badge">${esc(f.genre||'ジャンル未設定')}</span> <span class="badge">${f.enabled!==false?'ON':'OFF'}</span></div></div>
+      <div class="actions"><button data-a="toggle" data-i="${i}">${f.enabled!==false?'OFFにする':'ONにする'}</button><button data-a="edit" data-i="${i}">編集</button><button data-a="delete" data-i="${i}" class="danger">削除</button></div>`;
+    list.appendChild(div);
+  });
+  document.getElementById('count').textContent='('+feeds.length+'件)';
+  document.getElementById('preview').value=JSON.stringify(config(),null,2);
+}
+function esc(s){return String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));}
+
+document.getElementById('add').onclick=()=>{
+  const name=document.getElementById('name').value.trim();
+  const url=document.getElementById('url').value.trim();
+  const genre=document.getElementById('genre').value.trim();
+  if(!url){alert('RSS URLを入力してください');return}
+  try{new URL(url)}catch(e){alert('URLの形式を確認してください');return}
+  feeds.push({name:name||new URL(url).hostname,url,genre,enabled:true});
+  document.getElementById('name').value='';
+  document.getElementById('url').value='';
+  document.getElementById('genre').value='';
+  save();
+};
+
+document.getElementById('list').onclick=e=>{
+  const b=e.target.closest('button'); if(!b)return;
+  const i=Number(b.dataset.i),a=b.dataset.a;
+  if(a==='toggle'){feeds[i].enabled=feeds[i].enabled===false;save()}
+  if(a==='delete'){if(confirm('このRSSを削除しますか？')){feeds.splice(i,1);save()}}
+  if(a==='edit'){
+    const f=feeds[i];
+    const name=prompt('サイト名',f.name); if(name===null)return;
+    const url=prompt('RSS URL',f.url); if(url===null)return;
+    const genre=prompt('ジャンル',f.genre||''); if(genre===null)return;
+    try{new URL(url)}catch(e){alert('URL形式を確認してください');return}
+    feeds[i]={...f,name:name.trim(),url:url.trim(),genre:genre.trim()};save();
+  }
+};
+
+document.getElementById('export').onclick=()=>{
+  const blob=new Blob([JSON.stringify(config(),null,2)],{type:'application/json'});
+  const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='external_feeds.json';a.click();URL.revokeObjectURL(a.href);
+};
+document.getElementById('copy').onclick=async()=>{
+  await navigator.clipboard.writeText(JSON.stringify(config(),null,2));
+  alert('JSONをコピーしました');
+};
+document.getElementById('importFile').onchange=async e=>{
+  const file=e.target.files[0];if(!file)return;
+  try{
+    const data=JSON.parse(await file.text());
+    if(!Array.isArray(data.feeds))throw new Error();
+    feeds=data.feeds.map(x=>({name:x.name||'',url:x.url||'',genre:x.genre||'',enabled:x.enabled!==false})).filter(x=>x.url);
+    save();
+  }catch(err){alert('external_feeds.json の形式を確認してください')}
+  e.target.value='';
+};
+document.getElementById('clearAll').onclick=()=>{
+  if(confirm('登録中のRSSをすべて削除しますか？')){feeds=[];save()}
+};
+load();render();
+</script>
+</body>
+</html>"""
+    (DOCS/"rss-admin.html").write_text(page,encoding="utf-8")
 
 def main():
     items=collect()
@@ -427,6 +592,7 @@ def main():
         except Exception as ex: print("external feed error:",ex)
     external.sort(key=lambda x:x["published"],reverse=True)
     write_external_index(external)
+    write_rss_admin()
     print("generated",len(items),"items")
 
 if __name__=="__main__": main()
