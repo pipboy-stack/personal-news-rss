@@ -1,0 +1,10 @@
+{
+  "feeds": [
+    {
+      "name": "サイト名",
+      "url": "https://example.com/feed.xml",
+      "genre": "ジャンル",
+      "enabled": false
+    }
+  ]
+}
