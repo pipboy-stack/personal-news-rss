@@ -13,7 +13,7 @@ BASE = Path(__file__).resolve().parent
 CFG = json.loads((BASE/"config.json").read_text(encoding="utf-8"))
 DOCS = BASE/"docs"
 DOCS.mkdir(exist_ok=True)
-JST = timezone(timedelta(hours=9))
+JST = timezone(timedelta(hours=9a))
 
 def clean(v):
     if not v: return ""
@@ -319,7 +319,7 @@ h2 a{{text-decoration:none}} h2 a:hover{{text-decoration:underline}}
 <body>
 <div class="wrap">
 <header>
-  <div><h1>Personal News RSS</h1><div class="rss">画像付きニュースカード（記事画像優先）</div></div>
+  <div><h1>Personal News RSS</h1><div class="rss">画像付きニュースカード（記事画像優先） ・ <a href='external.html'>📡 外部RSS</a></div></div>
   <div class="rss">RSSリーダー登録用：<a href="feed.xml">feed.xml</a></div>
 </header>
 <nav class="toolbar">{''.join(buttons)}</nav>
@@ -366,6 +366,54 @@ def slug(s):
            "J-HipHop・音楽":"music","QOL・生活改善":"qol","映画・動画配信":"streaming","オリジナルドラマ":"original-drama"}
     return table.get(s,hashlib.md5(s.encode()).hexdigest()[:8])
 
+def load_external_feeds():
+    p=Path("external_feeds.json")
+    if not p.exists(): return []
+    try:
+        return [x for x in json.loads(p.read_text(encoding="utf-8")).get("feeds",[]) if x.get("enabled",True) and x.get("url")]
+    except Exception as ex:
+        print("external config error:",ex); return []
+
+def entry_tags(e):
+    vals=[]
+    for t in getattr(e,"tags",[]) or []:
+        v=(t.get("term") or t.get("label")) if isinstance(t,dict) else getattr(t,"term",None)
+        if v:
+            v=re.sub(r"\s+"," ",str(v)).strip()
+            if v and v not in vals: vals.append(v)
+    return vals[:8]
+
+def fetch_external_feed(cfg):
+    name=cfg.get("name") or cfg["url"]; genre=cfg.get("genre") or "外部RSS"
+    d=feedparser.parse(cfg["url"]); out=[]
+    for e in d.entries[:40]:
+        title=re.sub(r"\s+"," ",getattr(e,"title","")).strip(); link=getattr(e,"link","").strip()
+        if not title or not link: continue
+        summary=clean_summary(getattr(e,"summary","") or getattr(e,"description","") or "")
+        pub=parse_date(e); guid=hashlib.sha256(("external|"+link+"|"+title).encode()).hexdigest()
+        image=extract_image(e) or fetch_og_image(link)
+        out.append(dict(id=guid,title=title,link=link,summary=summary,source=name,category=genre,published=pub,image=image,tags=entry_tags(e)))
+    return out
+
+def write_external_index(items):
+    sites=sorted({i["source"] for i in items}); tags=sorted({t for i in items for t in i.get("tags",[])},key=str.casefold)
+    cards=[]
+    for i in items[:300]:
+        dt=i["published"].astimezone(JST).strftime("%m/%d %H:%M")
+        if i.get("image"):
+            media=f"<a class='media' href='{html.escape(i['link'],quote=True)}' target='_blank'><img src='{html.escape(i['image'],quote=True)}' loading='lazy' alt=''></a>"
+        else: media="<div class='fallback'>📡</div>"
+        th="".join(f"<button class='tag' data-tag='{html.escape(t,quote=True)}'>#{html.escape(t)}</button>" for t in i.get("tags",[]))
+        cards.append(f"<article class='card' data-site='{html.escape(i['source'],quote=True)}' data-tags='{html.escape('|'.join(i.get('tags',[])),quote=True)}'>{media}<div class='body'><small>{html.escape(i['source'])} ・ {dt}</small><h2><a href='{html.escape(i['link'],quote=True)}' target='_blank'>{html.escape(i['title'])}</a></h2><p>{html.escape(i['summary'])}</p><div>{th}</div></div></article>")
+    opts="".join(f"<option value='{html.escape(s,quote=True)}'>{html.escape(s)}</option>" for s in sites)
+    tbs="".join(f"<button class='tf' data-tag='{html.escape(t,quote=True)}'>#{html.escape(t)}</button>" for t in tags[:60])
+    page=f"""<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>外部RSS</title><style>
+*{{box-sizing:border-box}}body{{margin:0;background:#111318;color:#edf0f5;font-family:system-ui,sans-serif}}.w{{max-width:1500px;margin:auto;padding:20px}}a{{color:inherit}}nav a,button,select{{background:#1b1f27;color:#edf0f5;border:1px solid #303744;border-radius:999px;padding:7px 11px;margin:3px;text-decoration:none}}.tools,.tagbar{{display:flex;gap:6px;flex-wrap:wrap;margin:12px 0}}.grid{{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}}.card{{background:#1b1f27;border:1px solid #303744;border-radius:15px;overflow:hidden}}.card[hidden]{{display:none}}.media{{display:block;aspect-ratio:16/9;overflow:hidden}}.media img{{width:100%;height:100%;object-fit:cover}}.fallback{{height:72px;display:grid;place-items:center;font-size:2rem;background:#252b36}}.body{{padding:14px}}small,p{{color:#9da6b5}}h2{{font-size:1.05rem}}p{{font-size:.9rem}}.active{{background:#edf0f5;color:#111318}}@media(max-width:1000px){{.grid{{grid-template-columns:repeat(2,1fr)}}}}@media(max-width:620px){{.grid{{grid-template-columns:1fr}}}}
+</style></head><body><div class="w"><h1>📡 外部RSS</h1><nav><a href="index.html">📰 マイニュース</a><a href="external.html">📡 外部RSS</a></nav><div class="tools">サイト <select id="site"><option value="">すべて</option>{opts}</select><button id="clear">解除</button><span id="count"></span></div><div class="tagbar">{tbs}</div><main class="grid">{''.join(cards)}</main></div><script>
+const cs=[...document.querySelectorAll('.card')],s=document.getElementById('site'),ct=document.getElementById('count');let tag='';function ap(){{let n=0;cs.forEach(c=>{{let ok=(!s.value||c.dataset.site===s.value)&&(!tag||(c.dataset.tags||'').split('|').includes(tag));c.hidden=!ok;if(ok)n++}});ct.textContent=n+'件';document.querySelectorAll('.tf').forEach(b=>b.classList.toggle('active',b.dataset.tag===tag))}}s.onchange=ap;document.getElementById('clear').onclick=()=>{{s.value='';tag='';ap()}};document.querySelectorAll('.tf,.tag').forEach(b=>b.onclick=()=>{{tag=b.dataset.tag;ap();scrollTo(0,0)}});ap();
+</script></body></html>"""
+    (DOCS/"external.html").write_text(page,encoding="utf-8")
+
 def main():
     items=collect()
     write_feed(items)
@@ -373,6 +421,12 @@ def main():
         write_feed(items,f"feed-{slug(cat)}.xml",cat)
     write_feed(items,"feed-domestic.xml","国内重要ニュース")
     write_index(items)
+    external=[]
+    for cfg in load_external_feeds():
+        try: external.extend(fetch_external_feed(cfg))
+        except Exception as ex: print("external feed error:",ex)
+    external.sort(key=lambda x:x["published"],reverse=True)
+    write_external_index(external)
     print("generated",len(items),"items")
 
 if __name__=="__main__": main()
