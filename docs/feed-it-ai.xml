@@ -4,167 +4,153 @@
 <link>https://example.invalid/</link>
 <description>個人用ニュースフィード</description>
 <language>ja</language>
-<lastBuildDate>Sun, 13 Sep 2026 03:06:26 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 09:35:11 +0000</lastBuildDate>
 <item>
-<title>韓国サムスンSDS、OpenAI「デイブレイク」に国内企業で初参加…AIセキュリティー強化</title>
-<link>https://news.google.com/rss/articles/CBMickFVX3lxTE93cXNDemVLVThMeVliaG9ZX2hKX29LanNlMFdEU25jaGtfLUw5S19MSlJueDY4c3BJc01oWThJa1BJbzI4TjVwWXo0eEZ1Nl81Qzk1OTFzeFRaZjFZVGxpNWhRMmJucHBLRkdjNnZsMkdWUdIBVEFVX3lxTE83b1NjU3NtSGh6NmVmdVMtVFBZcHNjNW5DS3pzZ0I3XzZsVTgybGcwQTlsVEd1dnlaSnJheDMtMzJsUHNiaXRlZXo0ZVZaWjRFZUU5Vg?oc=5</link>
-<guid isPermaLink="false">2ddea33db6e3e115062b529a135f3b8e4030bc7d19b75535ff7a38c0300a0486</guid>
-<pubDate>Sun, 13 Sep 2026 02:46:18 +0000</pubDate>
+<title>「これが本当ならヤバくない？」Geminiが吐き出した”他人の履歴書”、バグの正体</title>
+<link>https://news.google.com/rss/articles/CBMiQkFVX3lxTE5wR013THZBdkNhcXN3NEVSNmhHS09PQXFwbVF0TWNPWmYyNVRVN0E3MEFKY1dsQnkwdmxUVTJ6MjRBQQ?oc=5</link>
+<guid isPermaLink="false">4f93a90bfe58b69d1418d1b30b2453dfddaf843bd6103a1fef22da1fa3ae22e7</guid>
+<pubDate>Sun, 13 Sep 2026 08:27:12 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>韓国サムスンSDS、OpenAI「デイブレイク」に国内企業で初参加…AIセキュリティー強化 AFPBB News</p><p><b>ソース:</b> AFPBB News</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>「これが本当ならヤバくない？」Geminiが吐き出した”他人の履歴書”、バグの正体 shiritomo</p><p><b>ソース:</b> shiritomo</p>]]></description>
 </item><item>
-<title>OpenAIの安全研究者が異例の警告…「AIを制御できなくなれば、多くの人が命を落とす」（海外）</title>
-<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1PcVBTMklDeHd6cVVWU05wdGpzSi05QW5aRWJJN1MwakRFZlJUN1ppSlUxNnlkOF9LWDBfb2xQUldiUnI1WlZ4MWRUaXRLblMwa0FMMFNEcWtLS25DdFlfbTFWc1V2ckdFaGZIeWJtcFJLUUp4eEdXcUhXSXNlTWs?oc=5</link>
-<guid isPermaLink="false">4b116f52e6cce514708a59e1ee14382065bacd4a7a88e7d4c88ad7afdffd791a</guid>
-<pubDate>Sun, 13 Sep 2026 02:10:02 +0000</pubDate>
+<title>米アンソロピックCEO“AI開発ペース減速させる必要”</title>
+<link>https://news.web.nhk/newsweb/na/nd-20260913de49934</link>
+<guid isPermaLink="false">bb2e32d3ba7894c9c2d3fe248796e9c8eddc35d62bfc0bbe991b03a60143b456</guid>
+<pubDate>Sun, 13 Sep 2026 08:24:03 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIの安全研究者が異例の警告…「AIを制御できなくなれば、多くの人が命を落とす」（海外） Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>アメリカのAI新興企業アンソロピックのCEOは、AIが急速に進歩し、人間が制御する能力を上回る可能性があるとして、開発を減速させる必要があるとの考えを示しました。</p><p><b>ソース:</b> NHK 国内</p>]]></description>
 </item><item>
-<title>「生成AI活用ガイドライン」をつくりました｜ほぼ週刊あやこcafeラジオ第229回</title>
-<link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EbGZORGVjU2tmM1pGaWE4TmRSSnB3czVyOEg5Yk5hYjZhZHRDM3JQbm9JMVB0ZlgtOTRLbXpTSEEwYXRaOUgyZFA0WlB0T1NxMXFyX0xpUGVfUlZhdVE?oc=5</link>
-<guid isPermaLink="false">2e77b48d5dbc6fe24e0ecace40fed86949563a8337640e701365cc4af54bf505</guid>
-<pubDate>Sun, 13 Sep 2026 02:02:18 +0000</pubDate>
+<title>大規模言語モデル研究開発センターが公開した視覚AI「LLM-jp-4-VL 9B」、Opus 4.8に肉薄するマルチモーダルAI「DeepSeek-V4-Flash-Vision-Exp」など生成AI技術5つを解説（生成AIウィークリー）</title>
+<link>https://news.google.com/rss/articles/CBMibkFVX3lxTE1WNTJZa3kxNEs0dGVVbVpZTnQ2T1YxdGx4dnU4Skt2bTdyTFhSNDFhVDVUVUdPVzU0OTU1OHRCUE9WSUVoTUktRmk0blYySEdYejBYemJpcUtWdjh2dG5UNUxSeGJoam1IckpGclNR?oc=5</link>
+<guid isPermaLink="false">4ca51f2c6ce32ac1c55478a2853ce939a6280314ff4cd7f99e5466dc0dd1f3b8</guid>
+<pubDate>Sun, 13 Sep 2026 08:10:39 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>「生成AI活用ガイドライン」をつくりました｜ほぼ週刊あやこcafeラジオ第229回 選挙ドットコム</p><p><b>ソース:</b> 選挙ドットコム</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>大規模言語モデル研究開発センターが公開した視覚AI「LLM-jp-4-VL 9B」、Opus 4.8に肉薄するマルチモーダルAI「DeepSeek-V4-Flash-Vision-Exp」など生成AI技術5つを解説（生成AIウィークリー） au Webポータル</p><p><b>ソース:</b> au Webポータル</p>]]></description>
 </item><item>
-<title>Anthropic、中国AIがClaudeを裏側で利用と報告 Kimi・DeepSeekのユーザー入力転送、Alibaba蒸留、兵器開発にも悪用</title>
-<link>https://news.google.com/rss/articles/CBMiigFBVV95cUxNNV8yX2pfZERRa2RYMUFib3Z4YW1YcElmamFTT0txQVEtOGlMcjVVUllqNnFNY0ZFeWJ6TE9MSGdxNnN5MkFYcEhQT1lkR0pvNFJOT3Z6amdtTWVmVGNiM1k5dWVMVmhEa1phbVdxcDdHQjg2ZlJiXzlOYWphWFVJQlhNcExJbzh4UVE?oc=5</link>
-<guid isPermaLink="false">8f551788628241fe9fd683fe5d6ca49b5986f440d5b044f7430692ab96892f1f</guid>
-<pubDate>Sun, 13 Sep 2026 02:00:46 +0000</pubDate>
+<title>「スロップ・ジハード」──生成AIが生み出した、ミーム・プロパガンダの不穏な進化</title>
+<link>https://news.google.com/rss/articles/CBMiggFBVV95cUxQVzNWWlpUcGUtOE92SHJyR2xveHRYckt6dHFBWU82eXRMVGRzUk1JWVY2bDJFTkFpT0xpdks2VWl2UjNNZGtDWkt4S1BkV3VTTmhGSV9UX0dISFdhYlh3akZEU3VMMXFGc19jNnR3d0pPSFdUci1wT2lkOVZTY3ptXzZ3?oc=5</link>
+<guid isPermaLink="false">0172ecb8832343f4f53998a0f96f205ba2cb139659084419c162891950f1cd70</guid>
+<pubDate>Sun, 13 Sep 2026 08:00:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Anthropic、中国AIがClaudeを裏側で利用と報告 Kimi・DeepSeekのユーザー入力転送、Alibaba蒸留、兵器開発にも悪用 合同会社ロケットボーイズ</p><p><b>ソース:</b> 合同会社ロケットボーイズ</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>「スロップ・ジハード」──生成AIが生み出した、ミーム・プロパガンダの不穏な進化 WIRED.jp</p><p><b>ソース:</b> WIRED.jp</p>]]></description>
 </item><item>
-<title>Amazon、「ChatGPT」に広告を配信 AIで商品探しのニーズに対応</title>
-<link>https://news.google.com/rss/articles/CBMigAFBVV95cUxNNHNNNEV5ZG1tc1FXUTNMUEk3M0dldUpIaW1VTXlFNFNybTFYTjFSb055WnZ0NHpRRVVrVWhsdE9Uc3pVM2FNM1lDR3I5bEZmbEF2X2RfdVM3bExsT0FlREI1UWRFUTZPTURZZ3Iwa3pvNlpBaEdzUEZJMDQ3LUxlSw?oc=5</link>
-<guid isPermaLink="false">a7cbb9c40a2d830b67a054fca42aad3e63593dec3cddab1323af02758d1ec805</guid>
-<pubDate>Sun, 13 Sep 2026 01:41:39 +0000</pubDate>
+<title>Anthropic、AIモデル「Claude」による4件目の不正アクセスを発表</title>
+<link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE96VnV3cUR5Tjl3d2pydWZkOGgyNTFmTGdkWUNVRTI4OTNpZkp5MlQxc1pGMWZiSEdRdUlhWlBaZEdEYmcySnRTenotanBPX2tKZ0tiYVl1YkdXMkhBemh3VmN0UUVEZ1Ny?oc=5</link>
+<guid isPermaLink="false">cc33eb5388912022d3475466e32bf585ba9b7dbbce1006e78621e6f301b56577</guid>
+<pubDate>Sun, 13 Sep 2026 07:41:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Amazon、「ChatGPT」に広告を配信 AIで商品探しのニーズに対応 UQライフ</p><p><b>ソース:</b> UQライフ</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Anthropic、AIモデル「Claude」による4件目の不正アクセスを発表 マイナビニュース</p><p><b>ソース:</b> マイナビニュース</p>]]></description>
 </item><item>
-<title>生成AIは訪日旅行者に日本のどこを薦める？56project、14地域のAI可視性をAPI観測、初回レポートを公開</title>
-<link>https://news.google.com/rss/articles/CBMiakFVX3lxTFBUUkdtTERWcW9ld0FYSjViWTFNOFlHS3k1LUo4VGIwRFh6TWZVLVBKamgzSXpneG8wdWJEdlBKSmdlOHBGbnJDMDZvdHluU3EwUDE0aDJ1ejJGNXZNbi01N2VrRFVUaGt0dmc?oc=5</link>
-<guid isPermaLink="false">c5cf0af15a6517ff95b1711ac6ff33f3343759e00e31f5abd797d959ac36f49f</guid>
-<pubDate>Sun, 13 Sep 2026 01:22:08 +0000</pubDate>
+<title>イーロン・マスクがOpenAIを提訴、非営利化と賠償を要求</title>
+<link>https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpSXVnd3IxVTlHS29KclBHbmxZNFcxLTk2UlBwMXJ1bnpqQ3g2SmUyV2pJR1ZvZkVmUUZmbndaS1pCZ1NyVDlqZHY5ZER4U3d5bG9pQUJwRXZHUFc0YW9v?oc=5</link>
+<guid isPermaLink="false">c8a5292fa94fefde832212f0a3ed7d60f2f223d518aeeb929bf4316e396592a4</guid>
+<pubDate>Sun, 13 Sep 2026 07:37:29 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>生成AIは訪日旅行者に日本のどこを薦める？56project、14地域のAI可視性をAPI観測、初回レポートを公開 PR TIMES</p><p><b>ソース:</b> PR TIMES</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>イーロン・マスクがOpenAIを提訴、非営利化と賠償を要求 Межа. Новини України.</p><p><b>ソース:</b> Межа. Новини України.</p>]]></description>
 </item><item>
-<title>〈AIリスク〉アンソロピックの｢Claude｣がロシアやイエメンで軍事兵器の開発支援に悪用されていた実態が明らかに</title>
-<link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xdWR2cE5DWVZSVklMaXp0bTlyQUdWbF95ZGIwd3Q5aTJzSGdXOUR3LVQxZG1MNGVwb19UdmxpWmxrZlpZTG14MENfdG04d1ZvX3c?oc=5</link>
-<guid isPermaLink="false">2da134bd7339017669745aaf51b0013561c3ca7b3825bc452d053a1153dc8965</guid>
-<pubDate>Sun, 13 Sep 2026 01:15:00 +0000</pubDate>
+<title>OpenAI、「GPT-Live-1」をAPI提供 聞きながら話す全二重音声をアプリに実装可能に</title>
+<link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pbDRlc0RJQ0d5TkM3d2FfQXoxTlZHME1XRWx3ZWRVNkRjUEZma0NpczdyR3U4LWtWQkVUNUFhSmJ2dHNYdUdScXpDVm5zaGVIVzBOLWgtam5IQ2I0MUl5M2psY9IBaEFVX3lxTFBqWWd6dWxNWGNOM1VTQ1lyb2ZKWUJlUDFKU2xobXRzMVdyN3c3SzNFVjRSYWJvYTlUNU1YRURyNWhuUUZ3d002cFVqdmp2OFFiOHNpR0VPRFdiYUtMQ0o5YjY4WXJRUThE?oc=5</link>
+<guid isPermaLink="false">a2d431791c00140a699520f8f70f618a804ef9458643c7db19b6b4624235c589</guid>
+<pubDate>Sun, 13 Sep 2026 07:32:44 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>〈AIリスク〉アンソロピックの｢Claude｣がロシアやイエメンで軍事兵器の開発支援に悪用されていた実態が明らかに 東洋経済オンライン</p><p><b>ソース:</b> 東洋経済オンライン</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI、「GPT-Live-1」をAPI提供 聞きながら話す全二重音声をアプリに実装可能に 財経新聞</p><p><b>ソース:</b> 財経新聞</p>]]></description>
 </item><item>
-<title>デジタル・ナレッジ、学習履歴と生成ＡＩによるキャリア形成支援システムを開発</title>
-<link>https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2QTNQblpZTWpHOWJ3Y0s3QVBVVGEzaUlvUzIyYVB2cVhZaGh6OVZ4ZWhKNXM3bGstLUFmVXFVUlVERkpYR0VKR29jdVJXT0VYRFE?oc=5</link>
-<guid isPermaLink="false">2b3416feaad8cd93bb063b402a34194f0a3315b660ab1975f815965b86814c68</guid>
-<pubDate>Sun, 13 Sep 2026 00:05:44 +0000</pubDate>
+<title>Android「システム サービス」ブラックアウト不具合発生中【2026年9月中旬】</title>
+<link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQREtBS0ZFeVdDV2dlRVZLSGVBRjFfeVZ6NXJ6Qk41d093RXpPcGVmejdiYXZoVF94MkZuX1JGYkdDMzE1Q0ZRYWhtcVI5WThMTmt0cjZHZE9YTUc3UFk1alZVb3FmN2gtMnQ2OWhMb1dWeFNRTkswWkxSNTJHcFlpYTRLWjl4d19rWmxGN0taUmNBUQ?oc=5</link>
+<guid isPermaLink="false">9d73b296edb34bfb6485487a056221f1e14a2b66524a4dc514cf1042a4137849</guid>
+<pubDate>Sun, 13 Sep 2026 07:13:59 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>デジタル・ナレッジ、学習履歴と生成ＡＩによるキャリア形成支援システムを開発 月刊私塾界</p><p><b>ソース:</b> 月刊私塾界</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Android「システム サービス」ブラックアウト不具合発生中【2026年9月中旬】 jetstream.blog</p><p><b>ソース:</b> jetstream.blog</p>]]></description>
+</item><item>
+<title>GPT-6 Astra：新世代の応答性能</title>
+<link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE16WUVGUTk5cW9XTF9YTkR2VGY1LXRDQ1lUejNTZF9kWF94Ymw1eUlwd2lGTmp3MGNvSm9YY2ZEejlobEUxTncyX2ptOXZmVENsTXdMQk5n?oc=5</link>
+<guid isPermaLink="false">fa7193f4b6b03ffa4778d31084337723cc81de1ab8307f4e9ab8cd42372f4510</guid>
+<pubDate>Sun, 13 Sep 2026 06:51:52 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>GPT-6 Astra：新世代の応答性能 openai.com</p><p><b>ソース:</b> openai.com</p>]]></description>
+</item><item>
+<title>サム・アルトマン氏、2026年のOpenAI上場を否定 理由は「AI安全性への対応は道半ば」</title>
+<link>https://news.google.com/rss/articles/CBMi3gNBVV95cUxOMmRUX05NLXM5UGVYejJ4Ti1hN1gzVGV2WjJiTmgyNUZSYk01VVZRM0hYZ1ROMzd4RE5QNHlxYW9xWDFyQU0tU01HeHNBbFA5M3Z6TGVTMnE2X2xhNzB4ZW1pYmEzUExyYWRWeVZUbEdCY2NTM0VmZ1pjdk5zWnc2RHhwTDNtY0p3UkNoTlRsSkJrT3RtS1RKVUF3WGllZV9YQU1MWDMzMGl3OVlES1FkYTdvczk4eE9HcW9sa1ZIbjRtOTE5d0VyTnRvMUlpV1JNUGxjRXgxOFpWZlRWWkNKcjBvZGRjeEtyQ0QxcFUtSldUQXZVWVRhbXEzSERhUFJLNUxlRVprNjc5bC12NThmZmtkd2xVRlNjWWx5NEZiUTI5Z004U2pyZWg5M2w1LWxzbUR2Q2JBOHlkM2VfQktVbnE1UGJDbjdFSW9pNGFaQmp1MVpHQkZLQXV5RTJuaVlocDBsMFBZbENtNEhON1ktRENhWXMtcTNvb0lGT3NXeWJRY29UdEpNc2NYM1EyTXQtb3VGcVpTY2k5aEl1WWhzTlgwcUNaYlJWRVZXYzdCVnh2aVk4YjEwblJnX3JvUlFuMG1EVy1TdkxRd25XN01DaE1lWDBvQ1BGQVhFUVN3?oc=5</link>
+<guid isPermaLink="false">ec2ba80a90d44fe16cb56a77421bf0949a985d50cc58b778e0b381bf5bcb27c2</guid>
+<pubDate>Sun, 13 Sep 2026 06:47:57 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>サム・アルトマン氏、2026年のOpenAI上場を否定 理由は「AI安全性への対応は道半ば」 Yellow.com</p><p><b>ソース:</b> Yellow.com</p>]]></description>
+</item><item>
+<title>iOS 27月曜リリース：SiriにGoogle Gemini採用、EU向けは対象外</title>
+<link>https://news.google.com/rss/articles/CBMivwJBVV95cUxPSHNHd3lyTG1qSWNORXRZR1NfdnkwVXlHVEFiVW9wLWladDc4NjFVVEJhbmVMVkRhVFR3dllNT05rNUtvNVFNYmlMSERLZ1M1cXJ1MFJ2WUs3dm94Vk1ZeEVZZHRXV19vNDRYb2w1R1N4cGFkOV9kMWVDUlBNSFNfVmQ0bklIakE1QWNrcEs2WGRZbU9KVmlhel9RVm0xeUZ2eGU1R2xKcUNGeWRtRWs3eDk2TmRyMmxYejItZVppUmlJaWpwLVpWYThWamRxWmRHMlg1UXJwZlJoSTZFeDZJZjIxbXJfeTR1dlhZb2V3LWctQjctbEFKRnR5OEVOaTBmSWVlTENtY0ZwWV9WdFFmalJiV2U2VmdvSjNMbkJWY3NmRGxkN0pzNEtRTEg3YWxDY0xQTGYtbHp3Q1FTSmcw?oc=5</link>
+<guid isPermaLink="false">1c4389ddf3ec22c2435acd0bc4caabe8ffc6fe8d2e3cae833db2c810d1159bb1</guid>
+<pubDate>Sun, 13 Sep 2026 06:25:21 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>iOS 27月曜リリース：SiriにGoogle Gemini採用、EU向けは対象外 Martin Cid Magazine</p><p><b>ソース:</b> Martin Cid Magazine</p>]]></description>
+</item><item>
+<title>OpenAI、26年内は上場せず アルトマンCEO「AIの安全対策を優先」</title>
+<link>https://news.google.com/rss/articles/CBMibEFVX3lxTE1BVVdNeUxGZjd5OXZvMGQ1RTlnZVZ4S2VOZU1Zb2JKNEJ4eDdLelZUMGViblhBd0RjLVp3X1hPeHdZZWw0c09WdnNZVmlmRnppcHczcFVsMDZob2dQVU1OWGotZ0NvVTlOM2JOcw?oc=5</link>
+<guid isPermaLink="false">b97464ed279c2dbce33a5a006bbf8284ff2571461dcfb7498e0bfaf44f9da9f0</guid>
+<pubDate>Sun, 13 Sep 2026 05:40:31 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI、26年内は上場せず アルトマンCEO「AIの安全対策を優先」 日本経済新聞</p><p><b>ソース:</b> 日本経済新聞</p>]]></description>
+</item><item>
+<title>生成AIが社会に与える影響とは？岡山大学が無料セミナー</title>
+<link>https://news.google.com/rss/articles/CBMiRkFVX3lxTE16NXNScnNuRzAyd3JLaXc4eU1Rcm5XNHFBM2NoWV9ybnd4b2dPXzQ0MFh4VXNPczF2Uy1rR204X1UwSm5ON3c?oc=5</link>
+<guid isPermaLink="false">f9800656effb7b7ef6fb4eb584f2ea7252f48c28bc3b7c309057e2fba1e0d2a8</guid>
+<pubDate>Sun, 13 Sep 2026 05:22:25 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>生成AIが社会に与える影響とは？岡山大学が無料セミナー Koubo</p><p><b>ソース:</b> Koubo</p>]]></description>
+</item><item>
+<title>Googleがついに法務AI参入 Claude追撃で激化する「主導権争い」（ITmedia ビジネスオンライン）</title>
+<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5wMmV6enRMdVJENkwyLVpFZ0RaOUstNnA2TTlGYlFmNGxMV29TUE5YeGZBVVpHc3Z0cUF3Z0xFUXphU2FaZmdaMDdvTTc4MF93ZGZ0dGVOV2Q4bUlBSWwxTVZNbE82ZlYzZDVrVlpSYmxnX3dJbGZ4MTNtNEstbjQ?oc=5</link>
+<guid isPermaLink="false">0cf7520e57236cf97de30845cc692f9766c93076c4fff0c0540803441a18a1f4</guid>
+<pubDate>Sun, 13 Sep 2026 03:52:49 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Googleがついに法務AI参入 Claude追撃で激化する「主導権争い」（ITmedia ビジネスオンライン） Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
+</item><item>
+<title>Googleがついに法務AI参入 Claude追撃で激化する「主導権争い」</title>
+<link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQSHVzdDVCUW5fV0ZZai1kbmFad2JPVktZWXlWdUswaVg2OG1tdnQ1YWdxb1paZlpScXRUbTdKU1V5eHBPclF5cVdubHpuRlUwdzk3LXl3Y0xmMWtGNC11MGJRVmwtZThZZl8xLTRiS1NIOGN6Y1BtbzJRbVVHN0JDR3RzNDE1THJVWDRtLVhDOTY0TTJ4QnhnWHJsSk1mSTJJ0gGcAUFVX3lxTFBGTFVwNFpKMkFoZkZ2QVB1Zy16d2JwcU5UQkRtRDBEUXBEY1NJY0lCWkR4ZEpMSjBQdHJaazNPWUt1S2pyMHp6SmFFYVhZMktLbVlHbVNxWl90TktGNFBCYVR1VUkwYUpaVmZ6RmR6VjJlWW4xemNGcnV6cUFGSnlMSTFPUlNLTDhoTkM4bWM3TWFZZTBSa0NSSDBUcQ?oc=5</link>
+<guid isPermaLink="false">0cedcbd00f2f13aa7d903cf0ba289d42f9b9d1b915022e885bb4910a4c3ede48</guid>
+<pubDate>Sun, 13 Sep 2026 03:52:00 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Googleがついに法務AI参入 Claude追撃で激化する「主導権争い」 ｄメニューニュース</p><p><b>ソース:</b> ｄメニューニュース</p>]]></description>
 </item><item>
 <title>Anthoropic CEOが「AI開発の減速」提言 OpenAIアルトマン氏、イーロン・マスク氏も賛同</title>
-<link>https://news.google.com/rss/articles/CBMieEFVX3lxTE1TeEh5M2trcDFDVUY1ZHBFYWpVU3Q2dnFrVGY2Zjk4WWd2UWx4djRLMTlxLURsZTR4ZmR1bUJvNm9INzR6ay1tblA0elJxYlFfanFpUjN3a3ZhQ0RydklvSF9XVk9TWHIwVjU3eEhSa1B0TEpGMW9TVQ?oc=5</link>
-<guid isPermaLink="false">9dda7fb17ebdbe54022c13c47f0d0f276383890fb9aac0cff23434355cd5d77b</guid>
-<pubDate>Sat, 12 Sep 2026 23:14:29 +0000</pubDate>
+<link>https://news.google.com/rss/articles/CBMibkFVX3lxTE9oYS1mbk1YXzRZYU1iTjh5U3d1VGxINzAzMmVpZFl6UGdiazY3Ti1oTWZkMjhXdzVNRnRsWjd4TXZPSzQ3SndtTXpsOEUzWVhIUEtoU0Y2SkJUMU1KUERiWTdMQnFKN29jQjZ2Y2FR?oc=5</link>
+<guid isPermaLink="false">8222903c9b2e8d159233af6fa6991d606b4941b23da6c9b35ff2d199d52071cf</guid>
+<pubDate>Sun, 13 Sep 2026 03:51:50 +0000</pubDate>
 <category>IT・AI</category>
 <description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Anthoropic CEOが「AI開発の減速」提言 OpenAIアルトマン氏、イーロン・マスク氏も賛同 au Webポータル</p><p><b>ソース:</b> au Webポータル</p>]]></description>
 </item><item>
-<title>AnthropicのアモデイCEO、AI開発の「ペース調整」訴えるエッセイ公開 アルトマン氏とマスク氏も賛同</title>
-<link>https://www.itmedia.co.jp/news/article/2609/13/2000001432/</link>
-<guid isPermaLink="false">e745bba73690991be67757b5dc3cdbaec5a20e7d0304bda8e52c71385e6b9755</guid>
-<pubDate>Sat, 12 Sep 2026 23:06:11 +0000</pubDate>
+<title>OpenAI、「GPT-5.3-Codex-Spark」を退役へ 史上最速モデル、わずか7カ月で幕</title>
+<link>https://news.google.com/rss/articles/CBMidEFVX3lxTE50bVd2b0NQV2QyemRpZ0lSVXNvV3NleWtCbDYxZi1MYjgxa0w0a2VkVUk3SFdTMDhidDZGYy1wclhlM0JxVDZ5Tm4tZkIweGlxZDdfeW5CLXlpRUlBVmd2SDdtQTFlYVQ5ZmN6YmxVRVZQZmFn?oc=5</link>
+<guid isPermaLink="false">d47c0fce8845699d295d6ed8844923af5c578a3552358b39f903f30ee67d9d92</guid>
+<pubDate>Sun, 13 Sep 2026 03:25:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>AnthropicのアモデイCEOは、AIの急速な自己改善や安全上の脅威を踏まえ、モデルの能力向上ペースを抑える3段階の計画を提言した。第三者の常駐評価者の導入や民主主義国間での協調を訴えている。これに対し、OpenAIのアルトマンCEOやマスク氏も同調し、同様の評価体制を導入する意向を示した。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI、「GPT-5.3-Codex-Spark」を退役へ 史上最速モデル、わずか7カ月で幕 BigGo ファイナンス</p><p><b>ソース:</b> BigGo ファイナンス</p>]]></description>
 </item><item>
-<title>OpenAIが&quot;アクセル&quot;から足を離し始めた? アルトマンCEOの発言が意味すること（Masumi｜ライター） - エキスパート</title>
-<link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU3RvVDl6QVprUlpVNDIzMU4zVTUzdV9yZXRoOHFlcmM4TDUxT1dOUXBHMk9LOUplb2gzc21Odlo1b2c4TEpSbGFSemo2ZV9ETnh1WlRXLWgtUVp1clVHS2dOZGQ3SnBTSk8wbWNIcHhyUV9SSUVVYzVzRUdGdGR1Tm1OLU1yR2t4?oc=5</link>
-<guid isPermaLink="false">d5db3cac1c51bef54d5a3ad7207d616f0b11a797f2f308499ecc9552f5f90b53</guid>
-<pubDate>Sat, 12 Sep 2026 23:01:26 +0000</pubDate>
+<title>OpenAIはサムスンと提携し、次世代AIチップを開発する。</title>
+<link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPUmFzZGVZa3dXQVJ2dlppRmVZMmJMT0gxZGtvUk94QUY2UzdWa2c1OVFhN0FKa0RIN1VHb203bTJFZTlwUmxFWGNZZTBsS3J2Z3VCZXlfTGRrU0hDdTFuRUtySFhkQUZXVVZqSk13STN6RkJ3M1hGQmFWX281Vk5jSnBvLWM?oc=5</link>
+<guid isPermaLink="false">bdd813717d6802d2be07a45c70e134757101326e6b642a4699e222f873aee9d4</guid>
+<pubDate>Sun, 13 Sep 2026 03:16:47 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIが&quot;アクセル&quot;から足を離し始めた? アルトマンCEOの発言が意味すること（Masumi｜ライター） - エキスパート Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIはサムスンと提携し、次世代AIチップを開発する。 Vietnam.vn</p><p><b>ソース:</b> Vietnam.vn</p>]]></description>
 </item><item>
-<title>OpenAI、2026年のIPOは実施せず──アルトマンCEOが非上場継続を明言</title>
-<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1kdjZTNGEtcGNZT1N5MXhKYTFnWWhIZVNLcDVDc3dfRDJYZncwYU5EajFhekhlbWIyRHJLd2pCclk1bEFNM3JHY201Tk42UkNMLVdEekpFWkc4Q2JyWHRPa1NWdV9aZzY1V3FYZVFoTVpDemdJWTBSX1Nsd054S2M?oc=5</link>
-<guid isPermaLink="false">dc7ccbb241f9472d866cf1816e6a9d2b74f9fc41e87a14b6313c63a771d7490e</guid>
-<pubDate>Sat, 12 Sep 2026 23:01:00 +0000</pubDate>
+<title>ローカル生成AIの最新動向。企業と日本はどうするか？：永井経営塾</title>
+<link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BbzhNcjRKM1gtY2hfTjVlakN5VWRqRE5sR2Y0WkRfZTdmdXoxZFdxMjd6dTE5TjVtZ0NpeFhsMF8zRUxmMFlsV2FlLUNzUlRkRW8zd2c3QmFtWVVaWTRTTWI0MHQ?oc=5</link>
+<guid isPermaLink="false">d13145e71bc37416bfbd46cdbe2cc1796cb964fd718675a7361b0045374b9f64</guid>
+<pubDate>Sun, 13 Sep 2026 02:50:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI、2026年のIPOは実施せず──アルトマンCEOが非上場継続を明言 Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>ローカル生成AIの最新動向。企業と日本はどうするか？：永井経営塾 オルタナティブ・ブログ</p><p><b>ソース:</b> オルタナティブ・ブログ</p>]]></description>
 </item><item>
-<title>OpenAIのアルトマンCEO、2026年のIPOを否定——AI安全性を理由に「時期尚早」と判断</title>
-<link>https://news.google.com/rss/articles/CBMidEFVX3lxTE1uYXhnMGVoNUdVVEliQVVGUUplaE1vSEpfOUlEeDJTbFlERkU2UjRJV3d6dDZ2VDRMZy1GcmpsVXI2cXp6RjIyWjMyTkduMUZRSVlNT0laSUhha3dONmVhVWFDMjQxOWZDS3M2MUNiNXNCdFFT?oc=5</link>
-<guid isPermaLink="false">ccef07952ff50ce1f2d0f3b9ac55d6d7a2906a42d6b8219778acffbc60ead6a8</guid>
-<pubDate>Sat, 12 Sep 2026 22:25:00 +0000</pubDate>
+<title>韓国サムスンSDS、OpenAI「デイブレイク」に国内企業で初参加…AIセキュリティー強化</title>
+<link>https://news.google.com/rss/articles/CBMigAFBVV95cUxNVTlGMTF1aEJTaF9jZEwxWWQ5Q1ZHb21jbzBTeURHR2lNdkYtSkdxUUZqdWFlZUkwTUtXMkZGS0JfelJzUDQ5QXFxTU0wU0RQSXk2ZHlRM1ZiOWtDYlI1VFlGbUVXems0RFdadlloUG9KQnpuOFhNQ2Y3ZUJ5Q0JMbtIBVEFVX3lxTE83b1NjU3NtSGh6NmVmdVMtVFBZcHNjNW5DS3pzZ0I3XzZsVTgybGcwQTlsVEd1dnlaSnJheDMtMzJsUHNiaXRlZXo0ZVZaWjRFZUU5Vg?oc=5</link>
+<guid isPermaLink="false">611a9357556d1f98b9e0a21b1a801a9f60d1dafeb592e7fa50d715a012aa4acc</guid>
+<pubDate>Sun, 13 Sep 2026 02:28:25 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIのアルトマンCEO、2026年のIPOを否定——AI安全性を理由に「時期尚早」と判断 BigGo ファイナンス</p><p><b>ソース:</b> BigGo ファイナンス</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>韓国サムスンSDS、OpenAI「デイブレイク」に国内企業で初参加…AIセキュリティー強化 AFPBB News</p><p><b>ソース:</b> AFPBB News</p>]]></description>
 </item><item>
-<title>Claude Codeでなぜ異変、「旧モデルのほうが良い」が続出…AI進化で起きた逆転現象（ビジネス＋IT）</title>
-<link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBSMGFpOGtpX0JaeXAyMEszU0MtOEJZMldTZ0FEQ0kxbWpJS1QyTk1rRFlxcWNJZFBSbEUxQ2hkNTh3ZmtkSVFtNDA3RDVWb0p6d21KU0hCSnkxRkFZSWRWN1lzczVJRFRhWk0wbzVrb2YtQjl6NHhWd2NLUmg2Uzg?oc=5</link>
-<guid isPermaLink="false">1f126105620297739bcda9a001a9484afddbf694ec8eb74cc8438aea0c5843c7</guid>
-<pubDate>Sat, 12 Sep 2026 22:20:06 +0000</pubDate>
+<title>韓国サムスンSDS、OpenAI「デイブレイク」に国内企業で初参加…AIセキュリティー強化（KOREA WAVE）</title>
+<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE0tTjdjeG1ybGk0ODl5VmhwQk5SNFpvOS1nOWZ2TEp2RE9HLWx1UXlSYk5ZMWZGZVh1U1M5XzFweTlDV0QyNWFwSjc0alJKT3QtWFFDMm41Mm5XQzNJdkhqSHowWDE5RVdBVnFUU1lZb3cxa0pITm5tek9UMnZubDQ?oc=5</link>
+<guid isPermaLink="false">8e7b806dab560d4e1ab7fc0262b644c31156d0713ff14e65e0787d1d9cd7f6e9</guid>
+<pubDate>Sun, 13 Sep 2026 02:27:15 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Claude Codeでなぜ異変、「旧モデルのほうが良い」が続出…AI進化で起きた逆転現象（ビジネス＋IT） Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
-</item><item>
-<title>今朝の3本 2026.09.13｜Amodei氏「業界は減速すべき」Altman氏ら同調／OpenAIがAstraの不調を修正、枠は再リセット／ChatGPT Sites 500万件、独自ドメイン対応</title>
-<link>https://news.google.com/rss/articles/CBMiQkFVX3lxTE1rSHJ4cXo4UF81dTlndmtfd1AyZFpSb1o2X0k4WnEwY20tTVo5M1h1aWJYaUtmajJiUGFfY3FjVHRZUQ?oc=5</link>
-<guid isPermaLink="false">655b1f635013e1ac22dba8e1b3b0880212857a720bbdd95f26dddb3f2d1aaa26</guid>
-<pubDate>Sat, 12 Sep 2026 22:01:26 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>今朝の3本 2026.09.13｜Amodei氏「業界は減速すべき」Altman氏ら同調／OpenAIがAstraの不調を修正、枠は再リセット／ChatGPT Sites 500万件、独自ドメイン対応 youtu.be</p><p><b>ソース:</b> youtu.be</p>]]></description>
-</item><item>
-<title>AnthropicのアモデイCEO、AI開発ペース抑制を提唱 OpenAI事案を受け業界首脳も同調</title>
-<link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNclNkTkYxZncxZEJvZ0N6Z2EtZFA0ZzdJWUxkNFQyN3RnRDEwaGY4NjNDTUZjckJYTDJEZmZfek1Damh4TDdZTUZUa1VUZUYzWHU0SkxZOWZNcGQ0d1prV3VtbmRrOTRPdnp5YlN2emtuZ2ppb05VSjZWWWFZZG1qVTB6THVET0dxaXFvRHBScVJwM0JicWFwczd2S093d1VNeEt4Z3JXLWVyMnNPUDFwNU9hdk5BUDR2ZElIZQ?oc=5</link>
-<guid isPermaLink="false">cc231a2cf5fe3bb4ce465433d0aa12dc6a8ffb24bf6be7c669a2c46015308930</guid>
-<pubDate>Sat, 12 Sep 2026 21:41:48 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>AnthropicのアモデイCEO、AI開発ペース抑制を提唱 OpenAI事案を受け業界首脳も同調 디지털투데이</p><p><b>ソース:</b> 디지털투데이</p>]]></description>
-</item><item>
-<title>OpenAI、Codex実行技術「ハーネス」を電撃公開…エージェントインフラ競争に火</title>
-<link>https://news.google.com/rss/articles/CBMidEFVX3lxTE1NRWtpejl6TnFiQXpadTdGRTgzSTdINThvUmtvaDVlanJRekpTRWNzdFhoSzEtNGZGT1NxcHBnM0p5SGFHZlVoZmFqQUI1QzB4SDVXZnB2T3JyOFdwWUFxbXN3ZW1MZmQtakF1emI1MzFyTkR5?oc=5</link>
-<guid isPermaLink="false">f88e84e8d2d5b47108c86e4f9f5b0ae36f7fb159ae9d27e69ee35c3d74bf4a60</guid>
-<pubDate>Sat, 12 Sep 2026 21:35:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI、Codex実行技術「ハーネス」を電撃公開…エージェントインフラ競争に火 BigGo ファイナンス</p><p><b>ソース:</b> BigGo ファイナンス</p>]]></description>
-</item><item>
-<title>OpenAIの最先端モデルが制御を逸脱しHugging Faceのインフラに侵入</title>
-<link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05Y2NjMUpjamYzVHYwQkRiQjA0Ni00VzUxLWNBZUVSbGx1VF9heDRIZVZTT21qTm9HMEdRdTlFWHpsbWl4U3JvS29HUzVJOGhVMG50RkpxYVB4T1FySlpKN1o0WWs2QXM?oc=5</link>
-<guid isPermaLink="false">20ad47d54ea4afcad3e6098f5256d855f50e95cbe4429fc98ad1c3481ec15e3c</guid>
-<pubDate>Sat, 12 Sep 2026 21:30:01 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIの最先端モデルが制御を逸脱しHugging Faceのインフラに侵入 Межа. Новини України.</p><p><b>ソース:</b> Межа. Новини України.</p>]]></description>
-</item><item>
-<title>OpenAIのIPO、年内は実施しない-アルトマン氏がフォーチュン誌に語る</title>
-<link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lQ1h4TU5BNExXQTcyUWtwRG91UUREZ2VLUXhRNExLUFRsaWtNbmxRRFVwZ2twNzBXaFFVenlwd0dMM01kazd2dkFyaC02OXJqWk9jT01RN3U1elk1T09ZNTQzUFhhYkU?oc=5</link>
-<guid isPermaLink="false">b87237dfb1b3f4aff183f7c2ea5018ef19692f8bb525b935ed27eac5856cd949</guid>
-<pubDate>Sat, 12 Sep 2026 21:30:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIのIPO、年内は実施しない-アルトマン氏がフォーチュン誌に語る TBS NEWS DIG</p><p><b>ソース:</b> TBS NEWS DIG</p>]]></description>
-</item><item>
-<title>OpenAIのアルトマンCEO、2026年のIPOを否定――AI安全性を優先 執筆</title>
-<link>https://news.google.com/rss/articles/CBMicEFVX3lxTE56a2xkZ2ZucVZUSGNFNFE0MmJLSncyVFU3bU81ZUxDM2NCVkxCRU5qVjdQYnBscmJzZnBuN1hrR2E1MkVrX1djWVlwcHB4dDhxcFlqSUt6N25iSGI1dW1jU0ZfZGRYb09jV2V5TTA4Qzc?oc=5</link>
-<guid isPermaLink="false">23aa38e2704b6f94ea2548f9f363f742193e8617144c5fe79fcaa6daab1ede02</guid>
-<pubDate>Sat, 12 Sep 2026 21:30:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIのアルトマンCEO、2026年のIPOを否定――AI安全性を優先 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</p><p><b>ソース:</b> Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</p>]]></description>
-</item><item>
-<title>歩数計から「行動変容エンジン」へ…生成AIヘルスケア、グーグル・アップルvs国内勢</title>
-<link>https://news.google.com/rss/articles/CBMibkFVX3lxTE5oeFBDdG1fRnlIdk1HMmRwR21Ga1Qta0NHSi1haTdJcGFWcGtIdnV6ZWZrQ1ZaUjFiRENHOWpFZXRUcnV1VzkxMVpvN1Rzc3ZVWkRlYmZlYktxSi1raEJTZHdPczk4WFg1R1ZSQmJB?oc=5</link>
-<guid isPermaLink="false">5f9c22069478cfa31aed01ab45776e547e951e4aea358bcba7919cb7dd8e1aba</guid>
-<pubDate>Sat, 12 Sep 2026 21:25:19 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>歩数計から「行動変容エンジン」へ…生成AIヘルスケア、グーグル・アップルvs国内勢 au Webポータル</p><p><b>ソース:</b> au Webポータル</p>]]></description>
-</item><item>
-<title>OpenAIは2026年の新規株式公開を見送る、アルトマン氏が安全性を理由に説明</title>
-<link>https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4VEdDTzFFOXg5TS1XY2R3b3pVaVZjRE9qMzVFU1pvOVJzNVlnWDhhLVljVG8yVkgtV0FnY0t3UFhZaWN2NnBobFlNS0hsZ0xZWmM3ajFTd1NJY1ZRdm1EODZR?oc=5</link>
-<guid isPermaLink="false">6c32103f0af2fccfb35a792384879d04bf4698d77709cf63e96f355847d8c1dc</guid>
-<pubDate>Sat, 12 Sep 2026 21:11:51 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIは2026年の新規株式公開を見送る、アルトマン氏が安全性を理由に説明 Межа. Новини України.</p><p><b>ソース:</b> Межа. Новини України.</p>]]></description>
-</item><item>
-<title>生成ＡＩで効率化へ 郡山でデジタルスキル講座</title>
-<link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE1icHZ0QUx3dy1UUkxramVJNG55RS15dkh0WU9NalBwcVpGa3FMcEJ2UkJmYWtiVl9WSzM5eDkwb0JHVXFQUEJBak5tOEs3ZEU?oc=5</link>
-<guid isPermaLink="false">7261063e2b912da87c88b8f9737c46b2bc0e026da0cdd63aa30a8b6f2cc04f63</guid>
-<pubDate>Sat, 12 Sep 2026 20:30:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>生成ＡＩで効率化へ 郡山でデジタルスキル講座 福島民報デジタル</p><p><b>ソース:</b> 福島民報デジタル</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>韓国サムスンSDS、OpenAI「デイブレイク」に国内企業で初参加…AIセキュリティー強化（KOREA WAVE） Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
 </item>
 </channel></rss>
