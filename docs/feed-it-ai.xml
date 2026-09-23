@@ -4,14 +4,273 @@
 <link>https://example.invalid/</link>
 <description>個人用ニュースフィード</description>
 <language>ja</language>
-<lastBuildDate>Tue, 22 Sep 2026 22:45:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 03:08:37 +0000</lastBuildDate>
 <item>
-<title>OpenAIが新モデルGPT-6 SolとLunaを発表、前モデルからAPI価格半減（ビジネス＋IT）</title>
-<link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBPb1cxMVF5V2dzU2MyWW1mZW5QQm82aTRpLXNIWTBYNGlKeFBhYlpMZ1JobWh3YUNDWWZHNDZCYkRuRTQ2Y0xuRnVQWlpiLTAwUlVyNUhLRExQUWVGTkVadkFETEh6X3RsalZScTl2QUItRngwQ0VzOWJpUXFBRWc?oc=5</link>
-<guid isPermaLink="false">4b2834597e46f7fb0be8b1eb8da3c511d14cdce9b458c4791fbab02f9dcc7d8c</guid>
-<pubDate>Tue, 22 Sep 2026 22:25:06 +0000</pubDate>
+<title>Anthropic、「Claude Opus 5.5」を発表 ～「Fable 5.1」並みの性能、コストは「Opus 5」比4割減（窓の杜）</title>
+<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1HYl92Y29CdG05bXhjaUM5TTJZNm9yblZyZ2JzSXFFUlpJbzlhZHZOWkk2QTZXV1RMSzJQVGlmVlg0QVhiS0paRTJTcTZGeUVOOTZMQVNkZzlvbVc4cTllQmRyM3YxT21oVDRUU1p0MU14UC1VNjhxZGN1bGt6cHM?oc=5</link>
+<guid isPermaLink="false">2b0223a3e0acd54e4a04315cb0b609fe1adca82fbc2e92b2b4013cfa0cb6c581</guid>
+<pubDate>Wed, 23 Sep 2026 02:39:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIが新モデルGPT-6 SolとLunaを発表、前モデルからAPI価格半減（ビジネス＋IT） Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Anthropic、「Claude Opus 5.5」を発表 ～「Fable 5.1」並みの性能、コストは「Opus 5」比4割減（窓の杜） Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
+</item><item>
+<title>GoogleのAndroid責任者「OSからインテリジェンスシステムへ」--Gemini時代の端末像を語る</title>
+<link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBBZkFXSXFsNHJ3NDZTNlBJenJ4V3ZTLTU5UkpGekhycnhqUEoyUl94bVUtU3E1d05XQml1YlNCQTFEbDBWVDEtVDJKZmFkbWtfNHVOTHJIWFp4VHh0Y2VFeXUtel96NnhFOHFHMHV4WkVNWHNxWDVUZnoyNk95LTA?oc=5</link>
+<guid isPermaLink="false">569a86207c01aa82cfb22ce16d48b405f4b84a309cf758e1564602e57b2abc5f</guid>
+<pubDate>Wed, 23 Sep 2026 02:38:00 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>GoogleのAndroid責任者「OSからインテリジェンスシステムへ」--Gemini時代の端末像を語る Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
+</item><item>
+<title>Apple、ロンドンにライブ会場「Apple Music Hall」を開設 空間オーディオ収録や配信設備付き</title>
+<link>https://www.itmedia.co.jp/news/article/2609/23/2000001677/</link>
+<guid isPermaLink="false">118d96ba08caa688d9679ebdbaec7b0bbd945c8ac5d16d0883bf979220de15e2</guid>
+<pubDate>Wed, 23 Sep 2026 02:14:02 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Appleは英ロンドンのバタシー・パワーステーション内にライブ音楽会場「Apple Music Hall」を開設した。収容人数は600人で、空間オーディオ収録や映像制作の設備を備え、世界配信も行う。併せて新設スタジオからApple Music Radioの全ロンドン番組を生放送する体制に移行した。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
+</item><item>
+<title>「GPT-6 Sol」「GPT-6 Luna」登場、API料金半額でリセット権も配布</title>
+<link>https://pc.watch.impress.co.jp/docs/news/2142640.html</link>
+<guid isPermaLink="false">7a46cdaad3dd801a8425a2d4dfcc19fd01e0e2bf93d7b1f5b4d0d02d709794d2</guid>
+<pubDate>Wed, 23 Sep 2026 02:11:32 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIは9月23日(日本時間)、AIモデル「GPT-6 Sol」と「GPT-6 Luna」を発表し、同日提供を開始した。最上位の「GPT-6 Astra」には及ばないものの、前世代より性能を高めたうえで、API料金を50%引き下げたという。あわせてPlus・Pro・Businessなどのサブスクリプションの契約者には、利用枠を回復できる使用量リセット権も1回分配布している。</p><p><b>ソース:</b> PC Watch</p>]]></description>
+</item><item>
+<title>名古屋アジア大会：「生成AIで作った美女のよう」20歳フェンシング韓国代表 海外メディアも注目（朝鮮日報日本語版）</title>
+<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE8yRHFwa2J5dWVobVUxeGNUR3hLR043emhMeW5zc01wcHMzRW9lWTI3aDdmdlFSWGJEb3ExaXpTSWFSRXZmQ19JRjA5dXpqcG53bHVaY1pjMElLZUpwbmpMQVI0RHFWd1M1UTExdjgyM2ZIb09TWXJjM0FkMHFBcmM?oc=5</link>
+<guid isPermaLink="false">f1b39ecdd0d0c5eae2828abc41aa191de4da34a92f803e3f2bb72330fb6d68d8</guid>
+<pubDate>Wed, 23 Sep 2026 02:10:00 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>名古屋アジア大会：「生成AIで作った美女のよう」20歳フェンシング韓国代表 海外メディアも注目（朝鮮日報日本語版） Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
+</item><item>
+<title>2026/09/23 WDBAセミナー「カーテンショップの仕事が変わる！生成AI実践活用セミナー」</title>
+<link>https://news.google.com/rss/articles/CBMickFVX3lxTFBsNVpVQ3p5WDg3RVRsUDVtb3V6Tm5UQXpwaC1pcVFfbEVoWDkwZTBiRDJ3LTIyeG1yMk02cTFhQU5LNVF6LWhDaFJfZmoxbXF2dDJYcm5mbC0zRVZ5RTU4allyNlYxRnU2SHk0a0haOGR3UQ?oc=5</link>
+<guid isPermaLink="false">8bf35026bd611ec8674230d7639884c142e2eb0b49d1ed587529a64c0d49a7a7</guid>
+<pubDate>Wed, 23 Sep 2026 02:04:04 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>2026/09/23 WDBAセミナー「カーテンショップの仕事が変わる！生成AI実践活用セミナー」 online.ibnewsnet.com</p><p><b>ソース:</b> online.ibnewsnet.com</p>]]></description>
+</item><item>
+<title>OpenAIがAI安全性の第三者検証を開発初期から容認 - CHOSUNBIZ</title>
+<link>https://news.google.com/rss/articles/CBMiekFVX3lxTFBzd3JiSVNWS29QMmVpUDMxTnhySGdpRWNaejRYcW5mVkl2UXU2UEVzQkRwMmlmeXQxcXhhMDk0NVVwV3JHQ1pHaF9ER3kwUzB0WGNrNDdNRHpuNkpVcjJrcXk2bUp1Y2s1SzJWYkhUd0JMZUdCWV9lOEVB0gGOAUFVX3lxTE9CY25FeWNtQTNfTV9VSXFoZGpMZlBpc3JINzBOaTZrUmh6TDN5Zld2MGtMdHl4MUFGOFRhZ3JXc1pFRkI5WW1teTA0WGNoZFd4eVY0QXFNZVNYOXhOYzZlX3A4aTl5dDU4Y0dZZnZwNGZDOUIzVkY4SGJvSFVVUzJ4MmNvNldZUnlzZkJMVUE?oc=5</link>
+<guid isPermaLink="false">fbda3f436b0f55b13cc0cbe2b4dd9a88206f20e5737870901e81bd9556552881</guid>
+<pubDate>Wed, 23 Sep 2026 02:03:00 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIがAI安全性の第三者検証を開発初期から容認 - CHOSUNBIZ Chosunbiz</p><p><b>ソース:</b> Chosunbiz</p>]]></description>
+</item><item>
+<title>生成AIは「学習」から「推論」へ―AI推論インフラ市場、2035年に4,500億米ドル規模へ拡大</title>
+<link>https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PbG9EUElCemxPRmVMdjVHRnh0QnN5Y083Z0NlYkQwTVgtZHBzYXlVSk5hWDVmLUFBQTRPNXdLN09CZXlGNzgweWRiYThBZw?oc=5</link>
+<guid isPermaLink="false">44243304c972f73661313ab18bcf0187369e346cdcd56477a98488e62c99d9a1</guid>
+<pubDate>Wed, 23 Sep 2026 02:01:00 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>生成AIは「学習」から「推論」へ―AI推論インフラ市場、2035年に4,500億米ドル規模へ拡大 アットプレス</p><p><b>ソース:</b> アットプレス</p>]]></description>
+</item><item>
+<title>グーグルGeminiが「3企業に侵入」、AI時代の安全管理と投資機会を検証する</title>
+<link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBwV19nM1dDWEhxcldFZXBrLUg2U3B0QjNlaGIzY2l2bHd6ZVRuRnBOVS14N3lKbW9uQk5NRkk4al9qVktTQ0wxMlhVaTR6V0Q0SGlzOUQxN1Zlc25LZ1RtcHVfZnEtcFo0M3NiQksxbFNZTXhKSHJqMUZZYTZTbkE?oc=5</link>
+<guid isPermaLink="false">fd87150107c327e46fd6042f14e318fdc827c8b3c41b11821670453e5fcb89de</guid>
+<pubDate>Wed, 23 Sep 2026 02:00:00 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>グーグルGeminiが「3企業に侵入」、AI時代の安全管理と投資機会を検証する Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
+</item><item>
+<title>Claude Opus 5.5が出た話〜値下げなのか！</title>
+<link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zN0hVX2FUOVFhdVFMbDF1VU10eUZTaGZDU2tSYms1MFZ2cFV6S21tczRYUUlTMzU4TE0zV2kyLUhDeW5DZ2c4MVBqMjJ5UXhwQ3NnRGdB?oc=5</link>
+<guid isPermaLink="false">b1ab4a73873ba91328a60dbba2ada46ee1a0776d96c87d35ffdc804a969cd69d</guid>
+<pubDate>Wed, 23 Sep 2026 01:54:43 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Claude Opus 5.5が出た話〜値下げなのか！ london3.jp</p><p><b>ソース:</b> london3.jp</p>]]></description>
+</item><item>
+<title>OpenAI、「GPT-6 Sol」「Luna」公開 Astra並の性能でコストはGPT-5.6の半額</title>
+<link>https://news.google.com/rss/articles/CBMiZEFVX3lxTFBROEFkRldXazliTGY3eVVHWjNwcDNscXVXY0FYMjVnTk1sd3RjUTBYOUJYSkx6akdTb0w3YlZjMXZQUUUtdnE3VEZRQlk1Zk96VjlLWmtBaVBXUW1pM3RSMHNVa20?oc=5</link>
+<guid isPermaLink="false">4dd6148b0f1914ed8269fdfd59dd073bb3c8d3740bafc7b3169ce0e9efc1127e</guid>
+<pubDate>Wed, 23 Sep 2026 01:54:06 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI、「GPT-6 Sol」「Luna」公開 Astra並の性能でコストはGPT-5.6の半額 Impress Watch</p><p><b>ソース:</b> Impress Watch</p>]]></description>
+</item><item>
+<title>トランプ大統領、国連演説で「AI」を「Super Intelligence」に改称すると表明</title>
+<link>https://www.itmedia.co.jp/news/article/2609/23/2000001676/</link>
+<guid isPermaLink="false">f6d3f2d10f32b80ca0b30eaa087e9d2430628a69b0f9f1ef335b9717291ee90e</guid>
+<pubDate>Wed, 23 Sep 2026 01:36:07 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>トランプ米大統領は国連総会の一般討論演説で、AIの呼称を「Super Intelligence（SI）」に変更すると表明した。米国の全公文書で採用し、他国にも同調を促す。国際的なAI管理の枠組みを拒否し、地球温暖化論争になぞらえて脅威論を一蹴した上で、成長を支援して開発競争をリードする姿勢を強調した。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
+</item><item>
+<title>「Claude Opus 5.5」登場、Fable 5.1並みで運用コスト40%減。リセット権も配布</title>
+<link>https://pc.watch.impress.co.jp/docs/news/2142634.html</link>
+<guid isPermaLink="false">4d009189eb09dacb5fb8d4f1f0417389d83b286205ec4a1261f9104f66490d8d</guid>
+<pubDate>Wed, 23 Sep 2026 01:29:12 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Anthropicは9月22日(現地時間)、AIモデル「Claude Opus 5.5」を発表し、同日提供を開始した。多くの作業で上位の「Claude Fable 5.1」と同水準の性能を、「Claude Opus 5」より約40%低い運用コストで実現したという。あわせてPro・Max・Teamなどのサブスクリプションプランで5時間ごとの利用上限を引き上げ、Claude Codeでは20%増となった。契約者には、利用枠を回復できる使用量リセット権も1回分配布している。</p><p><b>ソース:</b> PC Watch</p>]]></description>
+</item><item>
+<title>Android「複数デバイス間サービス」QR接続展開へ【アプリ解析】</title>
+<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQaEdaR1NGblhhNEZILUxic3NlUVp2YVFOV0l1d2VrOHY4ZEMwaXFxMkREa0R3S1JCUEo4MEVnUHJ0UjNEVHVOVGpHWlltTDFLSTg2UjZLOUtob1hEWTRRd2dzTHdLWllSYjlOQ0haWXhOM0NwT1VaUkRfbjFzQjAxRXA2eDU3ZjlsLU9FQXVUaVhHTVZXc0ljOXJxV3k?oc=5</link>
+<guid isPermaLink="false">c3f4db20f9b3aac4082bb25ec6c4e0f00f23e72d38e021e5c3bca850c19356b7</guid>
+<pubDate>Wed, 23 Sep 2026 01:18:31 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Android「複数デバイス間サービス」QR接続展開へ【アプリ解析】 jetstream.blog</p><p><b>ソース:</b> jetstream.blog</p>]]></description>
+</item><item>
+<title>OpenAI、国際AI標準の米国主導を提言｜参入障壁にしない設計</title>
+<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE95RFF2Q01qM3NYYk11SW85bXduaHVNcDROVVB6ZWh1R01mRzNOZ2k1cDNhekwtaC1TaTR2emRFZFdvb3loN1Y2NWZ3X2c4Q2Rad05Z?oc=5</link>
+<guid isPermaLink="false">8af3affa743473e7140b9c20f937f29d8e5f4cf31be7d15a9b6d9ff6cd9d6503</guid>
+<pubDate>Wed, 23 Sep 2026 01:05:00 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI、国際AI標準の米国主導を提言｜参入障壁にしない設計 innovaTopia</p><p><b>ソース:</b> innovaTopia</p>]]></description>
+</item><item>
+<title>成立学園×CoBloom、中学生を対象に生成AIと取り組む特別探究プログラムを実施 「相棒」として社会課題の動画制作に挑戦</title>
+<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE53TEVjeWdycFd2OXhYTHBMbDB1eDBGX1hSOVBITi1iVGtvbFVEZEtGVW1pLUk3ZjY2Zkw2N3BvZ0w0MGQ1UUxnaDFkZG5IbGxIdDhN?oc=5</link>
+<guid isPermaLink="false">07af91f4100ab7ad3b455e7198c066bcf03f98acf8974f7f5bcc5e7098434e37</guid>
+<pubDate>Wed, 23 Sep 2026 01:04:59 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>成立学園×CoBloom、中学生を対象に生成AIと取り組む特別探究プログラムを実施 「相棒」として社会課題の動画制作に挑戦 教育家庭新聞社</p><p><b>ソース:</b> 教育家庭新聞社</p>]]></description>
+</item><item>
+<title>Claude Code・Codex・GitHub Copilot・Gemini CLIに0クリックRCE「Plugin4Shell」 プラグイン更新のSHA固定を回避</title>
+<link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS0tXeUNqZTdvcG84NFB0VnNHWC0zRHdDWl9icHF4TjA4bk9DNDZmLS13dTQzUVpMcUVQZDRKbTRQSDVMOVBCQU85VWtNd3hPSzFBWi15NGZMbXdKS2RVbHgwU05iNVplVlRzTzBrcEo0dER1Si01UVZ4NTMwRG9EWl9yRDJIT3gyREsw?oc=5</link>
+<guid isPermaLink="false">e7c916a060c95241bc6a9cb51e037c08462d31a4f77f16b447838780d1f3bcca</guid>
+<pubDate>Wed, 23 Sep 2026 01:00:20 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Claude Code・Codex・GitHub Copilot・Gemini CLIに0クリックRCE「Plugin4Shell」 プラグイン更新のSHA固定を回避 合同会社ロケットボーイズ</p><p><b>ソース:</b> 合同会社ロケットボーイズ</p>]]></description>
+</item><item>
+<title>カナダ州政府がOpenAIとサム・アルトマンを提訴、8人死亡の学校銃乱射犯のChatGPT利用めぐり</title>
+<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1YdlFKczlZMFlELU0wbVRSLVNWYVN2eVpDaGJiWmhOblQtUm1zNkpRcTNJVmYydUlxQmZMb1hnbFh5T09rbTNUOWZSeTNKWVF3dHNJekEwRG9zQzNDYWNxZmxsd0ptYnhBQ3otTjFPYW5Pb1lJR29qV0NZQlZJckk?oc=5</link>
+<guid isPermaLink="false">048e70724e29fdf204c4121fef6ec9325cd671f81f633ef3121f03ff9cd00f0d</guid>
+<pubDate>Wed, 23 Sep 2026 01:00:00 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>カナダ州政府がOpenAIとサム・アルトマンを提訴、8人死亡の学校銃乱射犯のChatGPT利用めぐり Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
+</item><item>
+<title>米Anthropicが新AIモデルClaude Opus 5.5を発表、一部GPT-6 Astra越えの性能</title>
+<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zMGU4VFBfbkE2SlQzRmRZa0VEdGswdVVFdkVsQTlESUNKX0xDVFpnR2xLd3E0WU1uQnRPSHdUQ2RLOWJIQmlWbHNKUnM0R3hzQXg4?oc=5</link>
+<guid isPermaLink="false">e8b8114ec55c212d97867cf7ef4acae0408c122cc827911e7ddc96fd6dfc5c8d</guid>
+<pubDate>Wed, 23 Sep 2026 00:46:25 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>米Anthropicが新AIモデルClaude Opus 5.5を発表、一部GPT-6 Astra越えの性能 ビジネス+IT</p><p><b>ソース:</b> ビジネス+IT</p>]]></description>
+</item><item>
+<title>OpenAIが高速・低価格の「GPT-6 Sol」「GPT-6 Luna」を公開——API料金は50%引き下げ</title>
+<link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE03SjdBa1lRZ2pqdmFWTnVWMEhUbDlXYS1JY1NKUE95Z3pQU3lSQTFZNUJRVkY4SXFEZmxXRUkxM0FuUzh6UFFpc0lqbFg2ek1uV1phNEhKakVDLWpfRjdV?oc=5</link>
+<guid isPermaLink="false">f0db0e62f15108e66f972f2da9926455d68beed13b9aeb5c082a8cfbd145d879</guid>
+<pubDate>Wed, 23 Sep 2026 00:33:11 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIが高速・低価格の「GPT-6 Sol」「GPT-6 Luna」を公開——API料金は50%引き下げ BRIDGE（ブリッジ）</p><p><b>ソース:</b> BRIDGE（ブリッジ）</p>]]></description>
+</item><item>
+<title>OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開 API料金は前世代の半額に</title>
+<link>https://news.google.com/rss/articles/CBMinwFBVV95cUxOSGxCT194d0NkdTl1eWlXYjQ5N0VTNGtiZkRZa2VGclN5ME1wcTNrZTlqNFpyZG9qalVodUJ5RXNRUnc1V1U1WERPNDFUU3dSLXZRcGtLdFB3N2R4Z2tTQ29MVWRCQndPaXVWNTRTZE1RZ2JmWkt6S19TbG5hSWswbVRra3kxNlExM0NONF9MOVBESFZ1MGNjLTBxbDNJelHSAZsBQVVfeXFMT0YxZlUtNU1NM0l1UG93V0FnN0FqMy1JejBabEg0TGttdG5tUUtVdzMtbUQwMVdpVkdvRUljcmxHU2h6RTZ6MWNNYy1hTVVtdUhUTDNDNklLelpkZ09RdFQ5Yml6QjFSVU0yNmpXNy1zZ0VFY1lseFJZb0lZaXRZMTdKbWl3WFhzaDE1YlFCb1F2OWNKRGxjbXR2YmM?oc=5</link>
+<guid isPermaLink="false">840d5b8236135549fadeda43bcceb97061350efb01c0704a5db6b658f81a14e2</guid>
+<pubDate>Wed, 23 Sep 2026 00:13:00 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開 API料金は前世代の半額に ｄメニューニュース</p><p><b>ソース:</b> ｄメニューニュース</p>]]></description>
+</item><item>
+<title>Meta Muse AI App Tops App Store Charts Ahead of ChatGPT and Claude</title>
+<link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMWE1NDhZb2tvVDFCY0ZEb2JiSEVMVktScXR1TEd1RG1JVTVObTJKX2ZGcVlydUR4d3V4eTlGVklyNHhsLS1ld3RBLXJLbkxjWnlaT3ZhUGVzVHZva0toVHUtUmREZm5HVXRsZHpMU0p3ODFJTVk5S0tseDJjVlQ3ZjZzOUxDSnVFWkZF?oc=5</link>
+<guid isPermaLink="false">9320f439b260582e06d02515808b8d27382173eb2077061f3ff5d2906ec54f61</guid>
+<pubDate>Wed, 23 Sep 2026 00:10:41 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Meta Muse AI App Tops App Store Charts Ahead of ChatGPT and Claude TIKR.com</p><p><b>ソース:</b> TIKR.com</p>]]></description>
+</item><item>
+<title>米OpenAIがGPT-6のプロンプトキャッシュを刷新、推論コストを36％減らした事例も</title>
+<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0UHZPazRRQ0c3Zmp1dlVCWF9kTlRYRXRwdjE4MVZja3p3RTFPT29Md3ZoYmJwYkVMbzVKZE9rVFEwa1QyTGhQd1pUenVBOG5RU1hN?oc=5</link>
+<guid isPermaLink="false">c4d104a85b977a7db8d6b57f38675ee279fe5dfece2eafebfa4a46e6c970916c</guid>
+<pubDate>Wed, 23 Sep 2026 00:10:00 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>米OpenAIがGPT-6のプロンプトキャッシュを刷新、推論コストを36％減らした事例も ビジネス+IT</p><p><b>ソース:</b> ビジネス+IT</p>]]></description>
+</item><item>
+<title>生成AIのMistral AI、広告制作AIのPimentoを買収し業務アプリケーション領域へ踏み込む</title>
+<link>https://news.google.com/rss/articles/CBMicEFVX3lxTFA0eVktUjJuTFF2dFFoNVBoQ3J3bk45cHctWjRaM2tUWk1VNzYyVm1XXzVRWXJyeG9US2VUQlBfUGV0SGRGak1XU2VQclp2d3lvNTFXa2tMeEJjUTREZlVrdE40M0RMZ0JRMklWWW1uS0c?oc=5</link>
+<guid isPermaLink="false">4ba0fd33ccb908bbd3418894d1f919fcfc5532f6939f4cce63dbb0340441e726</guid>
+<pubDate>Wed, 23 Sep 2026 00:00:13 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>生成AIのMistral AI、広告制作AIのPimentoを買収し業務アプリケーション領域へ踏み込む AT PARTNERS</p><p><b>ソース:</b> AT PARTNERS</p>]]></description>
+</item><item>
+<title>OpenAIとVillage Media、地域支援AI「Open Door」で提携 カナダ地方メディアが福祉案内に活用</title>
+<link>https://news.google.com/rss/articles/CBMiakFVX3lxTE9MRXF0VXBYRHRZMlhfOHdLY0xvVDdRdGFHLTBpN3FuV1dfMkYwTUZuTDFURjd4SFYzLTR1M3hPR0N0UDB6MEFzUjRMMVdRdi1KbjQ4elJDbFF5NVVUdzJHblpHVmluZk1lOVE?oc=5</link>
+<guid isPermaLink="false">9a6d350366e1fea53345513974ae9bf7dfd2512d640f3f0d724d4b50dc9266af</guid>
+<pubDate>Wed, 23 Sep 2026 00:00:03 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIとVillage Media、地域支援AI「Open Door」で提携 カナダ地方メディアが福祉案内に活用 media-innovation.jp</p><p><b>ソース:</b> media-innovation.jp</p>]]></description>
+</item><item>
+<title>Anthropic、「Claude Opus 5.5」をリリース--「Fable 5.1」並みの性能を40％安く</title>
+<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUQ1F1TFBZUjAyTFR3V1BNeW5ZVzYza2hlRWxsZW9SUHRwN0Y0OEpva1hON1IwZjFRVmZjMDFpQzYwb1JlSGlnMzhrbndlYlZ5ZEt3?oc=5</link>
+<guid isPermaLink="false">5e25d5b6a6575cc9a2786f8211a6156ad6fbfcafe13863183dcb1ad38702320c</guid>
+<pubDate>Tue, 22 Sep 2026 23:56:00 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Anthropic、「Claude Opus 5.5」をリリース--「Fable 5.1」並みの性能を40％安く ZDNET Japan</p><p><b>ソース:</b> ZDNET Japan</p>]]></description>
+</item><item>
+<title>【非公式】Android「Google Play システム アップデート」不具合解消法</title>
+<link>https://news.google.com/rss/articles/CBMimwFBVV95cUxPdDZEU1NpWjhSRWdmVHdubG5YNW5UVHU3T3hmVlNuNWdlY3VnTTNWM2g5d09aTHV3YXBORG9fTWZwVG9YZzFpSkVsd0c2NDd3V3BtYWRVSFdJVTBJZENnMm1UTGlBcElsOTVjb3hqaHVKUUMwQTR0bWFWeUpmaXMxejd6R1BxZjFyTlJYOVl2WE9hRUFiWi1CYWQwTQ?oc=5</link>
+<guid isPermaLink="false">94e81f6c8686bcb13437fdd66cc98c474e79642da7c85c76f1eba1e85a1999c6</guid>
+<pubDate>Tue, 22 Sep 2026 23:38:06 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>【非公式】Android「Google Play システム アップデート」不具合解消法 jetstream.blog</p><p><b>ソース:</b> jetstream.blog</p>]]></description>
+</item><item>
+<title>Android「Google Play システム アップデート」不具合解消法</title>
+<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxQQzVqc3B1bnVSR2V2TDRpZmFsbEJkbm0tNXMtVGk2WWtpUEtlWmYzQ2dkekl1QVEydmhDX09HbXk0YXVLM3NXU0VSYjVMRG5lQzZ1SzUwN1RGQUQ5c05WNTg4TmI0S1RXWVA4SWIxTE5ENHE3OGpFT3lIM0JybXRHSzNubE9kaVRXS3BxRmF1VzFYVGpYUlQw?oc=5</link>
+<guid isPermaLink="false">459c138cfe4cf5dca5678bbcb6eebffd19060b7c3d60d8c1adb7c58e96100005</guid>
+<pubDate>Tue, 22 Sep 2026 23:38:06 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Android「Google Play システム アップデート」不具合解消法 jetstream.blog</p><p><b>ソース:</b> jetstream.blog</p>]]></description>
+</item><item>
+<title>OpenAI「GPT-6 Sol」「Luna」発表 Astraの技術を高速・低コスト化、API料金50%以上減</title>
+<link>https://news.google.com/rss/articles/CBMifEFVX3lxTFBpend2Tjc3dnItcVJsX085N1FqRzB0UDlEYlk3eV8tek5qVy1fV2Y3d1hib3JEN192YlVreFpPa1RONmNLYkJNU2NzMlZyX1dwcmUybWhZNGs5aWNkR3BqeXlCbjZYM0FLRGtpTTlZMXdGejI3THBFZUdsU1fSAXxBVV95cUxQaXp3dk43N3ZyLXFSbF9POTdRakcwdFA5RGJZN3lfLXpOalctX1dmN3dYYm9yRDdfdmJVa3haT2tUTjZjS2JCTVNjczJWcl9XcHJlMm1oWTRrOWljZEdwanl5Qm42WDNBS0RraU05WTF3RnoyN0xwRWVHbFNX?oc=5</link>
+<guid isPermaLink="false">9c46294f34725ff2d0f43bf2fcf248f36c086f14bdf49006d8b7f8a7598d39ee</guid>
+<pubDate>Tue, 22 Sep 2026 23:34:00 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI「GPT-6 Sol」「Luna」発表 Astraの技術を高速・低コスト化、API料金50%以上減 ｄメニューニュース</p><p><b>ソース:</b> ｄメニューニュース</p>]]></description>
+</item><item>
+<title>OpenAIが「GPT-6 Sol」など公開、精度2倍でコスト半減--発表の裏を読む</title>
+<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Od1luZkNWMmYzRHZqSElReGdfV2xpNUtJc2FLZjFFR1kwZWRfc091aUs2Y0pCeUZZVzZUZGxGMHBOdXJvWjE4UjE4WHgzT3RJNktB?oc=5</link>
+<guid isPermaLink="false">cdc9d46c179df9b7793940d5a7ad723551dbf9e75c82d144130e73edc9ba84aa</guid>
+<pubDate>Tue, 22 Sep 2026 23:31:00 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIが「GPT-6 Sol」など公開、精度2倍でコスト半減--発表の裏を読む ZDNET Japan</p><p><b>ソース:</b> ZDNET Japan</p>]]></description>
+</item><item>
+<title>Claudeの上限リセット権、好きなときに使えるようになった。5時間ごとの上限もアップ</title>
+<link>https://news.google.com/rss/articles/CBMiPkFVX3lxTE5wTk5FdFdMZmo5NE03MmtpWUpYRnpJR1Y1NHgwUGNIaU9hNDN4Xy1MV0FFZnVqdFM0bDNmQzJB?oc=5</link>
+<guid isPermaLink="false">d6f48ee8a51ed8d421d9d9a7f4b9d627bd28222c31b2e79e3dd4d2bf84ce9305</guid>
+<pubDate>Tue, 22 Sep 2026 23:28:05 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Claudeの上限リセット権、好きなときに使えるようになった。5時間ごとの上限もアップ ゴリミー</p><p><b>ソース:</b> ゴリミー</p>]]></description>
+</item><item>
+<title>キーワードの詰め込みはもう無意味？ 「生成AI検索最適化」で行うべき10の施策（ITmedia ビジネスオンライン）</title>
+<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1mbU1kWV9kNUZqcU1pZEh1Y1N4THk5WUVDTllXb1VRdC1kY1BqdkJ6dXg1UjBUTGg0ZjZ6LW5BbWtfeWpGcGR6d2FsS0FZYUpxR2czV08tLUxucjhUS3BHSGoxakhoMlVBbDJnNThoai1hZlc3alVhamdnb2M0RkE?oc=5</link>
+<guid isPermaLink="false">46aed3a5ff1f3be5e5b4dce4afbba2a7f22707e2c36e99335d9cb56f25ca594d</guid>
+<pubDate>Tue, 22 Sep 2026 23:10:08 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>キーワードの詰め込みはもう無意味？ 「生成AI検索最適化」で行うべき10の施策（ITmedia ビジネスオンライン） Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
+</item><item>
+<title>日本のAI安全研究所も名を連ねる、OpenAIが描いた自己改善AIの国際標準の中身</title>
+<link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HbTU2OXpGZXNyM3NKcWtXWUtaMlN5QjVVNmt5aWNoMVc4TXl4YUVNVXVSb1BkdVBzcTllM1EyRnBmZENEejRtSmZhNlFINzV6eGIxQ0pFenI2ZENDbFRCNU50eWltNTQz?oc=5</link>
+<guid isPermaLink="false">0be1580ad6ca231687f22b9a438fd13706754dc3822e40b3291073e359c1dba7</guid>
+<pubDate>Tue, 22 Sep 2026 23:03:50 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>日本のAI安全研究所も名を連ねる、OpenAIが描いた自己改善AIの国際標準の中身 XenoSpectrum</p><p><b>ソース:</b> XenoSpectrum</p>]]></description>
+</item><item>
+<title>Google、Geminiが実在企業 3社へ不正アクセス-AI評価で意図せずインターネット接続</title>
+<link>https://news.google.com/rss/articles/CBMilgFBVV95cUxQLVc2aEJGdlFHWFpSX2tPSHVGeTJwdlVEX0lMcFJLM1daQTA0aWQ1UTBnQ3d6NDMzd1cyOEJGU2xGZjJ2Nnh2MXBacDA3ZjQwSWRVZ2hDUzhhUzc2LXp0NmEzci1Sc2RDRkR2Ukk4U3M2Q1VEUU4xb3YwWGtIWUZMelYyTkFsVUE3aTllN2FQR2JFVjA3TVE?oc=5</link>
+<guid isPermaLink="false">4ea9ea37bd019c26070954d29dc7f8c82b622f4717334f111907d9072609359c</guid>
+<pubDate>Tue, 22 Sep 2026 23:00:35 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Google、Geminiが実在企業 3社へ不正アクセス-AI評価で意図せずインターネット接続 合同会社ロケットボーイズ</p><p><b>ソース:</b> 合同会社ロケットボーイズ</p>]]></description>
+</item><item>
+<title>韓国・AIの「危険な質問」への対応を比較…犯罪は拒否、意図不明なら回答に差</title>
+<link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zazhkSGpxUk9BbHRnLXN6cVVtQlktazF1S0xnYkJwTDRnbWdEMFZLc01uYzRQN0lrUmplLWhFNFdVSWtDa3dneVc1dVRJY1ZkbUhWMGNYS1dOX2dO0gFUQVVfeXFMUFo3NWlFb1ZsZUg5TnFsUmNvZnhjWGswUDZFOFdnbVIwdU84YXIyeHlXbDFKSk5nR3IzV0VPbGJSMzdwVnMxazM0WkhDYlNmaTkxaWl2?oc=5</link>
+<guid isPermaLink="false">0bf4f795cdab5fbb73cfe057807649b31f7c1eeed7ebd40ce73eeda58b8818ef</guid>
+<pubDate>Tue, 22 Sep 2026 23:00:04 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>韓国・AIの「危険な質問」への対応を比較…犯罪は拒否、意図不明なら回答に差 AFPBB News</p><p><b>ソース:</b> AFPBB News</p>]]></description>
+</item><item>
+<title>キーワードの詰め込みはもう無意味？ 「生成AI検索最適化」で行うべき10の施策（1/3 ページ）</title>
+<link>https://news.google.com/rss/articles/CBMickFVX3lxTE9WYzFqcTRUVXhaR1RYTjlkcWxBWkUtNHUzcHJiaEpDV0NweVZTbXpZVGhZSl9iXzY2b1pkMUJTNkRXZ0NxRjlaOTk3UzBzb09UeVlqRTVKSVFDMm9pUXVQUDBLYTFNSVRVUjVEVmd6c0ZnUQ?oc=5</link>
+<guid isPermaLink="false">f9d736e93949f2d63fc5ee0160e3a239bdaffa2464acfad3a4660fa866292067</guid>
+<pubDate>Tue, 22 Sep 2026 23:00:00 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>キーワードの詰め込みはもう無意味？ 「生成AI検索最適化」で行うべき10の施策（1/3 ページ） ITmedia</p><p><b>ソース:</b> ITmedia</p>]]></description>
+</item><item>
+<title>生成AIで見積書の作成などを体験したセミナー - 生成AIで見積書作成 福岡・直方市で実践セミナー - 写真・画像(1/1)</title>
+<link>https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIX1Q5bjk1ZzJjYmgxWXNsbXpINW5iX3Zjc2ZLNDRGYzYxWFc0REV4WHVpOVJ0bE0xTllnMWxlUFNiSk1hVTdHRmFwMnpza2xPVVpOUkROSQ?oc=5</link>
+<guid isPermaLink="false">cf834f4fea9bdd436b157479d17aad42ffc60e7b3ee556f9c34e54f689208e41</guid>
+<pubDate>Tue, 22 Sep 2026 23:00:00 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>生成AIで見積書の作成などを体験したセミナー - 生成AIで見積書作成 福岡・直方市で実践セミナー - 写真・画像(1/1) 西日本新聞me</p><p><b>ソース:</b> 西日本新聞me</p>]]></description>
+</item><item>
+<title>いいねもフォロワー数も隠せるSNSが、なぜ4,000いいねを集めたのか――『ぬい日和』Android版に見る設計思想</title>
+<link>https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5iVUg5bTBlWEtvMzZUajZ3LUZhOVRHYVJKbHdFWjRzby1kdEJMODFIU0pKT1BGcUtCcEdxSTlnZGR2MjA?oc=5</link>
+<guid isPermaLink="false">aec242e0edadbeeef44d3775801473f4133d27bdf3338d9c5131190bef7c42af</guid>
+<pubDate>Tue, 22 Sep 2026 22:45:46 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>いいねもフォロワー数も隠せるSNSが、なぜ4,000いいねを集めたのか――『ぬい日和』Android版に見る設計思想 shiritomo</p><p><b>ソース:</b> shiritomo</p>]]></description>
 </item><item>
 <title>「今度はClaude codeが落ちてる」——朝9時50分から1時間20分、静かに消えた障害の中身</title>
 <link>https://news.google.com/rss/articles/CBMiQkFVX3lxTE1Dc1pvQWppcUdaakRUQ00xWk9DSm1MVWN3TXJkZnJwakVacVUwbVhSaFdmVlE2Y1VuTGxGcnVTejZRZw?oc=5</link>
@@ -27,12 +286,26 @@
 <category>IT・AI</category>
 <description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>「寝てもいい？」90分差で公開されたGPT-6 SolとOpus 5.5、値下げ競争の中身 shiritomo</p><p><b>ソース:</b> shiritomo</p>]]></description>
 </item><item>
+<title>Claude Opus 5.5｜「40%安い」はどの設定で成り立つか</title>
+<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQNmhoRWpmUnNueE9QbzBZU1Z3QTFoenl0UEVMSTJwZEExc0FlM3pqLVZNQy1vZDNoUDE0dVpjV01pdXYtMUVSUXIyUl9XVUV2dDBF?oc=5</link>
+<guid isPermaLink="false">72035bc9bebec951cc62412f1956d6a52ba067aea84a3d937233cf7fabb181cd</guid>
+<pubDate>Tue, 22 Sep 2026 22:16:04 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Claude Opus 5.5｜「40%安い」はどの設定で成り立つか innovaTopia</p><p><b>ソース:</b> innovaTopia</p>]]></description>
+</item><item>
 <title>生成AIがもたらすカテゴリー「AIスロップ」――世界的SF作家が予見する2040年の世界</title>
 <link>https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VZG9KTXJCeDRFcDNteWZSeVdKRE9QaTNaXzJnQVJvcnBrV0ZrM1ZHZTVuRC0zS1FnSkkzcUpmQUthMTZ0cFIwRlRQMTN0b2hG?oc=5</link>
 <guid isPermaLink="false">bd5bdcc696bdc9479a3f7eb1f20a98a4474fd4a98906a006900a2ea7991ac3af</guid>
 <pubDate>Tue, 22 Sep 2026 22:04:24 +0000</pubDate>
 <category>IT・AI</category>
 <description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>生成AIがもたらすカテゴリー「AIスロップ」――世界的SF作家が予見する2040年の世界 新潮QUE</p><p><b>ソース:</b> 新潮QUE</p>]]></description>
+</item><item>
+<title>OpenAIが新モデルGPT-6 SolとLunaを発表、前モデルからAPI価格半減</title>
+<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jWXdmZGtIQ1lxRmRCRy1sT1F4MFg4Mnh5bDd4aDFYSDRCZUNXbkN6N1VhcW9CWTRQMS1NZmJvSVZNb1lTb1lMNzBXSzUwQkpleTlv?oc=5</link>
+<guid isPermaLink="false">19dd94a132261ce49dee4481aff14acf3a2a4bb0b38966de722c421ca95e4ab9</guid>
+<pubDate>Tue, 22 Sep 2026 22:00:00 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIが新モデルGPT-6 SolとLunaを発表、前モデルからAPI価格半減 ビジネス+IT</p><p><b>ソース:</b> ビジネス+IT</p>]]></description>
 </item><item>
 <title>“積ん読”をAIが読み解く オライリーなど英語書籍10万冊以上にGeminiが対応</title>
 <link>https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pWmUzZ1lYWldVSld2ZVNLQzB4VW9lZWNuVDhkcEk0QXRZMFN6S1JkUlVUTHMyZ2kyWk1wamVRaDdJYjk1U3kwaVZzeEFBbnV4TWZlNGpJSHRNOWc4ZDFLY196bndXQQ?oc=5</link>
@@ -41,298 +314,18 @@
 <category>IT・AI</category>
 <description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>“積ん読”をAIが読み解く オライリーなど英語書籍10万冊以上にGeminiが対応 キーマンズネット</p><p><b>ソース:</b> キーマンズネット</p>]]></description>
 </item><item>
-<title>Anthropic、「Claude Opus 5.5」公開 Fable 5.1並みの性能で利用コスト4割減</title>
-<link>https://www.itmedia.co.jp/news/article/2609/23/2000001673/</link>
-<guid isPermaLink="false">399efd62f7768f7ee349ad95cd18b410b1c32d51613107e990da83f5d5e1b463</guid>
-<pubDate>Tue, 22 Sep 2026 21:57:43 +0000</pubDate>
+<title>Anthropic「Claude Opus 5.5」発表 40％低コストになり、OpenAI「GPT-6 Astra」を一部で上回る (アスキー)</title>
+<link>https://news.google.com/rss/articles/CBMijgFBVV95cUxNR2JPcUYwYTZOMmNlV2NPSDl2Tk5wRUxva2x3NEJVTm9QaDNLWEh5QjhLZFRjTVU5UGNVM2ZHdWRDZm00c21Ub2xjaVQwZldTU0RWamRlT3AzbWhGQURpdWJiYVZUelVTWm5NdHdSdGJuajBCczcyMXJGOUpXQmxRc0hoTjRGTlZsN1MwNzZ3?oc=5</link>
+<guid isPermaLink="false">2d3b9c66195f10120af620d1ff66ae12aa1c1a04342bca81ff5faea5d8bd7703</guid>
+<pubDate>Tue, 22 Sep 2026 21:59:43 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Anthropicは「Claude Opus 5.5」を発表した。多くの作業で「Fable 5.1」並みの性能を持ち、利用コストは「Opus 5」より約40％低い。Pro以上の有料プランとAPIで即日提供を始めた。アモデイCEOの「ペース調整」エッセイ後初のモデルで、METRなど外部機関による事前評価を経て、Fable 5.1と同等クラスのセーフガードを適用した。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
-</item><item>
-<title>Qualcomm・Google、「Gemini Intelligence」でデバイスをまたぐAI同盟を強化</title>
-<link>https://news.google.com/rss/articles/CBMidEFVX3lxTE1sY2RiNUMwVDQ4NlFicV90QnIyaGJDaVJ2bE41cC0zLXB0WVpxWTZ0THBqUk9sQ09UY0tKMjVCSzlsZlRSS3F2NDg5dmwxUnZXZGlKVFl6dXhIbUlsY0tqOU91RFZycURPeGJIakd0b1NtNjNR?oc=5</link>
-<guid isPermaLink="false">370c306c8a6436dbea29e3774d7592c63cc1fc1f0a753812650ac52aaf90df69</guid>
-<pubDate>Tue, 22 Sep 2026 21:35:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Qualcomm・Google、「Gemini Intelligence」でデバイスをまたぐAI同盟を強化 BigGo ファイナンス</p><p><b>ソース:</b> BigGo ファイナンス</p>]]></description>
-</item><item>
-<title>Anthropic「Claude Opus 5.5」発表 40％低コストになり、OpenAI「GPT-6 Astra」を一部で上回る（アスキー）</title>
-<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5OaVFQVEhyTkIxVnFRYjE0TC1paUpSZFhvMExURWNLblZqNTZsV1A4cDZQWk1FekNKek1LTm83UXFoS2FYZUxzQzZNZXNJclpPQm9xdUVXUmhCcHlxeFdoRGsybEtSM3Z6UFNBNE9CS2JwT2VtODdKZzRMYUFuTE0?oc=5</link>
-<guid isPermaLink="false">c956edd4a83173de79d9899770badef24d49a946c198688a77d1673ae5ea491b</guid>
-<pubDate>Tue, 22 Sep 2026 21:25:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Anthropic「Claude Opus 5.5」発表 40％低コストになり、OpenAI「GPT-6 Astra」を一部で上回る（アスキー） Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
-</item><item>
-<title>【河口湖から世界へ】生分解性ルアーと生成AIが切り拓くバスフィッシングの未来</title>
-<link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fSWgxQ0xlejVjay1iN21USW9NbExmeFpBeXhXRlhlUm9IY25tR0FtNWpCTXk2QUoyME5jbWhpOENLRDlsOVFYWjBIOVIxQUtBZ3NNYnhB?oc=5</link>
-<guid isPermaLink="false">972a59955e2398e2dd0d59e96c2ab89d1e1489560f274884ae20dc17ad2e81be</guid>
-<pubDate>Tue, 22 Sep 2026 21:15:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>【河口湖から世界へ】生分解性ルアーと生成AIが切り拓くバスフィッシングの未来 plus.luremaga.jp</p><p><b>ソース:</b> plus.luremaga.jp</p>]]></description>
-</item><item>
-<title>アンソロピックとOpenAIが低価格AI 値下げ競争激しく</title>
-<link>https://news.google.com/rss/articles/CBMibEFVX3lxTE4yTTN6dGhMQlhoejdXYk1tOUV2dTZuM0phZmVQeTZadHNjQ0pwRmQtMlhMWWh4Z05qWEZVbUdQM0pTZTVkNmNOUkdqZV9QV0hVU2JVVDJJMGgzUlgzNXQ2d29NQ256U01WdExlUw?oc=5</link>
-<guid isPermaLink="false">3d8feeb1c9b34050f860df7e28b00182b5b52e5cdc89d70717e37173c2cfbbad</guid>
-<pubDate>Tue, 22 Sep 2026 21:13:15 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>アンソロピックとOpenAIが低価格AI 値下げ競争激しく 日本経済新聞</p><p><b>ソース:</b> 日本経済新聞</p>]]></description>
-</item><item>
-<title>OpenAI「GPT-6 Sol/Luna」発表 料金半額、ただし普通のChatではまだ使えず（アスキー）</title>
-<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE50akVCYWNsZFF5OWNUSFd1Z1ZHVEc3QXpiTW52N3c5T0hxcmlINjVrblpNZTVobFRwdEd2aW5abUtIUlN2X2s2eFUzVXRzLU03NEtOVFRlVEZORnJyVk5FdGI4b2ZWZXJKMzZ0dW41UWd0NElWU2dQX05abHdFdVk?oc=5</link>
-<guid isPermaLink="false">4e1bec2ddca2f1d18da13a6f96059f03dac9e9cf8eda099ceb2590e0a6301e09</guid>
-<pubDate>Tue, 22 Sep 2026 21:10:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI「GPT-6 Sol/Luna」発表 料金半額、ただし普通のChatではまだ使えず（アスキー） Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
-</item><item>
-<title>OpenAI「GPT-6 Sol/Luna」発表 料金半額、ただし普通のChatではまだ使えず</title>
-<link>https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLMnNyR0ZqWERvMHBOMjMyNTY1RGNTVXpJaW03S1kyQWdtdVh2ZmV6TWpPNUJCcE9DQWw0VEhWQkdhYUM2YmptSkFOY1dnc0JSZThPNg?oc=5</link>
-<guid isPermaLink="false">dfd812f20f0004cab980c6c24639732e4a040a456b548ee78c401b7b200a9e40</guid>
-<pubDate>Tue, 22 Sep 2026 21:10:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI「GPT-6 Sol/Luna」発表 料金半額、ただし普通のChatではまだ使えず ASCII.jp</p><p><b>ソース:</b> ASCII.jp</p>]]></description>
-</item><item>
-<title>「返信忘れてた……」 メールの“うっかり放置”を減らす「Gemini Spark」活用術【実際のプロンプト紹介】</title>
-<link>https://news.google.com/rss/articles/CBMickFVX3lxTE1VclRnS2k1ejkxNXJfZzhNMW1UaXIzbFpwYkNUdWdxR25aNmtIeEhhVVlrS1V2VHoycDQ4cWZ5SnNyWllLVVBlLW1qOVpJeV93Qkp5RlZCSUJ1eTVPdmlnNkZDWFpobXBsMm5SalI1eDBxQQ?oc=5</link>
-<guid isPermaLink="false">8ded8614c7b5a97f7a41b0b2ae359182601622b283e53c101a85e2775a4903a1</guid>
-<pubDate>Tue, 22 Sep 2026 21:00:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>「返信忘れてた……」 メールの“うっかり放置”を減らす「Gemini Spark」活用術【実際のプロンプト紹介】 itmedia.co.jp</p><p><b>ソース:</b> itmedia.co.jp</p>]]></description>
-</item><item>
-<title>OpenAI、GPT-6の「Sol」と「Luna」公開 Astraの性能向上を低価格で</title>
-<link>https://news.google.com/rss/articles/CBMigAFBVV95cUxQczFiMDhmRy1zdzI4cnNWZXFHZWNzdGhLUXh3TmozQ1pMZ0hMWC1OSlJaa2lITF9EODJMcnFkNmpuNnUwem1XRkNxVmd4UzlVbk1sN1FsX0pMMHpVbmtrTFR0OGhOSU94ZlhwVXE1czVpLURlUGw2MU93c0F4amtpNg?oc=5</link>
-<guid isPermaLink="false">62eb1ee40085179ef5eb47b345679692c1b56dfa193cbc6ed604e06a746dee68</guid>
-<pubDate>Tue, 22 Sep 2026 20:55:03 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI、GPT-6の「Sol」と「Luna」公開 Astraの性能向上を低価格で portal.uqmobile.jp</p><p><b>ソース:</b> portal.uqmobile.jp</p>]]></description>
-</item><item>
-<title>日本のAI安全研究所も名を連ねる、OpenAIが描いた自己改善AIの国際標準の中身</title>
-<link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HbTU2OXpGZXNyM3NKcWtXWUtaMlN5QjVVNmt5aWNoMVc4TXl4YUVNVXVSb1BkdVBzcTllM1EyRnBmZENEejRtSmZhNlFINzV6eGIxQ0pFenI2ZENDbFRCNU50eWltNTQz?oc=5</link>
-<guid isPermaLink="false">0be1580ad6ca231687f22b9a438fd13706754dc3822e40b3291073e359c1dba7</guid>
-<pubDate>Tue, 22 Sep 2026 20:49:07 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>日本のAI安全研究所も名を連ねる、OpenAIが描いた自己改善AIの国際標準の中身 xenospectrum.com</p><p><b>ソース:</b> xenospectrum.com</p>]]></description>
-</item><item>
-<title>AI減速は終息か オープンAIとAnthropic新モデル発表</title>
-<link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9pQWJPTVRaQm5PRndITllCWWswOURVVHRkUlNXRk9IU0tfVlROVnIyR1Z1blpyN3FIcjVmc3d5c1NKVWxYTlExcEpJSWYzVkV2MS1HazZ3b3ZUbzI1amxwMjJoNjNqelZZTDRRcW9FbXdHTEF0?oc=5</link>
-<guid isPermaLink="false">531fccaf3a0226503848cd307ac68544760415d78d7ebd45531f6880fdd13d6d</guid>
-<pubDate>Tue, 22 Sep 2026 20:19:10 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>AI減速は終息か オープンAIとAnthropic新モデル発表 BeInCrypto</p><p><b>ソース:</b> BeInCrypto</p>]]></description>
-</item><item>
-<title>OpenAIが「GPT-6 Sol」「GPT-6 Luna」発表、APIコスト半減とキャッシュ刷新が変えるエージェント経済性</title>
-<link>https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJY2F1TGxrNVBpMlJmQ3lPRmVDVUloQXRDdHNqcnZOaVNTV0NVZ29hLVVuSWpLT1ZPMUxiaG1VS1FUSDJPRGdMNFhzakM2RlN2ZU1IZzllaVMzT2hCOXh3YTBpM0JfZw?oc=5</link>
-<guid isPermaLink="false">1080cc95c903f36fe9b1bc30560a118dd446bdc766c51511bb7157ff9d3e578b</guid>
-<pubDate>Tue, 22 Sep 2026 20:18:49 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIが「GPT-6 Sol」「GPT-6 Luna」発表、APIコスト半減とキャッシュ刷新が変えるエージェント経済性 xenospectrum.com</p><p><b>ソース:</b> xenospectrum.com</p>]]></description>
-</item><item>
-<title>OpenAIは「数学の成果横取り」 フィールズ賞教授が非難</title>
-<link>https://news.google.com/rss/articles/CBMibEFVX3lxTFBWc1FuczV2VzJndlBiTUlIUTVOelB5YV9ad3oyNjhydGVuQ2dHRG9nTjFYNUNxZzh1MjJBMGtUWjNFZVM1a19qRjc2MTV1TGhJaFNONDlYMUYteFF3TFJndVlZUGFXWTM4U0xXWA?oc=5</link>
-<guid isPermaLink="false">84dc2e5258d6048dc993e0127d46f9808387e9fd33b143750b08fe5f7e7d5db3</guid>
-<pubDate>Tue, 22 Sep 2026 20:15:34 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIは「数学の成果横取り」 フィールズ賞教授が非難 日本経済新聞</p><p><b>ソース:</b> 日本経済新聞</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Anthropic「Claude Opus 5.5」発表 40％低コストになり、OpenAI「GPT-6 Astra」を一部で上回る (アスキー) Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
 </item><item>
 <title>Anthropic「Claude Opus 5.5」発表、Fable 5.1並みの性能 運用コストはOpus 5比40%減</title>
-<link>https://news.google.com/rss/articles/CBMifEFVX3lxTE9hUmtlM05HZXJLenhWcFlwNWZnbEhsYjJqdWEyLV9zTnpxSG5pWGt0Qjg2V2pYdGFfcVdVYUZGY0hPbk10TlR5bEVLWmpacHdGemV2WlE1MF9UMlNHazlJdFRvcjJMb3FnZG82eHhFNzAycEFQQW81Vy1ya1TSAXxBVV95cUxPYVJrZTNOR2VyS3p4VnBZcDVmZ2xIbGIyanVhMi1fc056cUhuaVhrdEI4NldqWHRhX3FXVWFGRmNIT25NdE5UeWxFS1pqWnB3RnpldlpRNTBfVDJTR2s5SXRUb3IyTG9xZ2RvNnh4RTcwMnBBUEFvNVctcmtU?oc=5</link>
-<guid isPermaLink="false">5f1d76a29bfe77ebafd9329a7bc05fb8da9c0567655e692190ed82fae3bcbcb5</guid>
-<pubDate>Tue, 22 Sep 2026 20:13:00 +0000</pubDate>
+<link>https://news.google.com/rss/articles/CBMigAFBVV95cUxPb3EtN1RtNnctNlhHV01jWnNZbjFoX1ZyUFFtRWFCUG8tR0pmYjI3UERIaEh4V2s0QlM4U09Vbndjd09jRS13RG0zb1ZlTFlKbEREM0g4YUxMMkdrOGxqY1cxaUZnNjJTWGh4amxCSXM1ck9VMHRpYlF0N1JNUnhBM9IBfEFVX3lxTE9hUmtlM05HZXJLenhWcFlwNWZnbEhsYjJqdWEyLV9zTnpxSG5pWGt0Qjg2V2pYdGFfcVdVYUZGY0hPbk10TlR5bEVLWmpacHdGemV2WlE1MF9UMlNHazlJdFRvcjJMb3FnZG82eHhFNzAycEFQQW81Vy1ya1Q?oc=5</link>
+<guid isPermaLink="false">717fb206e7f6a7683d3cacf518bf21cffde58e9bbf45cddf25ea41d329e9a334</guid>
+<pubDate>Tue, 22 Sep 2026 21:58:30 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Anthropic「Claude Opus 5.5」発表、Fable 5.1並みの性能 運用コストはOpus 5比40%減 topics.smt.docomo.ne.jp</p><p><b>ソース:</b> topics.smt.docomo.ne.jp</p>]]></description>
-</item><item>
-<title>OpenAIとAnthropic、低価格AIモデル投入 オープンウエイト台頭に対抗</title>
-<link>https://news.google.com/rss/articles/CBMiywFBVV95cUxNaDZmLXZkY1QzNTNJQzRwVkZtUE12NWthVTEtQzI0VWpNcldrZjFMQUJQMHZ3ZUJXc0ZZR0VwcVdsSjBUbVV5ZWpqVDc3OGFtLVBnWXEzNG9VaEpoYzdEeXZtSTlDVFY1S2RONmN5RUQ2RkVDWGYydnZvaElvT0w3aERDaERzeXZjMmgxNk0yUFpXNnhja3VBSkxYc0JzdmxVMjZHcVlQdl9HNDlLVEFTdDBIQ3dJWDFnWmhSdDFGTnBnNE85QXhWTEtiOA?oc=5</link>
-<guid isPermaLink="false">6dd890e5ce26ae1bfd0a3bdfbb131e46ef84bb6afbf71d2d95e1e950f8f4fec1</guid>
-<pubDate>Tue, 22 Sep 2026 20:07:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIとAnthropic、低価格AIモデル投入 オープンウエイト台頭に対抗 디지털투데이</p><p><b>ソース:</b> 디지털투데이</p>]]></description>
-</item><item>
-<title>AI新法において、AIを活用する「活用事業者」に課される責務に関して、他の主体（研究開発機関や国民など）と比較した場合の最も大きな特徴とは？</title>
-<link>https://news.google.com/rss/articles/CBMicEFVX3lxTFAxTVc1Um1OZ2FETHczQ2lSVlJjVEROUVZMRFVoQTB5UzRvaEk5M2NsZzU5OUVPQkM1elVyVGpjcmtjaEVNb05ueUVHREl4WXk3TmZXNHdnZmJ0OXNENUR0MEJqNHlsa2NmV0kxRVB5T1Q?oc=5</link>
-<guid isPermaLink="false">cde11598e83470fc0a7d00045ac5fa67fb4405953deeb731749c78b027b5f431</guid>
-<pubDate>Tue, 22 Sep 2026 20:00:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>AI新法において、AIを活用する「活用事業者」に課される責務に関して、他の主体（研究開発機関や国民など）と比較した場合の最も大きな特徴とは？ techtarget.itmedia.co.jp</p><p><b>ソース:</b> techtarget.itmedia.co.jp</p>]]></description>
-</item><item>
-<title>「生成AIの勧め」で虐待被害相談する児童も 栃木県内児童相談所は県警と連携強化「通報ためらわないで」</title>
-<link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE02U0M1dm96Y3ZWeGJJZGNablRlNUtGb2lEMHY0RmhYejVRVV84Y0xhWDE4NHpEcmFtQmcyZmxZTmNvSW5acFgwOE40QWIwYi1oMF9PT1dmekhUYVE?oc=5</link>
-<guid isPermaLink="false">ac5fae2f4e4f43a52fd13002c8c4a0df652f1f83d3e6180162832c887e1fb732</guid>
-<pubDate>Tue, 22 Sep 2026 20:00:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>「生成AIの勧め」で虐待被害相談する児童も 栃木県内児童相談所は県警と連携強化「通報ためらわないで」 shimotsuke.co.jp</p><p><b>ソース:</b> shimotsuke.co.jp</p>]]></description>
-</item><item>
-<title>Claude Opus 5.5 と GPT-6 Sol：どちらが貴社にとってより優れているか？</title>
-<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNci1EX2l2Vmk3cFZsTGJ1LTlBOVIyeWRnVzBielVwZDdDRy1uazNJVV9kQm4xWE5DS09ZU09NZDNBQmVlczhwbmppQmRXZTg4YWhMd3gzWDlnTmVYeEJuT3FUaENoVTZVRnFzSDlqZDZDZXJONXE2WTRfYjluVy1wbjltR1Z6VHROaFZ5cU9MdHk?oc=5</link>
-<guid isPermaLink="false">a3952f2f7a057cb459d081ddfdd652db43433ae9ba641837125a7f04126f20b7</guid>
-<pubDate>Tue, 22 Sep 2026 19:55:27 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Claude Opus 5.5 と GPT-6 Sol：どちらが貴社にとってより優れているか？ Unite.AI</p><p><b>ソース:</b> Unite.AI</p>]]></description>
-</item><item>
-<title>滋賀県、生成AI普及あおりでタッチセンサー企業が破産手続き開始決定 大手自動車メーカーに出荷も</title>
-<link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE50eDZoOXlwTWZHTTBYUS1oTXp1MzN2NVRXY1Vud056T1NuN0VsSWtSYnJWblY5d1R3MG9JQTk5aWlycXhwMlI2SUo2SzNqdm1PQVlUR3VId0Q?oc=5</link>
-<guid isPermaLink="false">53ab8365afc1c824d792c612f03bd7c8379e732519e83f7961b2178272ea0201</guid>
-<pubDate>Tue, 22 Sep 2026 19:55:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>滋賀県、生成AI普及あおりでタッチセンサー企業が破産手続き開始決定 大手自動車メーカーに出荷も 京都新聞デジタル</p><p><b>ソース:</b> 京都新聞デジタル</p>]]></description>
-</item><item>
-<title>AnthropicがClaude新モデル「Opus 5.5」発表 Fable 5.1並みの性能をOpus 5より4割安く</title>
-<link>https://news.google.com/rss/articles/CBMigAFBVV95cUxNMnh4Mm9qcUs5bC1xVExOUVVDX2RBZlZQYmJMck1uNnZjTzJMME85OEJuc2Vickw2RXJSU2xMS1JwTWNSUHU1MGZLcWJWTkV2TDlSWTg5ZGk1SW5tQ2lLWlVMSi1fa1NkWThOY1YyTE9zVE9ZN05wcEcwY3VyNmhyRg?oc=5</link>
-<guid isPermaLink="false">66b7bec5c27b88a56629b832692920ffb22d815f2911b83d90c87646df988cf1</guid>
-<pubDate>Tue, 22 Sep 2026 19:52:44 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>AnthropicがClaude新モデル「Opus 5.5」発表 Fable 5.1並みの性能をOpus 5より4割安く portal.uqmobile.jp</p><p><b>ソース:</b> portal.uqmobile.jp</p>]]></description>
-</item><item>
-<title>Anthropic、価格引き下げと新たな安全対策を伴うClaude Opus 5.5をリリース</title>
-<link>https://news.google.com/rss/articles/CBMingFBVV95cUxPaGFQSHdPLVVnU2hiZ3NoMmxFcHFFQ1hERzJZWkZ2c1BCVEpyRlNVLThqbE5jQVl6TWdXcl84ZGROcFRtOURqSWZ2dXpWem5VaUpYRmpqa29vRWFLSW5zNTZUMnd3Rk41NFVXcDdRdmptRV8zaTh4ZnFiWVMtc0w1Q3dQemNmc2FNeXJKQS1Ha3ZLVkhZMmNJNFZGUk40Zw?oc=5</link>
-<guid isPermaLink="false">2c0c4479e98b9735d5cae25537a173ce44b83d4003f4454cc1304a81021755c2</guid>
-<pubDate>Tue, 22 Sep 2026 19:33:51 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Anthropic、価格引き下げと新たな安全対策を伴うClaude Opus 5.5をリリース Unite.AI</p><p><b>ソース:</b> Unite.AI</p>]]></description>
-</item><item>
-<title>OpenAI、GPT-6 Sol と Luna を発表、API 料金を 50% 削減</title>
-<link>https://news.google.com/rss/articles/CBMijwFBVV95cUxPNUNPSGxMNk91WWk4OGVGbXIwekd5VXROSDliMGlUTk1ZZnVCejJ5VWlxclF6Z3lvM0VKY05hb19VMFZ5eF9xaW94SEFhU3h5dVJBZ2t4b3hxamw0S1lJV2h4M1BoU1pzWjk0aGIxUm9OTmZrTTNiN0lDc1FVZkZ5NE1oSmtjN1RCVGhqN29lMA?oc=5</link>
-<guid isPermaLink="false">01227784c29da937224721a5267f11cf221e2fbcf669fac0ebf029f737b7bf55</guid>
-<pubDate>Tue, 22 Sep 2026 19:29:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI、GPT-6 Sol と Luna を発表、API 料金を 50% 削減 Unite.AI</p><p><b>ソース:</b> Unite.AI</p>]]></description>
-</item><item>
-<title>Anthropic、「Claude Opus 5.5」発表 Fable 5.1並みの性能をOpus 5より4割安く</title>
-<link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE56UUNOakVGOGo2WnFLOGFNTHhaeE5UM09heFNkQXdaRGJ5Skt3endKblVhdE9pbVdrejJ0bVJ4YVBINTBvRGNyc1lpenN2THRrZmc?oc=5</link>
-<guid isPermaLink="false">c2480ce681ae5668bce8029b2f4b4383171a204d65c05d50517b1f1eb97953f8</guid>
-<pubDate>Tue, 22 Sep 2026 19:14:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Anthropic、「Claude Opus 5.5」発表 Fable 5.1並みの性能をOpus 5より4割安く CNET Japan</p><p><b>ソース:</b> CNET Japan</p>]]></description>
-</item><item>
-<title>Anthropicが「Claude Opus 5.5」発表、Fable 5.1級の知能と40%のコスト削減を両立</title>
-<link>https://news.google.com/rss/articles/CBMia0FVX3lxTE52MEI3U2NmM19QWWxoZ0NtRVFpa0RnS1pGcUpoUlg0N3ZxaG1KVkpNbFJ4M1BnSkphRjJDQnd0emMzRWxjU0xQaGZZNFA4QTJncUp5VFFPWFlTNDU0SW5rMnVNUHdIMUE0NHNv?oc=5</link>
-<guid isPermaLink="false">90a2b73a530659252a778707b841201363c33c8e628897eccdad6b299afd9122</guid>
-<pubDate>Tue, 22 Sep 2026 18:42:31 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Anthropicが「Claude Opus 5.5」発表、Fable 5.1級の知能と40%のコスト削減を両立 xenospectrum.com</p><p><b>ソース:</b> xenospectrum.com</p>]]></description>
-</item><item>
-<title>OpenAI、「GPT-6 Sol」「GPT-6 Luna」で価格半減、Anthropicを下回る攻勢</title>
-<link>https://news.google.com/rss/articles/CBMidEFVX3lxTE1jRDh2MUo1c3RNeHVXUTBLRWl4NWpMcTV3RVJOZU9MNW1LS28yUmZCUnhCcFJyNmFyN21BX3NrZ2p2MUxvWVJ2angwUWhTWVlVaW9KR1daMy10cE1RUnBFcWdsY1NENFg4dkVyb3hydVMzekxt?oc=5</link>
-<guid isPermaLink="false">3188a6c28b2765adf5b246342689db0643b4a1dd1baa259e51130c693aaacfee</guid>
-<pubDate>Tue, 22 Sep 2026 18:35:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI、「GPT-6 Sol」「GPT-6 Luna」で価格半減、Anthropicを下回る攻勢 BigGo ファイナンス</p><p><b>ソース:</b> BigGo ファイナンス</p>]]></description>
-</item><item>
-<title>OpenAIがGPT-6 SolとLunaを発表、旗艦モデルより低価格に</title>
-<link>https://news.google.com/rss/articles/CBMia0FVX3lxTE9jZ2lmU1ZoNzdWbVZsQXdxa1dTOTVaS2g5a3E1aWNXUUZ3OHV3ekpjT0oxaDlsM1A3MS1rSW5fb0tKRDRkMXVCYlNDS2lVaTBTejBEQU1SV0dIWC1oWXg2TjZaX2V2Z1hYYWR3?oc=5</link>
-<guid isPermaLink="false">4d38f53052191b9a369fec71b3081522c4db9f1591ea712a879029daf7643b4f</guid>
-<pubDate>Tue, 22 Sep 2026 18:26:33 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIがGPT-6 SolとLunaを発表、旗艦モデルより低価格に Межа. Новини України.</p><p><b>ソース:</b> Межа. Новини України.</p>]]></description>
-</item><item>
-<title>パロアルトネットワークス、機械速度の攻撃に対抗する常時稼働型AI防御サービスを発表</title>
-<link>https://news.google.com/rss/articles/CBMidEFVX3lxTFB4QlFidGFGU3EtNmF6NFM5TUg3b1B2eHZlbHE3dlJpTmNzWmdDUGtfVk8yb0VGcHhfVWx6dVg1TmVFTXNmSXljN0JSUldCeDVKRFMwVEVyeElSZlpIM1BFQ0pGZUY0TE14bl85dDY1NzNTODNY?oc=5</link>
-<guid isPermaLink="false">78f927047a85e1617e3729898a8b0b439fb5c48a880b7b3085200e3a4ee5d94a</guid>
-<pubDate>Tue, 22 Sep 2026 18:25:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>パロアルトネットワークス、機械速度の攻撃に対抗する常時稼働型AI防御サービスを発表 BigGo ファイナンス</p><p><b>ソース:</b> BigGo ファイナンス</p>]]></description>
-</item><item>
-<title>OpenAI、AI安全性の独立したレビューに関する枠組みを発表</title>
-<link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxORnpLS2pNcm95T0RrX1dpSUYzYVY4NU1KVTlqSUZYVEZnTGNLajFwYVREdXZXSDRyN3Jyd0FuU1YtWjBOc0tqYnpyU2h6dnEtazhWVlU2RjFTNUZ5eHZiLTlfRXdwd1dfUkpQZ2puN0YzRHo0dy1KTmxnTmJOaUdOTjdFczdTdE40UDR3QXB4MkFkTW9RX3BHdGZxRGdMcFF0aFowSTNlcTF5Zw?oc=5</link>
-<guid isPermaLink="false">48acc209eff65ba860f76129136c4e97c6e5f490822501529caa968f66278d69</guid>
-<pubDate>Tue, 22 Sep 2026 18:18:44 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI、AI安全性の独立したレビューに関する枠組みを発表 Moomoo</p><p><b>ソース:</b> Moomoo</p>]]></description>
-</item><item>
-<title>OpenAI、米国に取り組みの主導求める－AIの国際基準策定で フォトギャラリー | TBS CROSS DIG with Bloomberg</title>
-<link>https://news.google.com/rss/articles/CBMifEFVX3lxTE9pUy1TTDNXYVlGS01QMWctTGZxNkk1TUhsc3ZWMk1jTVlJWDZpbEUzOTBQV093SW9OcFVJQXBYN3VINTdzcXAyNGxyeFhQWmNTZGF1ZDFfdHJZVGtITUEwdGNHZXhYNkY2RTdvbTFLeXdlc1lhaUxXb3ItdlA?oc=5</link>
-<guid isPermaLink="false">add6951cc0bc941661d4ce485f770320bd49dfe39f6a7c39d1ce3d9b02a162ae</guid>
-<pubDate>Tue, 22 Sep 2026 18:15:54 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI、米国に取り組みの主導求める－AIの国際基準策定で フォトギャラリー | TBS CROSS DIG with Bloomberg TBS NEWS DIG</p><p><b>ソース:</b> TBS NEWS DIG</p>]]></description>
-</item><item>
-<title>OpenAI、モデル開発の早期段階で外部検証受け入れへ－リスク対応強化</title>
-<link>https://news.google.com/rss/articles/CBMid0FVX3lxTE55akNldXdEV2djaTNFM3lfT1lMcEM3WnJmQUR6ajRWb1pVWkVjN0R6ZTJRV194aHFKeTM5Nk9iVnRfeFl1c081dUhtODNmOGU1Q1Jka1dBY1pLZldnNURZMFBPUDE2VGxUcXY4TXc2OTNYVlQtb3ZB?oc=5</link>
-<guid isPermaLink="false">134a4b515796117975911942d05a2ab3d6237a6f45cacfcbdcf78bfbc6c732c4</guid>
-<pubDate>Tue, 22 Sep 2026 18:11:41 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI、モデル開発の早期段階で外部検証受け入れへ－リスク対応強化 Bloomberg.com</p><p><b>ソース:</b> Bloomberg.com</p>]]></description>
-</item><item>
-<title>Opus 5.5の発表日にNVIDIAの流出でGPT-6 Solが判明</title>
-<link>https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ2phUllGQkRUcHdiVC16WURLYXo3ZUNtSmY1eGQ1T0t1TGNkb3k1Z05aZEhqdXZCQkcwVFpDM1dWTjJXQVBMSjBpanh5ZTZSWjN4eEJmR1RoM2ltV0loZTUySmxpQmVPSEVWM2FOaVZ6QjRlMlJVaXdpN2t0RXVRMg?oc=5</link>
-<guid isPermaLink="false">2e63bb8cfc318059f1f3f8012fc01b09666a2d4f590a5db107a1e0e42877e0d2</guid>
-<pubDate>Tue, 22 Sep 2026 17:49:19 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Opus 5.5の発表日にNVIDIAの流出でGPT-6 Solが判明 Pasquale Pillitteri</p><p><b>ソース:</b> Pasquale Pillitteri</p>]]></description>
-</item><item>
-<title>「Claude Opus 5.5」で何が変わる？ API料金20％値下げ、文章の読みやすさも改善</title>
-<link>https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sTDBEWUxKZlVabW1UMFREampDZXF4cW1XUzd2UDY1cTVXWmpzQUZNM1hRWGY3blhRUXYxYmZkQk5GNGk2YWdWUjd0UmI5a0dxSi1CX1N4Q3liZHhzbTl5TdIBZkFVX3lxTE5kbXJwUWRtYTNWTnE3eXFlUkx5a2Z6TkpQMHd0TklGUjhoajZZR1hxSUgxemFJQ2xFaUlPMnR3RVc2LXV6NW8wb1JVXzlXX1lWdkl6Y1N2VUE4b1BfbUJaZkNiWFBEdw?oc=5</link>
-<guid isPermaLink="false">e6a6b63d558adc0db2cbced8987969f579dca147cf51d2f9f270ee7346e57fbf</guid>
-<pubDate>Tue, 22 Sep 2026 17:46:14 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>「Claude Opus 5.5」で何が変わる？ API料金20％値下げ、文章の読みやすさも改善 リアルサウンド</p><p><b>ソース:</b> リアルサウンド</p>]]></description>
-</item><item>
-<title>Anthropic、新旗艦AI「Claude Opus 5.5」を発表——運用コスト40%削減、AI安全性論争の渦中で</title>
-<link>https://news.google.com/rss/articles/CBMidEFVX3lxTFB2Mi1ObXYwOGxvbmdIeTVNeEVYN2RkMkxQT3R1WlJWbEFnZUdiaHgyZGVOdThwbjRBZFdtNGxkdDNjNE1NU2E4SU9Ib0k0ekhrN1JvTmd2Ynhic0g1cVZJelpqMFk5b3NNN3JPUTdPTmNJVlVw?oc=5</link>
-<guid isPermaLink="false">670acd47984c04a514f8a35432caf45dc3818ff18e76ea985196345009bb71fe</guid>
-<pubDate>Tue, 22 Sep 2026 17:35:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Anthropic、新旗艦AI「Claude Opus 5.5」を発表——運用コスト40%削減、AI安全性論争の渦中で BigGo ファイナンス</p><p><b>ソース:</b> BigGo ファイナンス</p>]]></description>
-</item><item>
-<title>Claude Opus 5.5登場 Fable 5.1並みの性能をOpus 5より40%安価に</title>
-<link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE1POFV3d3hxZGljZklpV2d4cTdtbFlScXozZGV0dmFYYmtaTGRLdGt3dWI5MnF3dHZGM1oxYnNZN052bG42U214Z2ZtNVJBZ2NvNUwyaUk1SFgzRGtfT1FUTjVkbWQ?oc=5</link>
-<guid isPermaLink="false">f546e5cdf0f0f41e3f750e0760e3a0b1a47bf393591f8eb83e74c4168643781d</guid>
-<pubDate>Tue, 22 Sep 2026 17:16:56 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Claude Opus 5.5登場 Fable 5.1並みの性能をOpus 5より40%安価に Impress Watch</p><p><b>ソース:</b> Impress Watch</p>]]></description>
-</item><item>
-<title>Anthropicが「Claude Opus 5.5」を発表</title>
-<link>https://news.google.com/rss/articles/CBMieEFVX3lxTFBuOHc3ZThwUWFqMm8wUldmVlpSbWVBZVJzelNPUGRIT2J5RWlMVzBpZGJuMVhob1RHSWt3b1VlbUxKVW1KbkE2WThQSktlaGdHSU92d0M4R0N0MllpSUFITjhfSFFPUVhpNV85OEtrU1lZQ0dmbTV0MA?oc=5</link>
-<guid isPermaLink="false">68a5fa0c4715ba3be5253b18d896070f10e37440c6bd9820c508117ed0833aff</guid>
-<pubDate>Tue, 22 Sep 2026 17:09:08 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Anthropicが「Claude Opus 5.5」を発表 TradingView</p><p><b>ソース:</b> TradingView</p>]]></description>
-</item><item>
-<title>AnthropicがClaude Opus 5.5を発表、AI競争が加速 執筆</title>
-<link>https://news.google.com/rss/articles/CBMicEFVX3lxTE5uLU9uTnJaYnZpSXV2MjljVkVGRnZRRjFqaERacFRhODA5U2RoWkFFaWFiaEszVTRPVXJ3aFY1U1EtRzFRM2x0b1Q4SVpBYzV1TGgzQURxLXZpdVdRdHNCcHp3a3h1UzI4bWk2Rm9YNVU?oc=5</link>
-<guid isPermaLink="false">b6d5c05c77e6ce86c7cc99cde4fe328f1481e62d4ad96dea42a53053696d8dac</guid>
-<pubDate>Tue, 22 Sep 2026 17:00:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>AnthropicがClaude Opus 5.5を発表、AI競争が加速 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</p><p><b>ソース:</b> Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</p>]]></description>
-</item><item>
-<title>ガガン・ビヤニ氏「コーディングはもはや歴史の授業」——OpenAI、NVIDIA、Anthropicと組む40億円調達の学校構想</title>
-<link>https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoRWtHQXdzNGNhVVI4WHJUSUJQMV9RWTZkMXdhazlkUFdPQVl4bnF3VTNaT01iTkZkY2tpYUdWZ2hEU3R6MUVTcEQ1U2tuMXk5cU9sUnlSWk1SQQ?oc=5</link>
-<guid isPermaLink="false">96e2e29e975ad9db0aebd2d5a5393518d37ae125a28e2adc8123e4bf62903699</guid>
-<pubDate>Tue, 22 Sep 2026 16:08:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>ガガン・ビヤニ氏「コーディングはもはや歴史の授業」——OpenAI、NVIDIA、Anthropicと組む40億円調達の学校構想 BigGo ファイナンス</p><p><b>ソース:</b> BigGo ファイナンス</p>]]></description>
-</item><item>
-<title>Anthropicが数十億ドルの資金調達を検討、Claudeが企業市場でOpenAIを追い抜く</title>
-<link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZdW5CcFZEaEVHUG1VOTdZSjhOdmR5Tm9xSXNUWGtIdzZ1VUxqNFpSQVM4VGtFMk04TjFyUl9TZVpSZ2F0T280ejdGVEwxejh1VTNON3VaSHZpb1VGTmpZZThnZjBnbG8?oc=5</link>
-<guid isPermaLink="false">06dd2b21836f024f67c5be93fe4cfc5db0152d4aeaade7609079b861488c19c4</guid>
-<pubDate>Tue, 22 Sep 2026 14:20:37 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Anthropicが数十億ドルの資金調達を検討、Claudeが企業市場でOpenAIを追い抜く Межа. Новини України.</p><p><b>ソース:</b> Межа. Новини України.</p>]]></description>
-</item><item>
-<title>ゲイブ・ステンゲル：OpenAIとAnthropicはウォール街を動かす配管を構築しない</title>
-<link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE54c1lNNHpqMEVUWERJU2JXVWRGSU9HVThEcFJoNjFOS25YdUNocGZQbU1FZkJSMjF1LVpqeXYyMVFYWmp3UDdjX2x2Tk1SaG81bG5xbENXT2ZxZw?oc=5</link>
-<guid isPermaLink="false">3fb5d662e941b96ab0651e375682793c240c4501f17181e2893ee15572f1b008</guid>
-<pubDate>Tue, 22 Sep 2026 14:18:29 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>ゲイブ・ステンゲル：OpenAIとAnthropicはウォール街を動かす配管を構築しない BigGo ファイナンス</p><p><b>ソース:</b> BigGo ファイナンス</p>]]></description>
-</item><item>
-<title>DeepSeek、OpenAI、Anthropicが国連安全保障理事会でAIリスクを説明へ</title>
-<link>https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZQ1RveDNxaEkyaC1lYzgzcHMtcXhPcnQzTkhZVW1xNWQ3QjAyU0FhUE01S1FndWxPakUzWUVHUkt6eW9JMnhMSmM2VldjUS05NFV4ZVBIczQ2b1JWR3luZVlhd0JrNXFNaTlnenFPUTVQbDE0?oc=5</link>
-<guid isPermaLink="false">84bd5408c6375df9a9445560d24f7a5034762f1361543e70b1d1f34118f52cf5</guid>
-<pubDate>Tue, 22 Sep 2026 13:35:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>DeepSeek、OpenAI、Anthropicが国連安全保障理事会でAIリスクを説明へ BigGo ファイナンス</p><p><b>ソース:</b> BigGo ファイナンス</p>]]></description>
-</item><item>
-<title>OpenAI、自社ストレージ「Habitat」をRustで全面刷新 10億人規模の基盤を2人とAIで書き換え</title>
-<link>https://news.google.com/rss/articles/CBMidEFVX3lxTE91UjU2bXAyeEwtbHBPV3otbUsyNVluMElFd3dOVFdwWURPZzQ1ZkpYRnpfLWxmcTNia0dQRVhZeWtjTHQ1SDg5bjJFTHUydUZaMVlqaTVIdlg0Wjl0V1Z1cGtrakZCS2tOT25Idi1Ed25xUnlD?oc=5</link>
-<guid isPermaLink="false">bd74aca1da293a4f1a9b30383624917ade51e0afed3f8c428d0b8e45ca8a6564</guid>
-<pubDate>Tue, 22 Sep 2026 13:35:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI、自社ストレージ「Habitat」をRustで全面刷新 10億人規模の基盤を2人とAIで書き換え BigGo ファイナンス</p><p><b>ソース:</b> BigGo ファイナンス</p>]]></description>
-</item><item>
-<title>xAIがGrok 4.7発表、価格据え置きでもClaude・GPT-6に見劣り</title>
-<link>https://news.google.com/rss/articles/CBMicEFVX3lxTE1kUXNQRExwaE1WZi1XajNDS011NDNNZVhBM0h5TDZhcHl3LXpCLTVfQjdPMHpYMklJWXVpZHhnRmFsZURUNzk2OXRtZWlnSXNUeHBPUy1hSVRQRjJaR0k1WDlrbFNtQTU4eUlxMnFfcnI?oc=5</link>
-<guid isPermaLink="false">7c3cbe7c8395ecffc272c1adbde1437596f09c44e35e83b7781dc70a577910ac</guid>
-<pubDate>Tue, 22 Sep 2026 13:28:24 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>xAIがGrok 4.7発表、価格据え置きでもClaude・GPT-6に見劣り Pasquale Pillitteri</p><p><b>ソース:</b> Pasquale Pillitteri</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Anthropic「Claude Opus 5.5」発表、Fable 5.1並みの性能 運用コストはOpus 5比40%減 ｄメニューニュース</p><p><b>ソース:</b> ｄメニューニュース</p>]]></description>
 </item>
 </channel></rss>
