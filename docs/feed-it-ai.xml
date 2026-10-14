@@ -4,356 +4,258 @@
 <link>https://example.invalid/</link>
 <description>個人用ニュースフィード</description>
 <language>ja</language>
-<lastBuildDate>Wed, 14 Oct 2026 01:25:27 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 08:10:05 +0000</lastBuildDate>
 <item>
-<title>Craft スイートと MCP サーバー、Claude Code で使うためのガイド</title>
-<link>https://news.google.com/rss/articles/CBMiigFBVV95cUxQX3dPaWtpRWpyOTNuU0w2NmJTS3N0amNRZWJjRG1RVkllV3VwTUhjT29BVFk2SWVKRWMzRTB4azVkNlVzOEI1dnR1a0RyTEg3V3FpQ1cxMUdid3Q4NGkwUGhHX0RzVUgteDllYUZNY3diOXd5YUI3MTNIOUNudmFWMDFuYWZXNHRKOXc?oc=5</link>
-<guid isPermaLink="false">2d52266e5f27c27b68877e4c77e5825ac0e1b743eac9e5d0eb826b50a5fdd3e4</guid>
-<pubDate>Wed, 14 Oct 2026 01:22:09 +0000</pubDate>
+<title>パソナマスターズ 『2026年度 ミドル・シニア人材の生成AI利用実態アンケート』 ～生成AIの利用経験、60代77.1％・70代61.4％ シニア世代に広がる生成AI利用～</title>
+<link>https://news.google.com/rss/articles/CBMifEFVX3lxTE11SGY2VldfX01jUExqX0FlbGJINDJlSWx6MFRqUFJjWnFUbkpDc1ZiY0w0ZEFaNkQ3cDFibDhzd3FmYVVvZm9YeFVPR29IZTZxa2R4Nzk5d245ek1oQ3JpXzNHSFZZOEtRNlQzRmhHbEhucW9Qb3NWSVJsYWs?oc=5</link>
+<guid isPermaLink="false">59017b74e9841043e741cf1eff600c9c2b5d75bbca05faf054288d1157fab70c</guid>
+<pubDate>Wed, 14 Oct 2026 08:06:42 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Craft スイートと MCP サーバー、Claude Code で使うためのガイド Pasquale Pillitteri</p><p><b>ソース:</b> Pasquale Pillitteri</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>パソナマスターズ 『2026年度 ミドル・シニア人材の生成AI利用実態アンケート』 ～生成AIの利用経験、60代77.1％・70代61.4％ シニア世代に広がる生成AI利用～ パソナグループ</p><p><b>ソース:</b> パソナグループ</p>]]></description>
 </item><item>
-<title>グーグル「Gemini 4 Argon」ついに提供開始 テストは好成績、でも仕事はできる？</title>
-<link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Lc1Y0c1NBU3k2NlRmNm1tNkIzWTgzek1NRkVfWG5ka2VXQlozRXA1V2JudUNZT3BsU3ZtQ2t5cWMzcmFmYTZvSHBZbmIzZ01ROHY0aw?oc=5</link>
-<guid isPermaLink="false">0a0aaf1a8b92866f868ef0210153bd001587f98a42563a3cb51121edec6cd3d1</guid>
-<pubDate>Wed, 14 Oct 2026 01:20:00 +0000</pubDate>
+<title>Anthropic、重要インフラとOSSを守る「Cyber Mission」発表 日立など11社が参加、無料の脆弱性スキャンも</title>
+<link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVc2dzc0NrV1NycU4tcUtEX2ZqbC1xbnhWY2hJOFlYSDV1dWlIVEVBZnk1Mjd4QVBLbUh1UlRmT2RZd2hGMEtUNU5hQ0hXSGRicTIyNFZLQVpvVWRuOGc?oc=5</link>
+<guid isPermaLink="false">2f9b8033ece9c4f6b37e3f81a3179c3789cf97453e00bdd6b015e7d275be315d</guid>
+<pubDate>Wed, 14 Oct 2026 08:00:12 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>グーグル「Gemini 4 Argon」ついに提供開始 テストは好成績、でも仕事はできる？ ASCII.jp</p><p><b>ソース:</b> ASCII.jp</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Anthropic、重要インフラとOSSを守る「Cyber Mission」発表 日立など11社が参加、無料の脆弱性スキャンも Ledge.ai</p><p><b>ソース:</b> Ledge.ai</p>]]></description>
 </item><item>
-<title>Claudeが警察に架空の通報。しかも発見まで2カ月以上かかっていた</title>
-<link>https://news.google.com/rss/articles/CBMib0FVX3lxTE1DTXpsemRZZHpQRTlHNzVGM1YydHk4VWFwbkl2cGRtMWRfTWgxV1RCX1BidG4wOHNOYXp6VFFMV3I2U1owSC12YzJOQnpGUXFOZGRtOTNuRDVSSFJCZjlpbWZKZW0wRFMxWFBQeUZxMA?oc=5</link>
-<guid isPermaLink="false">608b926b43550b7a1b83d92cfa95fb921de91c62466b9046d3eb617ecd159c5c</guid>
-<pubDate>Wed, 14 Oct 2026 01:15:00 +0000</pubDate>
+<title>AIデータ社、生成AIの次は“生産最適化AI”— AI孔明 on IDXが切り拓く製造業の新しいAI市場 ～製造業の“収益構造課題”を解決する生産最適化AIモデルをリリース～</title>
+<link>https://news.google.com/rss/articles/CBMiakFVX3lxTE03MnRVTDhjelltRV9RODZTbFZkUkdYR2hCV3NHMEo5S29UdGlfZHJUbXpjbmJHWDB5UjgyS3U0VzJHMGcyaVRQLVp3SldLcUhDdDMtcEUxT0dyTEpWSk05SGtFcWxGejNkREE?oc=5</link>
+<guid isPermaLink="false">c40382d41e4725e6e2dbe0552c5c3cc924671d6397669e841e4ada7853980a82</guid>
+<pubDate>Wed, 14 Oct 2026 08:00:02 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Claudeが警察に架空の通報。しかも発見まで2カ月以上かかっていた Gizmodo</p><p><b>ソース:</b> Gizmodo</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>AIデータ社、生成AIの次は“生産最適化AI”— AI孔明 on IDXが切り拓く製造業の新しいAI市場 ～製造業の“収益構造課題”を解決する生産最適化AIモデルをリリース～ PR TIMES</p><p><b>ソース:</b> PR TIMES</p>]]></description>
 </item><item>
-<title>OpenAIのエンジニアを逮捕 FBI</title>
-<link>https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4eXltTWFqSG9TNFo1Rm9maEFidlhFQWVkQ18yTDRuMzQ1NUE3blB4QUxHN2xhYVpMZFNKRF9FSGg1YlNwLUZ3N1dnR2g0ZC1y?oc=5</link>
-<guid isPermaLink="false">14364271db7c839cd48f76f0e0afb35af30a4b976c34d0f1c6ee122a56b79b22</guid>
-<pubDate>Wed, 14 Oct 2026 01:10:32 +0000</pubDate>
+<title>サーバーワークス、「Claude Partner Network」のSelectパートナーに認定 ：時事ドットコム</title>
+<link>https://news.google.com/rss/articles/CBMia0FVX3lxTFBFLWFVQWdvcDVHbDlwZWxVZGdFOFU4S2Q2TUxVSUc5VFdGYkNScjV6N0lvMk5RaFhyTEZSdzgyYkQzWmFGWTNISFFXcGkzcE5qVVlyQ1FpSWRFZnNFbWFjSTl2S2V6UWZobGE4?oc=5</link>
+<guid isPermaLink="false">92a6e52f998e51306268f7c141d8c4151b2086f9da487db6a512479867d131ab</guid>
+<pubDate>Wed, 14 Oct 2026 07:46:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIのエンジニアを逮捕 FBI Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>サーバーワークス、「Claude Partner Network」のSelectパートナーに認定 ：時事ドットコム 時事ドットコム</p><p><b>ソース:</b> 時事ドットコム</p>]]></description>
 </item><item>
-<title>【27卒就活生調査】生成AI利用者の77.7％が応募判断でAI回答を参考に</title>
-<link>https://news.google.com/rss/articles/CBMiakFVX3lxTE9PeGo3ZS1sd3BKZ1FuU21VdUc2TjNIU0YwcWlkN3Z2TnZrTHdxcW9IWGFrY1B1Q2xTSUlTZGQ3emRlSzlkUUg2NGVaVDhZWUdUaUdScGVhTGU0b1lUR2c2MGNhRGUtVnp0Q2c?oc=5</link>
-<guid isPermaLink="false">7628135183429ef17bf08d07c39bc3a4dc0c88247fddf2fec3f931f3448f177b</guid>
-<pubDate>Wed, 14 Oct 2026 01:10:01 +0000</pubDate>
+<title>【10月29日（木）オンライン開催】生成AIによるゼロクリック検索時代：Webサイトの「見えるリスク」と「見えないリスク」｜無料セミナー</title>
+<link>https://news.google.com/rss/articles/CBMia0FVX3lxTE1FRl9mSVBHbzFqeWxWWW9UaUR6ZDlER3cwTXlsamlrY29FNEJ3cVNzUDRUU0xnXzFma01ZZlk3UlU2YUZfQ2VpU1gtcTE0UlJ3TDF1MmJOZUl4dk5mX1REc1ZDeEVacUxSalIw?oc=5</link>
+<guid isPermaLink="false">fbb7b3893a3f880204ba1abd9fefa807bd2e66965b62e897bcb85b6fa2e4f7d7</guid>
+<pubDate>Wed, 14 Oct 2026 07:46:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>【27卒就活生調査】生成AI利用者の77.7％が応募判断でAI回答を参考に PR TIMES</p><p><b>ソース:</b> PR TIMES</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>【10月29日（木）オンライン開催】生成AIによるゼロクリック検索時代：Webサイトの「見えるリスク」と「見えないリスク」｜無料セミナー 時事ドットコム</p><p><b>ソース:</b> 時事ドットコム</p>]]></description>
 </item><item>
-<title>生成AIと対話してBIMを作る「ACIMUS」、シードラウンドで約6,500万円を調達 ― JR東日本スタートアップと資本業務提携</title>
-<link>https://news.google.com/rss/articles/CBMiakFVX3lxTFBxTV9GdHVFdnQycUJqMHlTODRCdVdveHVobjVrYU5maEg5dHJIOFUwRVh0VzNDazc4RVI3RWtBX1ZnNlI3ZFJSSlhXLTlEN3FxbGtUOXpLZHNaRjBENkpCVEJyc3ROUmJrR2c?oc=5</link>
-<guid isPermaLink="false">566bdd2a5b67db91e6874c0a5175dc9b9c99d3ed67b8147379e4ffe5b62d3e36</guid>
-<pubDate>Wed, 14 Oct 2026 01:10:01 +0000</pubDate>
+<title>デジタルハリウッド大学、生成AI「Claude」を全学導入 学生が費用を気にせず“使い倒せる”</title>
+<link>https://news.google.com/rss/articles/CBMiSEFVX3lxTE5DNHZ4V2NYelBSYjVTekk5Tkd0WGdHdTVPVFl5Rms5UGVTV0kzamNvUFhBTTMtOTAyc012ajNuZTdpX1BueUt0Sg?oc=5</link>
+<guid isPermaLink="false">ab18d1d3b33db6ded1808fde465f79fa0de7be304f450541a9776dead57a38ba</guid>
+<pubDate>Wed, 14 Oct 2026 07:42:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>生成AIと対話してBIMを作る「ACIMUS」、シードラウンドで約6,500万円を調達 ― JR東日本スタートアップと資本業務提携 PR TIMES</p><p><b>ソース:</b> PR TIMES</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>デジタルハリウッド大学、生成AI「Claude」を全学導入 学生が費用を気にせず“使い倒せる” KAI-YOU</p><p><b>ソース:</b> KAI-YOU</p>]]></description>
 </item><item>
-<title>Google、最上位AI「Gemini 4 Argon」を一般提供開始</title>
-<link>https://pc.watch.impress.co.jp/docs/news/2147870.html</link>
-<guid isPermaLink="false">06ce257b6fb5cf40b80fc37934fdf952af5e814fa5335c8fadc53309bca87db1</guid>
-<pubDate>Wed, 14 Oct 2026 01:09:14 +0000</pubDate>
+<title>Google Chromeに重大な脆弱性 合計37件を修正、早めに更新を</title>
+<link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZWi04UXJNMWhyOUdrUzk1MUlmcy0ybDAxZ0hoRDhWUW03OExaaUJoS0xrcmkyVTEwdWtwN29PUzI0YXBQMmQwYlZ6TzZWcElHV2pZMQ?oc=5</link>
+<guid isPermaLink="false">a832c87392ff57a6933b56bd90703d1b614ba6bfde3be414d5dceed636751e37</guid>
+<pubDate>Wed, 14 Oct 2026 07:20:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Googleのフロンティアモデルが、有料プランとAPIの利用者向けに提供された。Googleは10月14日、大規模言語モデル「Gemini 4 Argon」の一般提供を開始した。開発者/企業向けにはAI StudioおよびGemini API、Google AI UltraユーザーにはGoogle Antigravity、Google AI UltraおよびProユーザーにはGeminiアプリとGoogle検索のAIモードを通じて順次展開する。</p><p><b>ソース:</b> PC Watch</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Google Chromeに重大な脆弱性 合計37件を修正、早めに更新を ASCII.jp</p><p><b>ソース:</b> ASCII.jp</p>]]></description>
 </item><item>
-<title>グーグル最上位Gemini 4 Argonを発表 - CHOSUNBIZ</title>
-<link>https://news.google.com/rss/articles/CBMiekFVX3lxTE9mQ0xSQkhQenRiUUJKbWpJS2EzMnZhOVNLWFl4enZRWDJudU1WTVZYX3BBZi1ISnZDY0RBcEMzSkRnbERIeHU3OVNEVzVmZXdCSERKYlpYRkJ6WHJNOGFFMlFmUEhaVlFfWEwteF9QTkl2X2lheTF6ZUJR0gGOAUFVX3lxTFA4UXdfN0I0dXNuWGl1d1Z2dzAwV3RKUVJ6cW53VS13SDQ5MFRTLUQ0UnpsN0dHaE1qOTI0VS1feUg1QnFiZ0YtLXctLU1weDJjRllNZjhNTHFoZXVPSFMtR3JSX2RwUFRKQk1zSjNRVG5vM0xxdk9FVHVnWGpLT1R0TTVNTzFLU3BadlNZaEE?oc=5</link>
-<guid isPermaLink="false">b40295fe3cb9c995b15e90bbca6e573659d40650c892ccd48178b35e45fb9355</guid>
-<pubDate>Wed, 14 Oct 2026 01:01:00 +0000</pubDate>
+<title>【10月21日開催・参加無料】Google Workspace と Gemini で推進するAI業務改革と安全なデータ管理 ─ 電算システム主催、DriveChecker協力のオンラインセミナー</title>
+<link>https://news.google.com/rss/articles/CBMidkFVX3lxTE04TFZmLUs1OXI1Y3VTVzF0aDVXa0tiMUJKbVJ4aWVhbm4xRFVSTzJ1am5TQmRadDZoU1J1eC1lb2VmLUxQYy1NOFZvMElXRWFwUGRpMUQ1SURTeEhBMGE0NG8yajFPbV9IZVpDX1ZaQTBReG1EWGc?oc=5</link>
+<guid isPermaLink="false">b2517f311f4b9e82aeecbf90193f2ad51c1ea3b14f57fd9b47cf1ec6f9bad320</guid>
+<pubDate>Wed, 14 Oct 2026 07:17:39 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>グーグル最上位Gemini 4 Argonを発表 - CHOSUNBIZ Chosunbiz</p><p><b>ソース:</b> Chosunbiz</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>【10月21日開催・参加無料】Google Workspace と Gemini で推進するAI業務改革と安全なデータ管理 ─ 電算システム主催、DriveChecker協力のオンラインセミナー STRAIGHT PRESS</p><p><b>ソース:</b> STRAIGHT PRESS</p>]]></description>
 </item><item>
-<title>パソナマスターズ 『2026年度 ミドル・シニア人材の生成AI利用実態アンケート』</title>
-<link>https://news.google.com/rss/articles/CBMiakFVX3lxTE4ybmk2cDg3aVZRYmdhNzBWdEotTEZRQmV2MGxwUWhUbGZoa1djTkpkRlZYUkRlNnlSWUkyck1XYllLbjJRQy10RGxhLS1sMm5Yb18xc1JxY3BOWWlvem5STWQ1Z3o5UGtndGc?oc=5</link>
-<guid isPermaLink="false">853e9bc73113d581cb4114c9a76c69a25020211934e1062ad3eddc44830c52e6</guid>
-<pubDate>Wed, 14 Oct 2026 01:00:02 +0000</pubDate>
+<title>OpenAI従業員をFBIが逮捕 役員会議盗聴疑い</title>
+<link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mQzVvTnloUUFqRlB0Z0hzN1d1Zy1PZDVuM2F6ZDl1OGFsRS0xVi1Kb01kSFBPQTNOV0QzdmZJUExsWkZURGNKZWw0RlVXS0FULU5QQ3VaV21ybmFyUnpWV3Z6bW8?oc=5</link>
+<guid isPermaLink="false">052a74c8a4e5f783ac941125f584670c604f9f9b0fa315ba66984073528bded6</guid>
+<pubDate>Wed, 14 Oct 2026 07:12:46 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>パソナマスターズ 『2026年度 ミドル・シニア人材の生成AI利用実態アンケート』 PR TIMES</p><p><b>ソース:</b> PR TIMES</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI従業員をFBIが逮捕 役員会議盗聴疑い Impress Watch</p><p><b>ソース:</b> Impress Watch</p>]]></description>
 </item><item>
-<title>【生成AI×マーケティング実態調査】全社活用層の80.6％が「成果を実感」</title>
-<link>https://news.google.com/rss/articles/CBMiakFVX3lxTFBwbnJzRjR1Z3lwUjh1QXJpbzJVTVZ1bkY3QVc1a3Fzb2dhSGVIU2JORklJeHR1WExtRnkzdzF6MmpVdDVNd3lLcmJGazdrRGxfMl9zYW9KRlY4UE5uc2Q0Y0k4dmd3TkowVFE?oc=5</link>
-<guid isPermaLink="false">4be6ec535086340262644afa24ebf2707bbe16e4c484a1ae864be00246e6d5ea</guid>
-<pubDate>Wed, 14 Oct 2026 01:00:02 +0000</pubDate>
+<title>ソニー、XperiaのAndroid 17案内ページを公開！対象機種の一覧も</title>
+<link>https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2SlRYY2lScW0yUEZGazVCWHlXS1p5ajNJdG0wOC1kTmplUkJSVHJqRHFWOFowWWtiQ0E1cFhBem9mRlV1d1pLcVZHdUhTRGllOTJuTElrRVEySnJWYlp4MW5SbGM5bG1l?oc=5</link>
+<guid isPermaLink="false">fd0bec289e4eb7314a9d2ee216769122869012e3a383d6febe0bcc20d3d4cc0d</guid>
+<pubDate>Wed, 14 Oct 2026 07:09:24 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>【生成AI×マーケティング実態調査】全社活用層の80.6％が「成果を実感」 PR TIMES</p><p><b>ソース:</b> PR TIMES</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>ソニー、XperiaのAndroid 17案内ページを公開！対象機種の一覧も OREFOLDER</p><p><b>ソース:</b> OREFOLDER</p>]]></description>
 </item><item>
-<title>Sonar、OpenAI Daybreak ディフェンス ネットワークに参画</title>
-<link>https://news.google.com/rss/articles/CBMiakFVX3lxTE10V3ZrbGpJSlZBc3QwSUZ6c3RmbDZpQ1pxMjBSOFhoMU9EMk5Da1ZoWUlsWS1xMWlwdDhEbXZrODV6QzA0bE45RHBoSU9FN0xwUW9lSWVfOHVUOEctOFoyYVZQSm5uZWVpcXc?oc=5</link>
-<guid isPermaLink="false">8a86702a2b385990af77ce12926f080b4fd361210d894ce29665fb455b6d6fdf</guid>
-<pubDate>Wed, 14 Oct 2026 01:00:02 +0000</pubDate>
+<title>【10/14登壇】訪問看護のセキュリティ入門セミナー｜電子カルテ・生成AIの「これって大丈夫？」を解説</title>
+<link>https://news.google.com/rss/articles/CBMia0FVX3lxTFBpOWNXWHBrNEZ5MkdOQU1LTEd3eUZxLUdQbEJaZVYxZTYzVHBTRmh5eEE2ZnNzeGdlYS1jWjFpN2VTa2xjTXpsa0Z0UHNPV1ZYNmNqcEVydjZETXhhMWI2cjRZalpvUE4zLV9n?oc=5</link>
+<guid isPermaLink="false">8b1e25df43b624ac05617cb3d2e7cc750569c0547f3985080e875412d8d9efc1</guid>
+<pubDate>Wed, 14 Oct 2026 06:46:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Sonar、OpenAI Daybreak ディフェンス ネットワークに参画 PR TIMES</p><p><b>ソース:</b> PR TIMES</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>【10/14登壇】訪問看護のセキュリティ入門セミナー｜電子カルテ・生成AIの「これって大丈夫？」を解説 時事ドットコム</p><p><b>ソース:</b> 時事ドットコム</p>]]></description>
 </item><item>
-<title>生成AIの急速な進展で、半導体の勢力図はどう変わった？全データをアップデートして徹底解説！『改訂版 新・半導体産業のすべて』</title>
-<link>https://news.google.com/rss/articles/CBMiakFVX3lxTFBxc1NhanM4X3VLS1lnVVkxWFVZclpJQjVWUTFXVjFjbzZKZ1NCVGpUckdNQXdYUVFJQ3I0bE00SkpsNjFxTUZUQWhiNTRSM1o5X1lxQXMtRWoyRGtuNHZOVTFRdHcwN1VOQ3c?oc=5</link>
-<guid isPermaLink="false">b01337d5ad7317e7c6120c8640a94db41ecfaa523857aa7559f72e45472597f4</guid>
-<pubDate>Wed, 14 Oct 2026 01:00:02 +0000</pubDate>
+<title>米国、OpenAIオフィスでのスパイ行為の疑いでサウジアラビア人エンジニアを逮捕。</title>
+<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxNSUZFaGllTm5CWXFucnpKM2s1T0g0QXo0WXRyMkZQSWEya1RzZEpxS2Z4TjVTZGpGb3NydWFGRDVjUlpZdGlGVExkZXdwekotcXBUcnY5WW1QS3pfYkVwTU9iZmh1NS1UQTA0eG9VbFhmYnh5Wi03Vm5tNFB1SlBLX3NkNzN4dDFOdEhmS1k5N0pSRENzZnFn?oc=5</link>
+<guid isPermaLink="false">069d0495d44c411b3b8e3ce23e55c940042c7a0ff2bd0c849adb14b95d448841</guid>
+<pubDate>Wed, 14 Oct 2026 06:37:04 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>生成AIの急速な進展で、半導体の勢力図はどう変わった？全データをアップデートして徹底解説！『改訂版 新・半導体産業のすべて』 PR TIMES</p><p><b>ソース:</b> PR TIMES</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>米国、OpenAIオフィスでのスパイ行為の疑いでサウジアラビア人エンジニアを逮捕。 Vietnam.vn</p><p><b>ソース:</b> Vietnam.vn</p>]]></description>
 </item><item>
-<title>Claude CodeハッカソンBuilt with Claude: Japan発表、賞品は800万円分のAPIクレジット。10月26日まで申込み受付中</title>
-<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9GQ0czaDZJUV9nbFdyVzBpMml4YWZ6LXpBaGN0a2tjZV9JTjhqUmxVUFFrb2h4MEVLcV9YQzRnZmpNQWhWaXBxU2VLWkR3STFlM0ozdUZUb3RIRk1kQjczcnZSRnVJOUZYVW85UlpvUnV6SzZNaFNqeHhPbDhPc0E?oc=5</link>
-<guid isPermaLink="false">fe5258907774495425354a2a8927fb7d02d6ba9b822866f27fcd8b5eeb141d5f</guid>
-<pubDate>Wed, 14 Oct 2026 00:56:26 +0000</pubDate>
+<title>AI検索時代に「選ばれる」地域ブランドへ。生成AI×フィールドワークで取り組む、地方創生・エンティティブランディング研修を実施</title>
+<link>https://news.google.com/rss/articles/CBMia0FVX3lxTE5mcWNYSlFHRzNuelJHbDNLX01jUzk2b3NpSU9RZFlXZDBJemw1MnZSWGdUOVNhanRKVTFSdm43VkRSZTRmaFhweTJkRkdIbVcwX0NQTkVELUswNTM1MVBRYnc5anRFckhLZFN3?oc=5</link>
+<guid isPermaLink="false">08b570f2cb28e1da1bb52653e7bcfb41c4139e4e31d6e2d1cd22c9892a808dcd</guid>
+<pubDate>Wed, 14 Oct 2026 06:16:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Claude CodeハッカソンBuilt with Claude: Japan発表、賞品は800万円分のAPIクレジット。10月26日まで申込み受付中 Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>AI検索時代に「選ばれる」地域ブランドへ。生成AI×フィールドワークで取り組む、地方創生・エンティティブランディング研修を実施 時事ドットコム</p><p><b>ソース:</b> 時事ドットコム</p>]]></description>
 </item><item>
-<title>著者の一言 : Google Cloudの知識地図 ── Geminiと歩むクラウド活用 | 技術評論社</title>
-<link>https://news.google.com/rss/articles/CBMibEFVX3lxTE9UVlVGTmdWNVBDeURUNTRBSGhPWVFXbXpKT0wxemZReDVmckVmOWJCQ1BvTE9QWjJwMkh5bThXOGZSUTU2YmVabk9haW9BU0VkeHh0VElQbi0yRVNHeVdDWmdhc3J2T2hDak1UYg?oc=5</link>
-<guid isPermaLink="false">32c259178a21f7a68721338c3faacbe4de1ac5c5c308a1a97e74e56831c5e7dd</guid>
-<pubDate>Wed, 14 Oct 2026 00:41:39 +0000</pubDate>
+<title>露やイランなど外国勢力の脅威「過去10年間で4倍増」と英MI5長官、AI悪用も警告</title>
+<link>https://www.itmedia.co.jp/news/article/2610/14/2000002259/</link>
+<guid isPermaLink="false">dedd50738af33b01a5267063bb19369f53c5cea722a26b139bc17c4bfc129f8f</guid>
+<pubDate>Wed, 14 Oct 2026 06:14:48 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>著者の一言 : Google Cloudの知識地図 ── Geminiと歩むクラウド活用 | 技術評論社 gihyo.jp</p><p><b>ソース:</b> gihyo.jp</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>英国の情報局保安部（MI5）のマッカラム長官は10月13日、年次演説で、ハイブリッド戦争を仕掛けるロシアを「最大の攻撃者」と位置付け、外国勢力の脅威が過去10年間で約4倍に増大したと警告した。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
 </item><item>
-<title>シフトプラス、自治体AI zevoにClaude Haiku 5.5など追加</title>
-<link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LS3R4V3dTSXc5Y3VJLUdtUlpvYXBfcmlTdndPZlFESVBjdXY0R0JobmhEOU05MUpaQXVMNHozNFFocDM3QlF1dnI2YmJXeXNOcmdGTUY5d0Q0SXJicVhBbkQtalM?oc=5</link>
-<guid isPermaLink="false">ad43c921a8247e5246fea2f6a10f03d93a55919dd71107b95fa74604a10be546</guid>
-<pubDate>Wed, 14 Oct 2026 00:40:49 +0000</pubDate>
+<title>天竜川ナコン、全国の河川敷を巡るライブツアー開催 入場無料、物販なし、カンパ禁止</title>
+<link>https://news.google.com/rss/articles/CBMiSEFVX3lxTE5BdFlLaVQ4UmhZdWRFU3h2M3pGUlVvV19LWGd2anBXT3VTUzVhNDRhRXNiUk16OWJuUHA5VkZtVlhpNHdSbklDVA?oc=5</link>
+<guid isPermaLink="false">a0419d70303529d77ca5a9d601c2c416f883c0463a976d6047d582a559500952</guid>
+<pubDate>Wed, 14 Oct 2026 06:12:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>シフトプラス、自治体AI zevoにClaude Haiku 5.5など追加 Dellows News</p><p><b>ソース:</b> Dellows News</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>天竜川ナコン、全国の河川敷を巡るライブツアー開催 入場無料、物販なし、カンパ禁止 KAI-YOU</p><p><b>ソース:</b> KAI-YOU</p>]]></description>
 </item><item>
-<title>Googleの新モデル「Gemini 4 Argon」一般提供開始 使えるプラン、価格（ITmedia NEWS）</title>
-<link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBIUENQQ2lVenJELWZQRkZkRmpuWmRVaFU3R0RsaTU5a1RnbTlFRUdOR1V2cW9SbDdkVERtcGJwRlpzTFQ4ektvQkZORHcta1FldkpsT2MyaW5hMVNyZjNGZF9RY250Nl9xV3dBdnJQZ0xVS0NMSWp6SG5uRy02WWM?oc=5</link>
-<guid isPermaLink="false">5615195a347515474a3d9b95a9ebdaa5fd48859be9cac8560c216fb16c779e1c</guid>
-<pubDate>Wed, 14 Oct 2026 00:31:10 +0000</pubDate>
+<title>サーバーワークス、ClaudeのSelectパートナーに認定</title>
+<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE54RklJemp2Rm0tMnhGemhIc0k3bTBaZW5DRGs0ZF9qbWk4aTNNRVNtcmp1Qm91cmRVZTdlQmVjMHVFdXc2U0xWYS1BaVBVYVlnNEsw?oc=5</link>
+<guid isPermaLink="false">3de11cc08099976df8e3bf41a6004e3ab09479373595e10c7a913fe1599ab1a8</guid>
+<pubDate>Wed, 14 Oct 2026 06:05:34 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Googleの新モデル「Gemini 4 Argon」一般提供開始 使えるプラン、価格（ITmedia NEWS） Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>サーバーワークス、ClaudeのSelectパートナーに認定 ニュースメディアVOIX</p><p><b>ソース:</b> ニュースメディアVOIX</p>]]></description>
 </item><item>
-<title>奄美市、デジタル庁の「源内」を基盤とする生成AIサービス「AMAMI GENAI」を庁内に構築</title>
-<link>https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5Y3JPcnlBZHQzbTNDUnV6T0ZfQVZ6eG5NLVdhSFh0MG9acjRBR0tuZzhEMXBwVU5yQm9PXzJFYU1kRThSdWVsRkN0UTE4dHR6bmtucXBHNA?oc=5</link>
-<guid isPermaLink="false">986aea389d679da2d40ef966a49c277eabe5494268d76b3410e159805eaeecee</guid>
-<pubDate>Wed, 14 Oct 2026 00:26:06 +0000</pubDate>
+<title>OpenAIの元安全性研究者3人が解雇に反論 外部監査との協力継続を求め、同社は規定違反と説明</title>
+<link>https://news.google.com/rss/articles/CBMid0FVX3lxTE8wbHB1Y0VzdUJDMWs3UG40ejVXMVdWSG5jTTZxd0NTRjdBR2dzVVkxNVF0cGQ5Wkk1S2ZYdWxaN2JYeWtLb0x2V3IyMUZsUEp6bDVaeVNTdVFOT2JTeHBWVUtteGpFNnk4OGR0NVVMZG1LSFRxdmFZ?oc=5</link>
+<guid isPermaLink="false">079b0c7ad0d7b2bb5b97378196f491a55ba2717831a2e9352036e52dcafa4bf4</guid>
+<pubDate>Wed, 14 Oct 2026 06:05:02 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>奄美市、デジタル庁の「源内」を基盤とする生成AIサービス「AMAMI GENAI」を庁内に構築 ICT教育ニュース</p><p><b>ソース:</b> ICT教育ニュース</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIの元安全性研究者3人が解雇に反論 外部監査との協力継続を求め、同社は規定違反と説明 Ledge.ai</p><p><b>ソース:</b> Ledge.ai</p>]]></description>
 </item><item>
-<title>株式会社Co-Labo AI、生成AI導入は&quot;チャット止まり&quot;―AI博覧会 Fukuoka</title>
-<link>https://news.google.com/rss/articles/CBMie0FVX3lxTE9BSDM4OTRIWTQybldEUEoxMHB5R1hIVEtJdEY1cXJSRm9OZkE0eTNpUDFDZ2FHQlpvWDVTWF8yRnRYbU5tLWIwd1Y2VVU3c1BFSGw0SXhzTm5PNkN1SWpzYk1veE13YXRiLTYwRmFmeVF0Vjl4cHB4M05oZw?oc=5</link>
-<guid isPermaLink="false">c25fe6d5eb2d83446e4918f3037a66ce822aa54b3225fa82c613df8861d97d0f</guid>
-<pubDate>Wed, 14 Oct 2026 00:24:33 +0000</pubDate>
+<title>相続のこと、生成AIにどこまで相談していい？弁護士が玉川徹さんと考える「生成AI時代の相続相談」｜Authense法律事務所</title>
+<link>https://news.google.com/rss/articles/CBMiakFVX3lxTE96S2RmVk9BZTVTQVBiQUNMdnFCQ2FWOWJyVm1FaE1lQ2hKRE11MkhFVzNheE42TTJwTnlfemQ5LUVsc1VGd054d21PNEd4WUFOcGp6YU9sS19lcktDOE4tRWlIZ2FBb2xxSFE?oc=5</link>
+<guid isPermaLink="false">147a0d63c51e262c822fde950f5626b2b180618966a4ea3463b024bc1fdd3aad</guid>
+<pubDate>Wed, 14 Oct 2026 06:00:01 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>株式会社Co-Labo AI、生成AI導入は&quot;チャット止まり&quot;―AI博覧会 Fukuoka ニコニコニュース</p><p><b>ソース:</b> ニコニコニュース</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>相続のこと、生成AIにどこまで相談していい？弁護士が玉川徹さんと考える「生成AI時代の相続相談」｜Authense法律事務所 PR TIMES</p><p><b>ソース:</b> PR TIMES</p>]]></description>
 </item><item>
-<title>Geminiが4になってテクニカルな作画がマッハの速度かつハイレベルな精密図になっていること</title>
-<link>https://news.google.com/rss/articles/CBMiZkFVX3lxTE1veEpsLVZyb0h6a2VXbkxNRzZBT21jTlFycUxPa0l3R3I4dTlhM0t4TlA4dGdxM0RHSTBndHZlYmlNUmpNeUYwTVFWbkFvVkFJT3l1ZkVLSV9tN2R4LWEzRkpYRDRDZw?oc=5</link>
-<guid isPermaLink="false">2b5095799353dfdae5b351f8ce9c2bc4be952ad2484baf5e662596393211b2e6</guid>
-<pubDate>Wed, 14 Oct 2026 00:19:14 +0000</pubDate>
+<title>「ユメカタリ 学生生成AIコンテスト2026」、東京・名古屋の両大会グランプリが決定！ 〜社会課題を解決する学生のアイデアが2都市に集結〜</title>
+<link>https://news.google.com/rss/articles/CBMiakFVX3lxTE5rZG85R0ctcjgwMHZGaWxHTGdlTDNaZ24wd3I5djZBajlkc0R0dEhIaVVaVTRlWlI0cXkwLUNRbWwyaVItT3hnRVptWkM0Y2RMejl4T2stXzFvRE9UMm9MOGsxQ00zYUFoM1E?oc=5</link>
+<guid isPermaLink="false">d4c2bb71700db036a4a9d403ccf4a3f94313c2374c62329ea3add68b907c4f43</guid>
+<pubDate>Wed, 14 Oct 2026 06:00:01 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Geminiが4になってテクニカルな作画がマッハの速度かつハイレベルな精密図になっていること オルタナティブ・ブログ</p><p><b>ソース:</b> オルタナティブ・ブログ</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>「ユメカタリ 学生生成AIコンテスト2026」、東京・名古屋の両大会グランプリが決定！ 〜社会課題を解決する学生のアイデアが2都市に集結〜 PR TIMES</p><p><b>ソース:</b> PR TIMES</p>]]></description>
 </item><item>
-<title>JR東海、ECサイトの顧客情報約1.5万件漏えいか IDCFへの不正アクセスで「閲覧された可能性を否定できない」</title>
-<link>https://www.itmedia.co.jp/news/article/2610/14/2000002237/</link>
-<guid isPermaLink="false">e4483268854e766c810a26d67920ced9b849f5ef52d3ab2f3960475a70e5ee25</guid>
-<pubDate>Wed, 14 Oct 2026 00:11:09 +0000</pubDate>
+<title>サーバーワークス、「Claude Partner Network」のSelectパートナーに認定 投稿日時： 2026/10/14 15:00[適時開示]</title>
+<link>https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sY1pzUjVvOXUwZUlOQ0VPZ1JRMXRzWmQ1Q1JfdGpkTE4wQVhjMENrUUtGM1dpNEpBdklkbjNJeXV4VlJFSk1VTw?oc=5</link>
+<guid isPermaLink="false">2fcb7a2c411310cdee384f2d55eafd542b60c0567897abd3895b2843bda50f91</guid>
+<pubDate>Wed, 14 Oct 2026 06:00:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>両サイトのメール配信サービスを担う事業者が、不正アクセスを受けたIDCフロンティアのクラウドを利用しており、「顧客の個人情報を第三者に閲覧または取得された可能性を否定できない」ため公表した。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>サーバーワークス、「Claude Partner Network」のSelectパートナーに認定 投稿日時： 2026/10/14 15:00[適時開示] みんかぶ</p><p><b>ソース:</b> みんかぶ</p>]]></description>
 </item><item>
-<title>OpenAI従業員をFBIが逮捕、社内の役員会議を盗聴の疑い</title>
-<link>https://news.google.com/rss/articles/CBMibEFVX3lxTE9PX0pZa3B5ZzBsQW1SRy1HUnZTMjFrR2dMV0pvUGQ2clhWajFKLTRqd2hwNW5Kb0s0QXpBOGEtSDNHNmE2SDlxb21PT0lsNV9tRnZVcTJ5TWtZUWdoNFNtMjN5cEt3QkpJV3pNSg?oc=5</link>
-<guid isPermaLink="false">4d8564c81b33900b138d3b851ecb23f5f7136e45c02389422c9f7faf5b7b4e63</guid>
-<pubDate>Wed, 14 Oct 2026 00:10:41 +0000</pubDate>
+<title>デンマークの880万人分流出、原因はパスワード「123456」 ハッカー「侵入は難しくなかった」 現地報道</title>
+<link>https://www.itmedia.co.jp/news/article/2610/14/2000002257/</link>
+<guid isPermaLink="false">e86c8bd2d3c83cb5667760f8724912a7dd3600eca9559494c777824a6d06b035</guid>
+<pubDate>Wed, 14 Oct 2026 05:58:28 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI従業員をFBIが逮捕、社内の役員会議を盗聴の疑い 日本経済新聞</p><p><b>ソース:</b> 日本経済新聞</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>デンマークの中央個人登録簿「CPR」から約880万人分の個人情報が流出した問題で、攻撃者を名乗る人物が同国紙Politikenに手口を明かした。侵入には、照会権限を持つ民間企業のパスワード「123456」を使ったという。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
 </item><item>
-<title>さいたま市や横須賀市など、防災情報配信システムに不正アクセス 全国でメアド最大313万漏えいか</title>
-<link>https://www.itmedia.co.jp/news/article/2610/14/2000002239/</link>
-<guid isPermaLink="false">4139b766a20bc6e8a0101c8446338beff8bd42b1e89b3ae940f84eb04f290489</guid>
-<pubDate>Tue, 13 Oct 2026 23:41:51 +0000</pubDate>
+<title>決特振返：教育生成AIガイドライン。翌月にはアップデート</title>
+<link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oaDV6cElJUFkydDV4VlNmd01XT0NDeFRFcVJLU05DaDdUcmdJZ0ZBckJkQXNxcDhoRHg0QWY0WG1LcU1fWUdzSkZTTUtuZlc1VEVlNmdhRko2dVpDVUxz?oc=5</link>
+<guid isPermaLink="false">d63e95932f4044930a907eb21284e0251652b5c5fd806207b6efd57b45154aab</guid>
+<pubDate>Wed, 14 Oct 2026 05:53:20 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>全国700自治体が採用しているという「SpeeCAN RAIDEN」に不正アクセス。一部の自治体では、対象のメールアドレスに対して、カード会社を名乗る不審なメールがすでに届いているという。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>決特振返：教育生成AIガイドライン。翌月にはアップデート 選挙ドットコム</p><p><b>ソース:</b> 選挙ドットコム</p>]]></description>
 </item><item>
-<title>Three AgentsにおけるClaude Opus 5.5でのループエンジニアリング</title>
-<link>https://news.google.com/rss/articles/CBMigAFBVV95cUxQMFJLN0NWQmJxNHI2Y0lsWGY1R1ZOa29YMkF3TWJmUS1NeHpVN1I1dl9YZHh3RzZqR3dmSXQ2RXVfRkp3TXZkT2FuN25VVjFTMlBMS21wdkM3WTNPVF9BRTFnN0NqaVlhQWdVVElEM2R1eXo1SmM2NXBhX2JjSF9SSw?oc=5</link>
-<guid isPermaLink="false">ccf0936c63729b859a621bf7921355e184b534b08ae8212f74da085f9fb46b83</guid>
-<pubDate>Tue, 13 Oct 2026 23:39:52 +0000</pubDate>
+<title>Google Cloud、業務向け汎用AI「Geminiエージェント」発表。Google Workspaceの内部で直接機能</title>
+<link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XR2xINUNpZ3gtQ1RVeTlKVmNfczVneXVnOTdlU2JFR3VxQVJucFc2bmh4OVFlN19XMHFxbzRzV3JsX00waG1WRmxmUHNMMjNiU19QMUVhei0tQzJrQnBGd1dsMFN3dlZ3?oc=5</link>
+<guid isPermaLink="false">32b7c66a7d8cfb4357f528a8cb3fdc4af5f76140b5668b2ac6f088d004e5b364</guid>
+<pubDate>Wed, 14 Oct 2026 05:46:08 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Three AgentsにおけるClaude Opus 5.5でのループエンジニアリング OrcaRouter</p><p><b>ソース:</b> OrcaRouter</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Google Cloud、業務向け汎用AI「Geminiエージェント」発表。Google Workspaceの内部で直接機能 AIsmiley</p><p><b>ソース:</b> AIsmiley</p>]]></description>
 </item><item>
-<title>Azureのカタログに Claude Fable 5.5 が登場、Anthropicは沈黙を続ける</title>
-<link>https://news.google.com/rss/articles/CBMimgFBVV95cUxOc2ZJWkowS01HU3Q3NlRXZkRSSm1rNFAxLXN6QXEwWDBkY3d0ZTBkR3pPRXpycjFDUU5EWUxhN1JJeERpaGdfNGhKaE4xeEVtUHhTQWdJSEpScno4TDZ2eWI5aEd0ZnR5U3hPT1dlS2tNRW9GU0JnZHA0MXptQ2o5U2dpMHJ0aVdNS1NUb0h4R0pZbWtGemR0WTFn?oc=5</link>
-<guid isPermaLink="false">ed2c4704ca5ca367a0577082093c7fcb66ab08fb05cc4e7a5d5aea887521136f</guid>
-<pubDate>Tue, 13 Oct 2026 23:39:30 +0000</pubDate>
+<title>ソフトバンクグループ、OpenAIへ100億ドルを追加出資。持分比率が約13%に到達</title>
+<link>https://news.google.com/rss/articles/CBMib0FVX3lxTE04R21xS01rMHlDQTVmMmVONGhLN3VrNXRRWUJsUlEwT2lJazdON2dIaFl6Tmt3dGRfU2Z0X3VkOTdiOVJNM0lSVUdxV1psN0ZIYXI4UEpMbFAyamNRclZJeUxxN0pCa0s2OTdpN3FUQQ?oc=5</link>
+<guid isPermaLink="false">8dea5f08eb039b23a2160fc247be016e34c3d3e27a462f1504d301bd939bba14</guid>
+<pubDate>Wed, 14 Oct 2026 05:46:08 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Azureのカタログに Claude Fable 5.5 が登場、Anthropicは沈黙を続ける Pasquale Pillitteri</p><p><b>ソース:</b> Pasquale Pillitteri</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>ソフトバンクグループ、OpenAIへ100億ドルを追加出資。持分比率が約13%に到達 AIsmiley</p><p><b>ソース:</b> AIsmiley</p>]]></description>
 </item><item>
-<title>FBI、OpenAIエンジニアを役員会議室への盗聴器設置容疑で起訴</title>
-<link>https://news.google.com/rss/articles/CBMidEFVX3lxTE43SldCWGRKNndFRHMwQ0FkTzNEbGZqVGliSVdYdXRrcWR4SkZvMWJfSDBpSUViUURtMjJlZE51U0czYy1uRFRtX0drU2hQNmJsUmIzUm01OTBlZWlSRXVqdGs3R1l3Q0lOU2JhbHhtQnRNWmdE?oc=5</link>
-<guid isPermaLink="false">65eef79f07757e2f3771ee25dadb5893bbbf6111d0e593f5c4c07731753d887e</guid>
-<pubDate>Tue, 13 Oct 2026 23:35:00 +0000</pubDate>
+<title>ネットウエルシステム、ヘルスケアサービス「DoHISe」に生成AIを活用した新機能を提供開始</title>
+<link>https://news.google.com/rss/articles/CBMia0FVX3lxTE1NQVFvLUprLWJxQXNNeVhKWl9GbVJ0akJxWHE5eDh2bkZOd2hrdDBnS0pyUnZ1ZVpubVRmVUFxRWljZjJaVDJCaTVBNXU4SmlkdjlkWnhXRExBc1QtbzJxTXV1VzdEbHYzNzhn?oc=5</link>
+<guid isPermaLink="false">892659bb6a58cb40e8be8b0dcebf123fbacbddb24242587ae2c454f528745f7b</guid>
+<pubDate>Wed, 14 Oct 2026 05:46:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>FBI、OpenAIエンジニアを役員会議室への盗聴器設置容疑で起訴 BigGo ファイナンス</p><p><b>ソース:</b> BigGo ファイナンス</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>ネットウエルシステム、ヘルスケアサービス「DoHISe」に生成AIを活用した新機能を提供開始 時事ドットコム</p><p><b>ソース:</b> 時事ドットコム</p>]]></description>
 </item><item>
-<title>【ソフトバンクグループ】110億ドルのジャンク債発行で過去最高の利回り9.75%を提示 孫正義氏のOpenAIへの646億ドル投資に高まる懸念</title>
-<link>https://news.google.com/rss/articles/CBMidEFVX3lxTE1HYXQwMmlOUzFQZGo0RGNXU1V2SE9BeXVwbzNETmdLYkdVYV92TTJJR1pNYmdveW5iMkhUcExBa3Z2NGdQUHV5QklUdi1jY0NFZE1ycm43SGhCYk0zWWVHUDE5VUlKbWxlRC1oZldFY3h2Q1Y4?oc=5</link>
-<guid isPermaLink="false">9d2eaa0ecbd582f63c9c280cf533a5836a1df9425ba96226a2b9271c8566e66b</guid>
-<pubDate>Tue, 13 Oct 2026 23:35:00 +0000</pubDate>
+<title>参加者全員にMax 5x Planと500ドル。Anthropic初の国内ハッカソン</title>
+<link>https://pc.watch.impress.co.jp/docs/news/2148028.html</link>
+<guid isPermaLink="false">5ca8d76a127d44185fe7e31c4299abc03148b37fcd5df6d0a1189597f8f64a7e</guid>
+<pubDate>Wed, 14 Oct 2026 05:45:31 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>【ソフトバンクグループ】110億ドルのジャンク債発行で過去最高の利回り9.75%を提示 孫正義氏のOpenAIへの646億ドル投資に高まる懸念 BigGo ファイナンス</p><p><b>ソース:</b> BigGo ファイナンス</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>AnthropicとCerebral Valleyは、日本在住者を対象としたオンラインハッカソン「Built with Claude: Japan 2026」を11月2日12時から10日14時まで開催する。参加者は選考制で、250名を募集する。応募締め切りは10月26日23時59分。</p><p><b>ソース:</b> PC Watch</p>]]></description>
 </item><item>
-<title>OpenAIの会議室に盗聴器、エンジニアをFBIが逮捕</title>
-<link>https://news.google.com/rss/articles/CBMikwFBVV95cUxOMlhHT2Y3Wlg2NlFXVTAzUE9raERrLURVZjE4bkJCUTVXMl9OVTkyTXA4TVVtWTc0MHA0YTRYbjZ0em9VTGgyRy1mRUNGcFdnVTNwbXliQWhOZnUtcUZOUjhYZU43Z0gydko1UkgtM0Job05tZGJGY1kxWW5WSEZyRDRKSndmaFBLZV9raFpnMExScVU?oc=5</link>
-<guid isPermaLink="false">0c2d4f41da96be09507dd2e7bd2b72b5e55d9d6f8d7292e16ed23a70e2f50cd9</guid>
-<pubDate>Tue, 13 Oct 2026 23:31:26 +0000</pubDate>
+<title>全国初、純国産LLMで小中学校の校務AI実証…茨木市×NTT西日本</title>
+<link>https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BTzcyNFVBWExxN0RmcEpyTEw1VVEtS0plb29Kdl9KT0xwTktvdmJ6NHdjZ3dpc0xRdnJsb1BLbGhmUmxMQ2hDMHhYUmxpS1MyY1V2MERUS19CVFZxdzdmcXFWZU4yUQ?oc=5</link>
+<guid isPermaLink="false">07b95ac3738425867d5471c8b9ba7c49ca7e0c080866a4ce6e072cf7be328e4a</guid>
+<pubDate>Wed, 14 Oct 2026 05:45:03 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIの会議室に盗聴器、エンジニアをFBIが逮捕 Pasquale Pillitteri</p><p><b>ソース:</b> Pasquale Pillitteri</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>全国初、純国産LLMで小中学校の校務AI実証…茨木市×NTT西日本 リセマム</p><p><b>ソース:</b> リセマム</p>]]></description>
 </item><item>
-<title>GPT・Claudeに作れぬものは？AI新興、2分勝負</title>
-<link>https://news.google.com/rss/articles/CBMigAFBVV95cUxPVUhGYXlzWGhCWUFnVjh2Q0pfZ2tRMHQ0VTMtRzUxWDFYSE8wcGtVNTN6VlVyaVRwZjYxNm5CNUlfVXZLNWl0Q2tnVzdpOVBPYVdkRHJfUjVsaHVrTG1uWl9KMDVrZVJMenRqYUhoOENKMVpGcXptU1hNOWN4SFNuMw?oc=5</link>
-<guid isPermaLink="false">f3b84631db1a616f3c661d2f02d028d1fe5a1f43e138f61f291669f9a21ab7f0</guid>
-<pubDate>Tue, 13 Oct 2026 23:29:00 +0000</pubDate>
+<title>Googleは、同社史上最も強力なAIモデルであるGemini 4 Argonを発表した。</title>
+<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNN1NBbTdxWDI0ZV9aS1lVdFVDRzAwbXpBVFdlMTNOQzdxNzdmSllXeTI4bW1NUkRqamdFXzkycXMtMVg0N0Jac3MwTnc0dXozaXZEN0xiNE56NU9ZRTVWWUtZX1FhVVRRWFUzN3B1cXo0VU9Yd2JqanZvNHdqanhYeTI2SHZJRGVqQUQ2b2h2QU0?oc=5</link>
+<guid isPermaLink="false">21a9e4add88bdda0813cde4caee80471f2b4b238c9e6289e2fde2505f8c53e3a</guid>
+<pubDate>Wed, 14 Oct 2026 05:35:05 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>GPT・Claudeに作れぬものは？AI新興、2分勝負 조선일보</p><p><b>ソース:</b> 조선일보</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Googleは、同社史上最も強力なAIモデルであるGemini 4 Argonを発表した。 Vietnam.vn</p><p><b>ソース:</b> Vietnam.vn</p>]]></description>
 </item><item>
-<title>国内で相次ぐ不正アクセス、Androidアプリからサーバを狙う攻撃にNICTが警鐘</title>
-<link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tdU9IWGc4NU0xVFdKczlqcmlnV2lMZ1Q5ZUZ1NlhTUG9QNGxuaDZITmtfUXFXQ2NyaUwwMFVNQUw2MTc3M3FhSVlzTXcyNTFjZS1DU3cwUURqVXhUak9tcFctODJFOVZV?oc=5</link>
-<guid isPermaLink="false">47e172e17d4e81b034a14999262225bb826ef34f89d8f98b69a44f21e0cfde7b</guid>
-<pubDate>Tue, 13 Oct 2026 23:28:12 +0000</pubDate>
+<title>エロ動画生成ai [v4s6y2pj]</title>
+<link>https://news.google.com/rss/articles/CBMisgJBVV95cUxPTi1IRnZscEhSd19vellnNTNGUW9EemtYa1RQb21BYXVJMXJIbTJ2ZjlqVlZ2ekg5LU9WR2x0cUl3alkxYUxIb2xzZ2xONTVCb0RHTjFXYk5HVHJ4cXdfbnQwQ1VQckdtdlZjUTdGMG82OVlrUEluSi1GMkRWUEtoRkRzdDdwbDhsQ3pObE1MeXJvaFlRandqTUxFeWhLQ095TERxendWN1JURzBqMUFweUY1SFo3Zy1ZZ2dnQ1BkS1J5akpELUNTMkFsRzJmZVZDVG9SQmJvVXEtMTdSTXpoa1RRSUcxZGJQZGs3dHF1cmg4SFd0MU5oY2gyTVhLYk9wY3JOaF9vUllONWI5LWlldGhEQW44Y2dTUEt1Q2JUcE5VS25LSFQ0NXgtNzdLQTZFcXc?oc=5</link>
+<guid isPermaLink="false">6bf9dc28b625a4cd227e4fe9d621081462b9501770c76aa2f6cb7d0749a577f1</guid>
+<pubDate>Wed, 14 Oct 2026 05:31:40 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>国内で相次ぐ不正アクセス、Androidアプリからサーバを狙う攻撃にNICTが警鐘 マイナビニュース</p><p><b>ソース:</b> マイナビニュース</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>エロ動画生成ai [v4s6y2pj] Universidad de Córdoba (UCO)</p><p><b>ソース:</b> Universidad de Córdoba (UCO)</p>]]></description>
 </item><item>
-<title>Android「Google フォト」テキストツールリニューアル</title>
-<link>https://news.google.com/rss/articles/CBMifkFVX3lxTFBXOUxkNlVtazJzQUhMSHkyQkhqeVdNS05QN3JYYlVLbEFaejJvd1RQZ3Q2ZnVNNENWdmt3R3J5b2hSRHluOV9KYy1vS3J1SmphVG52R0NpWTRvNDVxMHZKWnlVb21XUmZ2UGFyWWRiVTVQMEwyV2o5ZWJSZUgxdw?oc=5</link>
-<guid isPermaLink="false">d04a674feb60744ce8a60c8cd8f699a1a64c68470aff285cfd2f284e83b7867c</guid>
-<pubDate>Tue, 13 Oct 2026 23:26:53 +0000</pubDate>
+<title>Googleの新モデル「Gemini 4 Argon」一般提供開始 使えるプラン、価格</title>
+<link>https://news.google.com/rss/articles/CBMibEFVX3lxTE1SVURUYzBYX3hBUTBmZmV4RVZ6b2xGenZMVGpBcmxRc2VyUEhBNnhwRTBEaEtLRFk5TnpYUVRrZExacmZ1cS1yNTVzWjlwTkM3OVBSdGh0bnFNLUQyV3BNeEVjT1dweVpjSlduNg?oc=5</link>
+<guid isPermaLink="false">fe76a634749bc43048832405370419f7b85c56f0be6ed78cf90ec4666c0e5a05</guid>
+<pubDate>Wed, 14 Oct 2026 05:06:36 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Android「Google フォト」テキストツールリニューアル Jetstream</p><p><b>ソース:</b> Jetstream</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Googleの新モデル「Gemini 4 Argon」一般提供開始 使えるプラン、価格 ITmedia</p><p><b>ソース:</b> ITmedia</p>]]></description>
 </item><item>
-<title>ChatGPTを抜いた、メタの新AIエージェントMuseが狙う「広告以外の収益源」</title>
-<link>https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPb0RnbE9QRy1ia2tDN3p5VFJaQU1XSHpQSkJYdTZGSTh3dmluRlpDRXgyaE45SlVGTnpWX2VHN3c1VGRTRkZWYkRXSTNTSXZjVjBISjB6RE80Zw?oc=5</link>
-<guid isPermaLink="false">db00ce58734989f283f5c70f53084d90eae508f24b2fc99d1d16033fb2fbd578</guid>
-<pubDate>Tue, 13 Oct 2026 23:15:00 +0000</pubDate>
+<title>さくらインターネット、Preferred Networks、情報通信研究機構、生成AIを継続的に評価・改善する「能動的評価基盤」の社会実装に向けた取り組みを開始</title>
+<link>https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDZXlqQzZjUG5sSHUtaURXalNQRVFYVUJxeVRQRkdOZ0VySVNQWlFGaUl1cTdyQi1CVjdaSElXNnBqWFZQOGV4QXY5MTlqXzE1Nmo0SDdPTnhjZw?oc=5</link>
+<guid isPermaLink="false">9ec93c08a099bb03abd8db5b25ad0970f14cdbaa2aa15121d8df58c2468f4361</guid>
+<pubDate>Wed, 14 Oct 2026 05:02:25 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>ChatGPTを抜いた、メタの新AIエージェントMuseが狙う「広告以外の収益源」 Forbes JAPAN</p><p><b>ソース:</b> Forbes JAPAN</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>さくらインターネット、Preferred Networks、情報通信研究機構、生成AIを継続的に評価・改善する「能動的評価基盤」の社会実装に向けた取り組みを開始 NICT</p><p><b>ソース:</b> NICT</p>]]></description>
 </item><item>
-<title>Character.ai、米連邦破産法11条を申請 Disney系が一部IPのライセンス取得で先行入札</title>
-<link>https://www.itmedia.co.jp/news/article/2610/14/2000002238/</link>
-<guid isPermaLink="false">cb768ee8a7469540dcd529d5b1bdca3248c4111600284bcc44954cdd3b28d83d</guid>
-<pubDate>Tue, 13 Oct 2026 23:14:19 +0000</pubDate>
+<title>デジハリ大、Anthropic「Claude」を全学生に無料提供 国内大学で初の全学導入</title>
+<link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aX3VjNWNXellrQzFhcXZZd21uR3BjWVJpZ2E1OEdLaUJ1RXB1NGtNazEzMjkzRk00NlQxOGdOaGRIMHJ4RHJLeUhXcUxYY2RHcWNzZlBGSWRIcXc0ZTFn?oc=5</link>
+<guid isPermaLink="false">162d02c69e55bf2276f1e5e04c3e67823c0f7857c01dd32823b2b21adffb2725</guid>
+<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Character.aiを運営するCharacter Technologiesが、連邦破産法第11条の適用を申請した。手続き中もサービス運営は継続する。Disneyが知財ライセンス取得と移行支援を行う入札者となり、買い手が見つからない場合は段階的に閉鎖される。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>デジハリ大、Anthropic「Claude」を全学生に無料提供 国内大学で初の全学導入 ASCII.jp</p><p><b>ソース:</b> ASCII.jp</p>]]></description>
 </item><item>
-<title>Microsoft、Qwenベースの判断特化AI「Microsoft-Decision-1」発表 先行モデル「Jev」と同価格で提供</title>
-<link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ob1FkRmtiX2dWeTRHM09WWWhpelNKcE9LQkM0aHRSTjlOYWpRNmVhLVEyd2hDQ0E4OThuZHdsUnQ5bVJzZHBmMzdUckpCZm1zTjZmVjNZbUJPZw?oc=5</link>
-<guid isPermaLink="false">55a6c1843417c9536f351935d9e144e2cf9e0b7fb83e6dfa4102224e1445a725</guid>
-<pubDate>Tue, 13 Oct 2026 23:04:19 +0000</pubDate>
+<title>Google、最上位モデル「Gemini 4 Argon」を提供開始——API導入価格は入力100万トークン2ドル</title>
+<link>https://news.google.com/rss/articles/CBMiekFVX3lxTFBVV0gxU2tOR2tTTy15RHctM1RYRmJ2RElYZ09rM2FLaDl0bDNpN0xWY1ZCd2ZpdnlOQlZ2QTdtbFhvZ29sRGdjWXprSlNZNF9OLWdBWFNSRlBCRTBNeGNVV0FWSTFEQjAwLWQxSnlncG9ULVhBOGVmSHhR?oc=5</link>
+<guid isPermaLink="false">97f355a2fbd8275dc19dd10fc67f96abd0b9d966206eff862b15bc9632db69bd</guid>
+<pubDate>Wed, 14 Oct 2026 04:54:04 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Microsoft、Qwenベースの判断特化AI「Microsoft-Decision-1」発表 先行モデル「Jev」と同価格で提供 Ledge.ai</p><p><b>ソース:</b> Ledge.ai</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Google、最上位モデル「Gemini 4 Argon」を提供開始——API導入価格は入力100万トークン2ドル BRIDGE（ブリッジ）</p><p><b>ソース:</b> BRIDGE（ブリッジ）</p>]]></description>
 </item><item>
-<title>AIを個人技で終わらせない——エンジニア経験者1人のVCが、Claudeスキルを全員で育てるまで</title>
-<link>https://news.google.com/rss/articles/CBMieEFVX3lxTE90MDNiSVp3dGtpSFBmSFBMcjdFcXlybUFGNk9MSDE0WlJVWk95Y2JNOTZGRFNjLUlwRzRwSkotVDBueTc3dnZqRkhEVG5TQ3liN3J0OFB3NzRQRXRLX1p5Y2prZldlMkxibU9ueTR5M2hRNndjdV9MRw?oc=5</link>
-<guid isPermaLink="false">9c1475b6ad78ddc467d4f6de073caa6634979856e76bce3ace29917fd79cb0e6</guid>
-<pubDate>Tue, 13 Oct 2026 23:03:11 +0000</pubDate>
+<title>プレスリリース：株式会社クラシェルジュ、ChatGPTで電気料金・光回線を比較できるアプリを公開（PR TIMES）</title>
+<link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE93QmRyMjRzM1dVa0NHejA5WXZQOGdIWm15NVV2U2lIWmZtMGN5T1BrQWg2d1N5RXdmTC1rcXBqcElOM29hVGhTZnkyZ3FWS0dmMVBtVUd0SWdXcTJJbzJyZGgwQzl3bjZ0?oc=5</link>
+<guid isPermaLink="false">9d57fa7f6d67426363171356fa4eaac48c79aae039c9605a1b461d685c669cef</guid>
+<pubDate>Wed, 14 Oct 2026 04:53:08 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>AIを個人技で終わらせない——エンジニア経験者1人のVCが、Claudeスキルを全員で育てるまで Coral Capital</p><p><b>ソース:</b> Coral Capital</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>プレスリリース：株式会社クラシェルジュ、ChatGPTで電気料金・光回線を比較できるアプリを公開（PR TIMES） 毎日新聞</p><p><b>ソース:</b> 毎日新聞</p>]]></description>
 </item><item>
-<title>ChatGPT・Google・Amazonが相次ぎ新機能――EC事業者が押さえたいAIニュース３選</title>
-<link>https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJdHh4WlFxRFg0WmQ0blowRU5KOHlBS0VhYkpmZXpBeS05UENRemc0bUNMSXR0QXUweXQ0QWRhSEVHRG9JMzR4RlJva3lXaGltTHNuUHVkZw?oc=5</link>
-<guid isPermaLink="false">934639bc1c16cdae726eabc989ec57d2b2e5d70e846f08db045aaca4fdb3d24b</guid>
-<pubDate>Tue, 13 Oct 2026 23:00:00 +0000</pubDate>
+<title>Googleは、最も高性能なモデルであるジェミニ4アルゴンを配備した。</title>
+<link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPQW4wZWxQU0dyeU9uOW9janhBSHhwRDQ5NEpycTZYLUQ3cWNtb1c4UTN0dlcza2JEMnM0WG5iZXpyNXZYX3FxdV93clZybDVkek83T21jS3RWOWctbzRvUnVPdDVUV3NGOGx6SDNhVWlSTjk2TGw0bjFDcDhFTTBMOEZpblFFdw?oc=5</link>
+<guid isPermaLink="false">67920434c93358588dbad06b0678286ae7ea80692dc2fef8b1584f894f44f033</guid>
+<pubDate>Wed, 14 Oct 2026 04:49:58 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>ChatGPT・Google・Amazonが相次ぎ新機能――EC事業者が押さえたいAIニュース３選 コマースピック</p><p><b>ソース:</b> コマースピック</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Googleは、最も高性能なモデルであるジェミニ4アルゴンを配備した。 Vietnam.vn</p><p><b>ソース:</b> Vietnam.vn</p>]]></description>
 </item><item>
-<title>Android「Google Play ストア」v53.5配信【2026年10月13日（火）】</title>
-<link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdWQ2YXNQQ2MxdEgyVkExSi1kZ2p1NWpmNnUwTlFYWmJyblA0WG1OakdjTzFrbFFueERYUG5ubkNxMXVvbFFEMEwwQy11R2dYUURYdjhkcTRPbUMyMkN3LWVmVmdndlM2aTQ5UUFpWExsZEFUaW5Vc3YtTUp2dnNabHdmSVhEOC0yMGtJ?oc=5</link>
-<guid isPermaLink="false">6dc8c4be5758f282106c171d4e97fe71bc0885d823cdbd4064fc3cf908665944</guid>
-<pubDate>Tue, 13 Oct 2026 22:56:21 +0000</pubDate>
+<title>日本郵便の法人向けサイト、他社の担当者名や連絡先が見える状態に 最大4807件</title>
+<link>https://www.itmedia.co.jp/news/article/2610/14/2000002254/</link>
+<guid isPermaLink="false">0605f5c23cdb206ba1c73162411b3872cbe2132a532c0f42a90fa71491bf404e</guid>
+<pubDate>Wed, 14 Oct 2026 04:49:09 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Android「Google Play ストア」v53.5配信【2026年10月13日（火）】 Jetstream</p><p><b>ソース:</b> Jetstream</p>]]></description>
-</item><item>
-<title>OpenAI元社員をFBIが逮捕、幹部会議室に隠し録音装置を設置した疑い―米司法省が公表、社内AIも調査に活用</title>
-<link>https://news.google.com/rss/articles/CBMinwFBVV95cUxOdjNnT25vbllsZzF1ODRyQjhhZUpzYlg4QmhRLWlyT1BWMVNGdHpYbjZqYlBRMTNuNzNyUDJzQW1sWHhxSVM1aHFpZEkxWFpnb0EtZDluVEJCRy1SdUhTNEQ1WDZXUktudjRqVUc5Nkp6MFV5blBKVkNXd29qckhfT0VuN0Y1V04zWUJGU1F3Qy1VcUNQTzdyWU9PRVJibTQ?oc=5</link>
-<guid isPermaLink="false">706269f2476732e827a2b12afee268db3260ae36075a93fcc116f85b8e95819e</guid>
-<pubDate>Tue, 13 Oct 2026 22:42:08 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI元社員をFBIが逮捕、幹部会議室に隠し録音装置を設置した疑い―米司法省が公表、社内AIも調査に活用 合同会社ロケットボーイズ</p><p><b>ソース:</b> 合同会社ロケットボーイズ</p>]]></description>
-</item><item>
-<title>ITフリーランスの7割が「生成AIの普及に危機感を感じている」</title>
-<link>https://news.google.com/rss/articles/CBMiREFVX3lxTFBWNGY0VWszSVRtVnVnc2JJa3FBNFF2QjMyQWR6NmlMUVd2M0hXVFJoSWZjOUhEek9yQkF4WDdjN1ZRRVg4?oc=5</link>
-<guid isPermaLink="false">4222d2517e8bc1b30d59abf5e3bd0fa414008a7641db69da95920eb4e522abda</guid>
-<pubDate>Tue, 13 Oct 2026 22:32:18 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>ITフリーランスの7割が「生成AIの普及に危機感を感じている」 @DIME アットダイム</p><p><b>ソース:</b> @DIME アットダイム</p>]]></description>
-</item><item>
-<title>「長期タスクがやりやすくなったありがてぇ」——クラウドで動くCodexとClaude Codeの環境再利用</title>
-<link>https://news.google.com/rss/articles/CBMiQkFVX3lxTE5sdzlmUEt1dGVwLWVlOXdKN3JXaWdnOUpEVzZFeHlTWUdGVGtIQlUxYUMtUzVmZnZkcVFVS2pVWE8zUQ?oc=5</link>
-<guid isPermaLink="false">8cf0f44c9de423a6b78427f64182e88f340a04883a36ebf60a15a813fd7a5268</guid>
-<pubDate>Tue, 13 Oct 2026 22:25:53 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>「長期タスクがやりやすくなったありがてぇ」——クラウドで動くCodexとClaude Codeの環境再利用 shiritomo</p><p><b>ソース:</b> shiritomo</p>]]></description>
-</item><item>
-<title>OpenAI従業員、役員会議室に録音装置を仕掛けた疑いでFBIが逮捕</title>
-<link>https://news.google.com/rss/articles/CBMifEFVX3lxTE1TaFZVOUZQZlB6SkNxdGFzb2FPUENmRU04SDFCT1BZT3ZOb2ZWckF6ZU1RdWVqVW1NQlRIOVhLbjY3NUJGTXA2UzgxaFZET0h2dEJxa1JLMW92a05MaURKVG1qNDdIenNTeFRwU3lqTnJJR1hzbk43dXJyN03SAXxBVV95cUxNU2hWVTlGUGZQekpDcXRhc29hT1BDZkVNOEgxQk9QWU92Tm9mVnJBemVNUXVlalVtTUJUSDlYS242NzVCRk1wNlM4MWhWRE9IdnRCcWtSSzFvdmtOTGlESlRtajQ3SHpzU3hUcFN5ak5ySUdYc25ON3VycjdN?oc=5</link>
-<guid isPermaLink="false">d2ea15099c158da6c5ec60e2034ded77589fdb759e114113ac736e1f299b2513</guid>
-<pubDate>Tue, 13 Oct 2026 22:19:49 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI従業員、役員会議室に録音装置を仕掛けた疑いでFBIが逮捕 Infoseek</p><p><b>ソース:</b> Infoseek</p>]]></description>
-</item><item>
-<title>Xperia 1 VIIIは国内版もAirDropに対応へ。Android 17配信後から対応へ</title>
-<link>https://news.google.com/rss/articles/CBMiakFVX3lxTE1wSmI1RnUzU0tJYXVickZSdEZIZ3lMRTBmc21saUNLTnlwYTZBc3UzTTNnWF9STU1pTk15aVNWWHNJMndnQ1M5aUJIcmsxM05oV0Z5SmRDbVpyZi1yazhmVTNlb2d6Qllscnc?oc=5</link>
-<guid isPermaLink="false">05bd9f4ce99f2ee9b04d9727f1ecc90c701ac21cb8043db5455f9b843990325d</guid>
-<pubDate>Tue, 13 Oct 2026 22:06:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Xperia 1 VIIIは国内版もAirDropに対応へ。Android 17配信後から対応へ GAZLOG</p><p><b>ソース:</b> GAZLOG</p>]]></description>
-</item><item>
-<title>OpenAI幹部の会議室に隠し録音装置、社員を逮捕。容疑者の特定に自社AIも活用</title>
-<link>https://news.google.com/rss/articles/CBMie0FVX3lxTE40emh2Ty1DM2tQLU1zVVF0RGw2WVRHNk0xNW8tTEY5azdtNjBJZXBtaEtoc3RKS3JKVDFPa0gtU0hyd0VscGtLUng5aVpQZlBTYXVhdlBEaFRQNDJJczU3TGdNWUNQX3dDYVhlODdTRXNCeURmMTFnV3RmYw?oc=5</link>
-<guid isPermaLink="false">1ef5b28009b52c686a6426f74b6e096f01b74876fe630be97be2f3d7ab491e22</guid>
-<pubDate>Tue, 13 Oct 2026 22:04:33 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI幹部の会議室に隠し録音装置、社員を逮捕。容疑者の特定に自社AIも活用 XenoSpectrum</p><p><b>ソース:</b> XenoSpectrum</p>]]></description>
-</item><item>
-<title>JBL、AIでボーカルやギターを分離。演奏が一緒に楽しめる「BandBox Solo/Trio」一般販売</title>
-<link>https://av.watch.impress.co.jp/docs/news/2147704.html</link>
-<guid isPermaLink="false">456c985278d9f4feb1d554bfba7725bc26b75d6d9264ed3d5a65192766da6f4d</guid>
-<pubDate>Tue, 13 Oct 2026 22:00:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>ハーマンインターナショナルは、JBLよりクラウドファンディングにて販売していた、演奏練習にも使えるBluetoothスピーカー「BandBox Solo」と「BandBox Trio」2機種の一般販売を10月30日に開始する。価格はオープンで、直販価格はSoloが54,890円、Trioが132,000円。</p><p><b>ソース:</b> AV Watch</p>]]></description>
-</item><item>
-<title>無料で国産生成AI「Sarashina」が利用可能に APIとチャット機能のベータ版を公開</title>
-<link>https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tQjktVWFjQjVzaVhDM0Z2ejNTNVM0STdpSU5uLXhJY0dXSE9IaXB5OHdEa19NMmVkRmk5S1RScVltZnV2ekQ4aUVKbWNER1dENVpjYjFPTjFlN2xyY0ZjY1VZMEJjZw?oc=5</link>
-<guid isPermaLink="false">d77e39123ebfb47d707f926ca938ac8ea3b0eb55f42ff80851725ca5b4e473da</guid>
-<pubDate>Tue, 13 Oct 2026 22:00:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>無料で国産生成AI「Sarashina」が利用可能に APIとチャット機能のベータ版を公開 キーマンズネット</p><p><b>ソース:</b> キーマンズネット</p>]]></description>
-</item><item>
-<title>生成AI利用に伴う不安と影響 最多は「AI依存による思考力の低下」</title>
-<link>https://news.google.com/rss/articles/CBMickFVX3lxTE5ZV25pRHQ5M2JfSkJka3FDMDlERWlCQUN5d0N1N3F6Q2tCYW9ycHoyVXh2RE1GaVRfREtjdUFWTGpueW11bnlSTzVBN3RGQ2luLXo4SGtHODB3S3d1Um55VV9obFBkZFlCclpOT2ZUWUs1Zw?oc=5</link>
-<guid isPermaLink="false">c98d933f1a4261857f450a502f792f1b7639e0fba2b9d6c25f3297c262b65646</guid>
-<pubDate>Tue, 13 Oct 2026 22:00:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>生成AI利用に伴う不安と影響 最多は「AI依存による思考力の低下」 日経クロステック</p><p><b>ソース:</b> 日経クロステック</p>]]></description>
-</item><item>
-<title>「AirPods Pro 3」が安い！【Amazonプライム感謝祭】</title>
-<link>https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vYTdsWGdGQmhZMkxRLVhiUjMyOFZpU0NycTZrRkl5ZjNhNFFiQV8yMzlJbWlJNEJXbUVlSGljMk04TzBSU1FqcTZXTW1kRzdBbDBXZjFTOEQ3WmtKODhMdDFqanRZZw?oc=5</link>
-<guid isPermaLink="false">95297c8f31960bbff32c2f4832ae097c8e2095540b8503c47e644e45b93dbe44</guid>
-<pubDate>Tue, 13 Oct 2026 22:00:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>「AirPods Pro 3」が安い！【Amazonプライム感謝祭】 PHILE WEB</p><p><b>ソース:</b> PHILE WEB</p>]]></description>
-</item><item>
-<title>OpenAI従業員を逮捕、社内に録音装置隠す-FBIの捜査続く（TBS CROSS DIG with Bloomberg）</title>
-<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE52aExmWTdmZU1zSW84bkViMEJwWnJhaFlGb3VPRHd4eS1NVTNhUFB2ZjVHdEc1cm5qWU1iZ0pySVVoZk4yVWJ5RklITVFyUkNtaEtRQWEzNThZck1KMUpKUVc5eWI5UXB6RENSR2xvNFdPMzdOTDFfcUoyc1NESXM?oc=5</link>
-<guid isPermaLink="false">1959dfdf1814491dbe6c420e217c23f99b02887308c3bcfa332efd669a64fa10</guid>
-<pubDate>Tue, 13 Oct 2026 21:41:21 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI従業員を逮捕、社内に録音装置隠す-FBIの捜査続く（TBS CROSS DIG with Bloomberg） Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
-</item><item>
-<title>【対談】ChatGPT広告、すでに3割が導入済み。それでも「成果が見えない」のはなぜか</title>
-<link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LVWR6VWk2bUFtWlJ5dmRNanh2OVFuUVAzUkYyejRvYkxLVUxfdTJ5VzRtUmRfaFF6bE1BTHBMQVotSkFfZjZmOXg4TFRXMTdpVXQ4LWI5aFdYNjhMNmhOMjFn?oc=5</link>
-<guid isPermaLink="false">f4b539c995682e8a4baa4e3ea66db4ea5932bf0b4bfa44f6fc96a51f51d5efbf</guid>
-<pubDate>Tue, 13 Oct 2026 21:30:05 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>【対談】ChatGPT広告、すでに3割が導入済み。それでも「成果が見えない」のはなぜか NewsPicks</p><p><b>ソース:</b> NewsPicks</p>]]></description>
-</item><item>
-<title>Windows Updateが使えなくなる場合も。2027年に証明書が期限切れ</title>
-<link>https://pc.watch.impress.co.jp/docs/news/2147744.html</link>
-<guid isPermaLink="false">71f6a23ca5e0136c39b5a5d53818231a7700f6e3102654f02178f3391f4995e2</guid>
-<pubDate>Tue, 13 Oct 2026 21:12:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Microsoftは10月8日(現地時間)、Windows Updateの証明書が2027年に有効期限切れを迎えるにあたり、Windowsのバージョン別に必要な対応を公開した。未対応の端末では、期限切れ後にWindows Updateへ接続できなくなり、あらゆる更新プログラムを受け取れなくなる。</p><p><b>ソース:</b> PC Watch</p>]]></description>
-</item><item>
-<title>ゲッティイメージズが米破産法11条で再建へ 生成AIが奪ったものと奪えないもの（尾藤克之） - エキスパート</title>
-<link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbEhsVWxKRFdLSnQ3eGlHaTdJVm9WeUZUOVNhZThVaHZocDQxMkxldDJWR1J3U3hBSkNhUlY0V2tyU0hqbk5BRHA1aloxN3ZVUEl0RVRQZmNMcXdOZFNlSU9FWHQzdjQyZUdTY1hBOV9FZktqZXZWdnN3bExrSUdpQXBybHRuaGdJ?oc=5</link>
-<guid isPermaLink="false">b14ef8e12ce88380fe7d1ebb30b6bc8e3ab7f80437b6264922e596cf0373a7a3</guid>
-<pubDate>Tue, 13 Oct 2026 21:10:44 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>ゲッティイメージズが米破産法11条で再建へ 生成AIが奪ったものと奪えないもの（尾藤克之） - エキスパート Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>登録した送り状ラベルの発注元情報を、他の利用者が閲覧できる状態になっていた。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
 </item>
 </channel></rss>
