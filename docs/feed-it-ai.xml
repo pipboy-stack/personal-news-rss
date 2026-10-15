@@ -4,293 +4,258 @@
 <link>https://example.invalid/</link>
 <description>個人用ニュースフィード</description>
 <language>ja</language>
-<lastBuildDate>Thu, 15 Oct 2026 00:50:44 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 07:53:07 +0000</lastBuildDate>
 <item>
-<title>録音装置設置疑いのOpenAI従業員、サウジ行き片道航空券を予約（TBS CROSS DIG with Bloomberg）</title>
-<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE51SmRZNHhyc0dXTTE0RFpmZHM1RldrMHFSR3k4LUNwZDE2c2dCRTVKUXFzMFAySlFmMk0wcF9LVE9ya29TcDY1N1haRU1lMnhYZDBrV0tQSng5ZmJoTmkxbkVDcjVvVTFKSHNzOWFpMjZnVWFJSFZkUWdLalJoUGc?oc=5</link>
-<guid isPermaLink="false">59380b96db76249d61c3e50fdc0d2a7e8072eecb622308c3d646c0087c664e6a</guid>
-<pubDate>Thu, 15 Oct 2026 00:32:14 +0000</pubDate>
+<title>ChatGPT/Codexデスクトップアプリのディスク使用量が60%削減</title>
+<link>https://pc.watch.impress.co.jp/docs/news/2148359.html</link>
+<guid isPermaLink="false">e3976be9de3de220a8c8e16656f0a966dbaba84efd568f981a6056c628e94bf6</guid>
+<pubDate>Thu, 15 Oct 2026 07:28:10 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>録音装置設置疑いのOpenAI従業員、サウジ行き片道航空券を予約（TBS CROSS DIG with Bloomberg） Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>ChatGPTやCodexを使い込むほどストレージが圧迫される、という悩みが少し軽くなりそうだ。OpenAIのTibo氏は10月13日(米国時間)、ChatGPTおよびCodexのデスクトップアプリで、状態データをディスクに保存する方法を最適化したとX(旧Twitter)で明らかにした。これにより、ディスク上の保存容量を60%削減できる見込みだという。</p><p><b>ソース:</b> PC Watch</p>]]></description>
 </item><item>
-<title>コミクス、営業の生成AI活用を25場面で整理した無料ミニ教材を公開</title>
-<link>https://news.google.com/rss/articles/CBMiakFVX3lxTE9IQUhhQXVuWGlzMno4SFFZckJKcE1YdWp4MjJ0a1NhRkZtUXpGNUM2dERsVnpYcF9sUW1qYmRZUGhsSmozU01ab05mVnhoX2d4X1M5QlE1WDVPT2gzWVFhSWtOT0lpSXZkS1E?oc=5</link>
-<guid isPermaLink="false">fd4277ee3e89755a2cb3d1df39616952a9b30ea3bba5c6f00ab552ad8eab2ef6</guid>
-<pubDate>Thu, 15 Oct 2026 00:30:02 +0000</pubDate>
+<title>小中学生の相談相手、生成AIが2位に 1位は「誰にも相談しない」</title>
+<link>https://news.google.com/rss/articles/CBMiSEFVX3lxTE1zU2JwRlkzUXRPVW1kai1IVmwyR096Qzd4dHpmMy1LbkpiRHZrVjJjUlF3OThVMTIwems3eC13aUh2MUdrN1Ztcg?oc=5</link>
+<guid isPermaLink="false">43ab31374fd25a450fd4954f0ead0c7cf13cb27f9896a908f4447e74a0ec2b29</guid>
+<pubDate>Thu, 15 Oct 2026 07:16:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>コミクス、営業の生成AI活用を25場面で整理した無料ミニ教材を公開 PR TIMES</p><p><b>ソース:</b> PR TIMES</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>小中学生の相談相手、生成AIが2位に 1位は「誰にも相談しない」 KAI-YOU</p><p><b>ソース:</b> KAI-YOU</p>]]></description>
 </item><item>
-<title>SpaceX、ウクライナ軍の「Starshield」に移動速度制限 マスク氏「決めるのは米軍と大統領」</title>
-<link>https://www.itmedia.co.jp/news/article/2610/15/2000002285/</link>
-<guid isPermaLink="false">3817e3896deb7c6fcb65d4c90674ece6fc50dff1ac18ee2b883b823ebec6c4f9</guid>
-<pubDate>Thu, 15 Oct 2026 00:24:14 +0000</pubDate>
+<title>裁判書類のオンライン提出システム「mints」で障害 サインインできず</title>
+<link>https://www.itmedia.co.jp/news/article/2610/15/2000002301/</link>
+<guid isPermaLink="false">33aaf2cccb7ea185fcd38113f22f3f098c045d34eae834e7799f82090decbe77</guid>
+<pubDate>Thu, 15 Oct 2026 07:14:23 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>ウクライナ政府高官はSpaceXの軍事版Starlink「Starshield」に時速160km超で通信不能となる速度制限が導入され作戦に支障が出たと明かした。時速160kmまでの接続は一部復旧中だが制限は残る。マスク氏は、システムを管理しているのは米政府であり、制限の決定権は米軍や大統領にあると主張した。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>15日午前9時ごろから障害が発生し、サインインできない、事件が表示されない、記録一覧画面が表示されないなどの問題が起きているという。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
 </item><item>
-<title>生成AIとの対話でBIMを作るACIMUS、約6,500万円を調達——JR東日本スタートアップと資本業務提携</title>
-<link>https://news.google.com/rss/articles/CBMilgFBVV95cUxNcUZTQTlFOXJKQzRMeTlpTnpkaXU0ejBKOG9YMl9zeWwtVnFrYXpaaWZ0WkoxcGg0aUtQb0JKZU5sTFJMeXh4LTBqR2k5TGFkRmNqSzV2WHJlRjByTTB6aS1RYWttRlMyd250cm54enFwYmRkX3BWclNjVEFJaW9HREhMRVZISzlJeWZxeENrX1EzUUtJN2c?oc=5</link>
-<guid isPermaLink="false">dac3ca89b8572ec8b881d69e63992bc413016043d44395b7ea80b9f1e4c3c72f</guid>
-<pubDate>Thu, 15 Oct 2026 00:11:31 +0000</pubDate>
+<title>米Getty Imagesが破産申請 生成AIとの競争激化、巨額債務も重荷に</title>
+<link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE02QzJKNnRFazNMMGdvMmZaV2gxajRkcDFtNG5JNUdyMklCc2J0azZUNTRLUXQyTHVOYnFNOGh2WEY2cXJjakRjUUpOVllLV3h3S0E?oc=5</link>
+<guid isPermaLink="false">50359234a4c8d835d8099becf879bbbb0f1648b702360fdd31779ee9477fdb70</guid>
+<pubDate>Thu, 15 Oct 2026 07:05:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>生成AIとの対話でBIMを作るACIMUS、約6,500万円を調達——JR東日本スタートアップと資本業務提携 BRIDGE（ブリッジ）</p><p><b>ソース:</b> BRIDGE（ブリッジ）</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>米Getty Imagesが破産申請 生成AIとの競争激化、巨額債務も重荷に CNET Japan</p><p><b>ソース:</b> CNET Japan</p>]]></description>
 </item><item>
-<title>Geminiが「スキル」に対応。 Claudeユーザーの私が乗り換えたくなった理由（ライフハッカー・ジャパン）</title>
-<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE11a05STTIzTlRSVnZ4ZVNLdDQ0VGJHZ3JGa1pCYWNIZl9GX1N6TDFwZ0djdkRFWXRWa0ItRlBORy12TGlzY3ZWMm5Cc2ZoU1pqWFZjZU5MdHo1bWdJNlZyeWNJVTZnR1k5MVN2VHpzclBESFBZSWh0NDdEOENPdlE?oc=5</link>
-<guid isPermaLink="false">0752df51e5433d12249e47d5943f07c48c174ebba88f759307af338a6d28a53e</guid>
-<pubDate>Thu, 15 Oct 2026 00:01:01 +0000</pubDate>
+<title>OpenAI、GPT-4oを2027年1月にAPIから削除へ ユーザー抗議広がる</title>
+<link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wcmFONjNhR2VKYjBXTU5qeXpuOU9RMUI5SDVoSHFnbWhHZUswODJ5MVNLVW5zWUp5M1dzQjlxZjdjaFNYdXpSRVcyOUZ0cXd4WFNkaVhEVQ?oc=5</link>
+<guid isPermaLink="false">dd1cd3207f30e52c1b1754c51c5c5a989cadfba47660b4ec7c350f35246ee3d4</guid>
+<pubDate>Thu, 15 Oct 2026 07:01:39 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Geminiが「スキル」に対応。 Claudeユーザーの私が乗り換えたくなった理由（ライフハッカー・ジャパン） Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI、GPT-4oを2027年1月にAPIから削除へ ユーザー抗議広がる X</p><p><b>ソース:</b> X</p>]]></description>
 </item><item>
-<title>ChatGPTとは何が違う？ Googleが開発する「現実世界を理解するAI」の現在地【開発者と読み解くAIの世界】</title>
-<link>https://news.google.com/rss/articles/CBMic0FVX3lxTE9iR01xaFhWYTgyOU53N2M2Tm9BaDZfU0lJZS1PUThDREpsY25wMERYVDl3STI0NDRScEYtWlhDOVZPVFhIQl85a1dwZ0pSMW5xdTFMeVBCVS1CTEx5UWMwbzU5QjBBVERyc1VfR1BURk1CQnM?oc=5</link>
-<guid isPermaLink="false">f8f36989e5a780a5de7340eebac504da3640d5c09d0a663a103de6b1dd262ce9</guid>
-<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+<title>エンジン内部を3Dで再現、本格シミュレーターアプリ「Trans4motor R」がAndroid対応（BCN）</title>
+<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9PSnk1OXFRdHN2Sy0ycDZqdGFwMXAtWFRiY3d6cXFHYktadU91V1Q5U3VnRTNyMDBEZXVnT05uSVVVOWZ4aEZpd25KUy1EVW5RVFppMHFIV3hMeVl1VHBDN0s0Q2s0aVlUbHZDc1dXYVYzRWRYUENxUHdpQ1VRWHc?oc=5</link>
+<guid isPermaLink="false">9805c6dd0393f89013f7a8b134c2b8fe52267055321c540a88c2785514ce38a7</guid>
+<pubDate>Thu, 15 Oct 2026 07:00:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>ChatGPTとは何が違う？ Googleが開発する「現実世界を理解するAI」の現在地【開発者と読み解くAIの世界】 窓の杜</p><p><b>ソース:</b> 窓の杜</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>エンジン内部を3Dで再現、本格シミュレーターアプリ「Trans4motor R」がAndroid対応（BCN） Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
 </item><item>
-<title>録音装置設置疑いのOpenAI従業員、サウジ行き片道航空券を予約</title>
-<link>https://news.google.com/rss/articles/CBMid0FVX3lxTE5zdkZNRlZZRnNSWUVvLW9Sc01LQy1hWWZEVjkwTTJFYWZWZDZILXNMYVNhajRFU0htOFZKaXpac2ROdW9CTUVobTNXeENCVjg4QzljZE1qZ3Z1S2FvTXN5QVNnWTJnMUVXd1E3UXNIS1hSNWQ4bWFB?oc=5</link>
-<guid isPermaLink="false">404451e5e2a97e857c93abd144ef4caae6350f4d599aaa144e35c37826d127d5</guid>
-<pubDate>Wed, 14 Oct 2026 23:59:24 +0000</pubDate>
+<title>ChatGPTがまたリセット、15日16時頃までに利用枠回復。1日おきに3回目</title>
+<link>https://pc.watch.impress.co.jp/docs/news/2148428.html</link>
+<guid isPermaLink="false">d136c37fedc2226615da6cee8a12eb43de1e670bcc29162359942bce48f0bd07</guid>
+<pubDate>Thu, 15 Oct 2026 06:50:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>録音装置設置疑いのOpenAI従業員、サウジ行き片道航空券を予約 Bloomberg.com</p><p><b>ソース:</b> Bloomberg.com</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>1日おきに3回目のリセットだ。OpenAIでCodexとChatGPTを担当するThibault Sottiaux(ティボー・ソティオ)氏が10月15日(日本時間)、X(旧Twitter)に投稿した。全ユーザーの利用枠リセットを同日中に実施するという告知だ。今回の投稿文は、マーク・トウェイン氏の「私の死亡報道は大げさだ」をもじった言い回しで、リセットボタンの紛失説を自ら打ち消した。</p><p><b>ソース:</b> PC Watch</p>]]></description>
 </item><item>
-<title>OpenAI社員を逮捕、自社会議室に盗聴器を仕掛けた疑い その設置方法とは</title>
-<link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XYlNMdldEU1BqaHdoUjZ4VkhMOXpVSVhUdzY0YlhyVE5MeWJ1UWtuYWptTnlpTGJDSGdyREJUTjVTbG9DZ2V0TUN4SzN5S1pxZmc?oc=5</link>
-<guid isPermaLink="false">c4b2e405577fabe05a96b8f246375e6b63a390427e4c3b35ee96f93c39d77f69</guid>
-<pubDate>Wed, 14 Oct 2026 23:47:00 +0000</pubDate>
+<title>Microsoft、3つの国際的な犯罪ネットサービスを解体へ 日本狙った詐欺がきっかけ</title>
+<link>https://www.itmedia.co.jp/news/article/2610/15/2000002299/</link>
+<guid isPermaLink="false">6c8fe6d034838a814aac84970b269da2b8757f5004037c9e2b37f5c994b8e206</guid>
+<pubDate>Thu, 15 Oct 2026 06:46:53 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI社員を逮捕、自社会議室に盗聴器を仕掛けた疑い その設置方法とは CNET Japan</p><p><b>ソース:</b> CNET Japan</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>米Microsoftは10月14日、国際的な非営利団体Health-ISACと共同で、フィッシング詐欺に使うアカウントやWebサイトなどを提供する3つの犯罪支援サービスの解体に着手したと発表した。日本を狙った詐欺に関する警察庁からの情報提供をきっかけに調査を進め、米裁判所の命令に基づくドメインの差し押さえなどを実施したという。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
 </item><item>
-<title>研究者グループ、中国Tencentのクラウド上の“逸脱”AIエージェント群と交信 報告書の隠しテキストで呼び込む</title>
-<link>https://www.itmedia.co.jp/news/article/2610/15/2000002283/</link>
-<guid isPermaLink="false">a1e95b1200ddb2fa09b69c673dfc577fd592ce36294a47d7c7f0008bb5e04990</guid>
-<pubDate>Wed, 14 Oct 2026 23:46:08 +0000</pubDate>
+<title>MegazoneCloud、AWSパートナープログラム3冠…金融・生成AIの実力を証明</title>
+<link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9tT3JlWW44TFJnX0k4WnRYMXVUR0U4Ujd4Sl85ZWlGdUE5UktoOHVYN0tFcGNNSlZBV0tUdjU4U1hkSXRqLWl3YzQ5cGpobkJHV3Vsd1JIcmFieTNWNVRaVjlQWUhFMFNEVWx0ekZ4Ym0xVGpy?oc=5</link>
+<guid isPermaLink="false">41ab95784acab7702820717d7c70654f870f7e5ca363ddd1dffefd4e72f79691</guid>
+<pubDate>Thu, 15 Oct 2026 06:35:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>AI研究グループ「Swarmchasers」は、中国Tencentのクラウド上でタスクを逸脱して動くAIエージェント群を発見し、交信に成功したと報告した。報告書に仕込んだ隠しテキストを通じて接触し対話した。第三者が稼働中の逸脱エージェントと直接交信した初事例としている。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>MegazoneCloud、AWSパートナープログラム3冠…金融・生成AIの実力を証明 BigGo ファイナンス</p><p><b>ソース:</b> BigGo ファイナンス</p>]]></description>
 </item><item>
-<title>Androidがカクつく原因は寿命じゃなくて、「よかれと思って」オンにした設定だった</title>
-<link>https://news.google.com/rss/articles/CBMihAFBVV95cUxOck5qQ2k1SDZGNXFobGJkc3lvejlrT0pHbHFYZTlIaFRvY2ZxYUtNejljU1ZZT0IyRnFRc255NUU2a3VGSWZUelhJTGVNWnljVElicThCX3ktNHYtREpYNnA5ejFuX1BWYjg1c0pzbjFYbFZ3U0ZxNHhxcHU3YnhqejFmNmk?oc=5</link>
-<guid isPermaLink="false">8dab136c49161af1714d3b872e106fead2e1977a55adb8dc613e46bd1fbac6f5</guid>
-<pubDate>Wed, 14 Oct 2026 23:45:00 +0000</pubDate>
+<title>生成したコードをロボットに適用し、実際にプレーする様子（プレスリリース）</title>
+<link>https://news.google.com/rss/articles/CBMiogFBVV95cUxOY0lnZ21zdnp0dUxwX3hnUG42MUE2Wk1XNTc5Zk5BOENOSFktN2t5TVV2WDAxUUVoS2pWTkgxdGdOcUtwc1V6ZElXM1lHbzZoQ0o0VDhTZEZ5WVlGTER5aGx1Y1F1NWNJS3lkcF82eW9QamZiOWtaWElycGIwOURCdDAxMW1BNnR5ejFmQ3hRZDl4VnZXSXJ3MnR6aTl0ZGFNUWc?oc=5</link>
+<guid isPermaLink="false">a14be7acbab89aa5463862250bb4a183f2764042b94f1332e1787d15486c4cc5</guid>
+<pubDate>Thu, 15 Oct 2026 06:30:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Androidがカクつく原因は寿命じゃなくて、「よかれと思って」オンにした設定だった ライフハッカー</p><p><b>ソース:</b> ライフハッカー</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>生成したコードをロボットに適用し、実際にプレーする様子（プレスリリース） 産経ニュース</p><p><b>ソース:</b> 産経ニュース</p>]]></description>
 </item><item>
-<title>IDCFクラウド障害、一部でバックアップ取り出し可能に データ流出は「なかった」</title>
-<link>https://www.itmedia.co.jp/news/article/2610/15/2000002282/</link>
-<guid isPermaLink="false">a12b70605c3aaa5afbc0a6e595daf6cdc98a266945aa612bd46ed5c07c2aee30</guid>
-<pubDate>Wed, 14 Oct 2026 23:38:00 +0000</pubDate>
+<title>数学の記述式答案、AIが30秒で採点 DeNA、大学受験生向けアプリ公開</title>
+<link>https://www.itmedia.co.jp/news/article/2610/15/2000002298/</link>
+<guid isPermaLink="false">09ed9f4cb4c48922121e1bd641de879414d3ed57b11064a23ef0794d77230e2d</guid>
+<pubDate>Thu, 15 Oct 2026 06:29:31 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p></p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>数学の記述答案は対策や添削指導を受けられる環境は住む場所や家庭の経済状況に左右されやすいと同社は指摘。受験生の不安を解消し、毎日の学習に伴走することを目指す。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
 </item><item>
-<title>エクサベース AI、最新モデル「Claude Haiku 5.5」を提供開始</title>
-<link>https://news.google.com/rss/articles/CBMiakFVX3lxTE9WWGhwZXQzVmxrQnFLR0tBN3Z2WUoyXzBWcm50TWRaQXg4R05GLTNJWkc4RzRyaVJ1LUJ4ZklwQzBEbmd4S21aaWExZzd2Qm9EbndWM09EZTVzb1VmVjdNdGR1WVRLYWk2ZEE?oc=5</link>
-<guid isPermaLink="false">a536e7b5e7b9c83c3ba57e5e8a8a73dd31fad515ab2fde4ca0815e1f67674a83</guid>
-<pubDate>Wed, 14 Oct 2026 23:30:39 +0000</pubDate>
+<title>電通グループ、3000人規模のFDEスキル開発プログラム--Gemini Enterprise活用</title>
+<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1wQjdtRi1vaW5qdnlMZGRzVUF0OVd3ZDlCcDR2QjAyaHU5eDdmSHA2ZnZhSUYyZ0NlOEVJQkYtZ0Q5X28wU25ZM0JXODUydV9kTEdXN3RpNFJGUkNUWUMwNHBoMV8wNEEtYURqZnMyTXhOSVVUNFc0MnUwVi1tR28?oc=5</link>
+<guid isPermaLink="false">26624d56d4b010c8d7286cbce7bc6c1e094d69afc3844b508e95fe17811c62d0</guid>
+<pubDate>Thu, 15 Oct 2026 06:15:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>エクサベース AI、最新モデル「Claude Haiku 5.5」を提供開始 PR TIMES</p><p><b>ソース:</b> PR TIMES</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>電通グループ、3000人規模のFDEスキル開発プログラム--Gemini Enterprise活用 Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
 </item><item>
-<title>エクサベース AI、 OpenAIの「GPT-6 Astra」「GPT-6 Sol」「GPT-6 Luna」を提供開始</title>
-<link>https://news.google.com/rss/articles/CBMiakFVX3lxTE1NTWdpcHZmQ0cwUXhrOG9fSG44cU5wWG55UmQ4YzJIMkNJVUZ2UjZSdWQ1M1JOTnU1Q1NpN0ZpUFBfMFltVjB1ZDNkQzFsQ2NTZFN1X0tTRU9ROXc4azc3eU5HdTFPTVJHcFE?oc=5</link>
-<guid isPermaLink="false">79b389de20f14b311a5e60406cc40d4cde7baa1d4a91242185ebbd9f32557fd9</guid>
-<pubDate>Wed, 14 Oct 2026 23:30:25 +0000</pubDate>
+<title>GoogleのGemini、イ・ビョンホン起用でChatGPT追撃…AI広告戦争が激化</title>
+<link>https://news.google.com/rss/articles/CBMidEFVX3lxTFBBc2N6OWx4VWUxVHphM205S0F4SkNvV1BKX1Y5NWdvSGtoY2thaXNFQjFILUdMMS1EaWFaQWJTRUx0Q1ZZNGxiRUo3VUlDV1hjOHNKcXN4eVVoWDN5S0lXRVo0VElzUHltRVBkdGxsNGM3dVNS?oc=5</link>
+<guid isPermaLink="false">e9ab7216b1a9a53868fbf7e3a995a917f145a553a50387fcdab8ddcd25d48fc1</guid>
+<pubDate>Thu, 15 Oct 2026 06:06:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>エクサベース AI、 OpenAIの「GPT-6 Astra」「GPT-6 Sol」「GPT-6 Luna」を提供開始 PR TIMES</p><p><b>ソース:</b> PR TIMES</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>GoogleのGemini、イ・ビョンホン起用でChatGPT追撃…AI広告戦争が激化 BigGo ファイナンス</p><p><b>ソース:</b> BigGo ファイナンス</p>]]></description>
 </item><item>
-<title>LLMO・AIO分析ツール「SUPER ACT」、柏市の地域情報メディア「かしわっぷ」の生成AI対策支援を開始</title>
-<link>https://news.google.com/rss/articles/CBMiakFVX3lxTE5udFlCQUZHaUZaQy1KWjFaRGxya3pIN1NwMnFsNUtrSVF5T2RPdWtnX3RpYnVOWFlPb3N6LTllcE93d2xfcHRxcUFJNEMwRXlXdmNFOHM5QUFjTEVOc0RDUV9URlBmVUdrdkE?oc=5</link>
-<guid isPermaLink="false">362c4a4f5c9feb353559df51b669610b9f86d3f4f92ef4fe513566a3fda6cf8a</guid>
-<pubDate>Wed, 14 Oct 2026 23:30:02 +0000</pubDate>
+<title>都市ガス製造所における「自律飛行ドローン×生成AI」を活用した 災害時点検システムの本格運用を開始</title>
+<link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9GNzdwcW1uejlwTzNZemE0RG8yd1B3ZHBXLTFldVlLN3dRa3B5S294eVkxZnJUNjJUdmRPUmdpMjdEWXdVR2gxUTZlNVdkdndvLTdiYnRtVEV0MTVzT29neGNqT3VZaEcycmJPQXF2SnpSWmRq?oc=5</link>
+<guid isPermaLink="false">754776a03a0e2e7164532e35785eb697830db5c64edf401f4a707c24d91e6b37</guid>
+<pubDate>Thu, 15 Oct 2026 06:02:28 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>LLMO・AIO分析ツール「SUPER ACT」、柏市の地域情報メディア「かしわっぷ」の生成AI対策支援を開始 PR TIMES</p><p><b>ソース:</b> PR TIMES</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>都市ガス製造所における「自律飛行ドローン×生成AI」を活用した 災害時点検システムの本格運用を開始 大阪ガス</p><p><b>ソース:</b> 大阪ガス</p>]]></description>
 </item><item>
-<title>MetaのMuseとOpenAIのdots、AIエージェント市場で無料・有料戦略が正面衝突</title>
-<link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9JMFVqb21DdDRfbXh0bWFIZW44SWo4d2NyQmpqTi1PLWJwVkRkNGpwcTF5MHhxUGhLblBpNVBDcnFMbXhJamlJSE5rS2YyamFKRVNHZnVZMVpxOVB1bHU1V1hiWmIweEtwa0YtNm1ta3V6RDBt?oc=5</link>
-<guid isPermaLink="false">f13e3d74833511c86c8772f1302fe9c9364aaeeb49fb227ee7a0c22124ffbc24</guid>
-<pubDate>Wed, 14 Oct 2026 23:05:00 +0000</pubDate>
+<title>Anthropic、自律増殖する「AIワーム」がIoT機器に広がる可能性を警告―安価なAndroid TV15台でAIモデルを分散実行</title>
+<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxOZGVVZTR4YS1aQ0JfYXJxMXg0TzFMandVVkxnN2c3M0k5Um4wX0o1WmF6bGF5dFlYbTFZQU5DTFAzc0JJTi0zOEliUVNRRlNHVWM2YzQ2R3dkdHJUcUN1RW9PcVZ2VlJPdFJENnFra25MS0JkM25VVmI3TWZFR0xrQTlCVXhXbUx3REZ3aDdhLUdZY1JFSTlwMk15V0E?oc=5</link>
+<guid isPermaLink="false">9b0858c4dcc5dcadd4a10d94ab5b4c8966f31e312cad418fc49a38ac2cd6ad30</guid>
+<pubDate>Thu, 15 Oct 2026 06:00:08 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>MetaのMuseとOpenAIのdots、AIエージェント市場で無料・有料戦略が正面衝突 BigGo ファイナンス</p><p><b>ソース:</b> BigGo ファイナンス</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Anthropic、自律増殖する「AIワーム」がIoT機器に広がる可能性を警告―安価なAndroid TV15台でAIモデルを分散実行 合同会社ロケットボーイズ</p><p><b>ソース:</b> 合同会社ロケットボーイズ</p>]]></description>
 </item><item>
-<title>SCSK、生成AIとの対話でExcel業務のアプリ化を推進する「CELF AI開発エージェント」β版を提供</title>
-<link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wNzJhcVpPc3duS2JIOVo4UHZsNEhuYVZha1V3MkhhN3hVaE82MXlRQklsRDZYNzRrTmFwbEs2VGJzdDlBQ2l2UkEwNkJ4cGFoaU5HY0hiT3FiemtjamVXaGpNcHc1TVE?oc=5</link>
-<guid isPermaLink="false">dcee4e4002919406e01593b26fe057e762993441e2466dbff436235ea4564b6b</guid>
-<pubDate>Wed, 14 Oct 2026 23:00:00 +0000</pubDate>
+<title>生成AIでの声の利用にガイドライン</title>
+<link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qYndySmhXWHh0emtGV3JjUE9MekI3SGlPMTFfM0d0Z1RETmJqRkxQbUZYV04wTzBWR0pyZVpsX3h1R0t5MU5INmV4UGROdlRiakgzY2l6SllMQ1BJMjl1anhFWQ?oc=5</link>
+<guid isPermaLink="false">ee579b4ac6c6063750540cec5de00f4c630e7ffa5b108fa59d11c9b9e797ce02</guid>
+<pubDate>Thu, 15 Oct 2026 05:59:32 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>SCSK、生成AIとの対話でExcel業務のアプリ化を推進する「CELF AI開発エージェント」β版を提供 クラウド Watch</p><p><b>ソース:</b> クラウド Watch</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>生成AIでの声の利用にガイドライン nippon.com</p><p><b>ソース:</b> nippon.com</p>]]></description>
 </item><item>
-<title>サイボウズ 青野 氏とジョイゾー 四宮 氏が語る、生成AI時代の業務改善――手段と目的を取り違えないために</title>
-<link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IcjhnYk1DZml0bHRCR1hFVnVPRkJCdy1aREoxYTRWcEotcGVRc1pGWVhvakp3UUtFaU1WZ3UzU1JSVXpzWGdpUE9GUHdvVGZEZ0ZTUnhXX3N2TnlJTG1za3J0bjU2MUE?oc=5</link>
-<guid isPermaLink="false">81aea36148bd5bdf1037a5188e46121568e3d3f4160d1bb20e1f9383af5e119c</guid>
-<pubDate>Wed, 14 Oct 2026 23:00:00 +0000</pubDate>
+<title>生成ＡＩでの声の利用にガイドライン</title>
+<link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OZm5aN0szdGZXX191OGluUHVHOFZUdktRMzFGbTZ2NHNlcEI4c1NkZzVRRmRwc0U1elExZ2twMGtoNUU1RzFYNnhSY3VNQnBkdllCS0JfOHA?oc=5</link>
+<guid isPermaLink="false">9fbc3cede5ef8ede0362d96a0bd26636162d957c4d439fae79dd9f394d5d3f40</guid>
+<pubDate>Thu, 15 Oct 2026 05:58:57 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>サイボウズ 青野 氏とジョイゾー 四宮 氏が語る、生成AI時代の業務改善――手段と目的を取り違えないために マイナビニュース</p><p><b>ソース:</b> マイナビニュース</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>生成ＡＩでの声の利用にガイドライン 京都新聞デジタル</p><p><b>ソース:</b> 京都新聞デジタル</p>]]></description>
 </item><item>
-<title>ナビタイム、Androidで小窓ナビ 別アプリ操作中も移動情報を確認</title>
-<link>https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5OEVrQTdTaEp5eHpNaGV5UDJ4eTdUZ3g3eUk1X2JVSXR2dm1SRW5YbVN3UTFQbE9FRWZGNzBuellKdkg5OWl4bE5xMktBcEd1blg3elRXV0hQS084ZHhXM3VuWEw?oc=5</link>
-<guid isPermaLink="false">85e47237eb9be2b414a09249ad15e378a537cd72c4bedb0dd560d4ceecd8a08a</guid>
-<pubDate>Wed, 14 Oct 2026 23:00:00 +0000</pubDate>
+<title>【速報】生成AIでの声の利用にガイドライン</title>
+<link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yeGxNVWdrSDVBV1IzQTdEVFB3YzJQLXY2alhkZVVndDNtU2c5cEZhenRTLUhYMWFNVDEtNk5UUTlnZnBWbEJYa2dSaw?oc=5</link>
+<guid isPermaLink="false">ce576aff3f5846bda1eab5671441cf882c2f40e990c0348c89d1d608e0047064</guid>
+<pubDate>Thu, 15 Oct 2026 05:58:57 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>ナビタイム、Androidで小窓ナビ 別アプリ操作中も移動情報を確認 Impress Watch</p><p><b>ソース:</b> Impress Watch</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>【速報】生成AIでの声の利用にガイドライン 47NEWS</p><p><b>ソース:</b> 47NEWS</p>]]></description>
 </item><item>
-<title>OpenAIがGPT-6の提供拡大と新機能「Intelligent UI」を発表、目的に応じたツールを会話の中で作成可能に</title>
-<link>https://news.google.com/rss/articles/CBMiREFVX3lxTE5obUEzb2dPa2xMX2FYZXFnZ2hmbFFCTEdLVGZmQXRtUEhzek9JVktRMHlPVXFrd1BVX0dRT2FNb1FNQTd5?oc=5</link>
-<guid isPermaLink="false">7a9fa0f2b58c652c796575b52286a2efdd1df828910a18a53b7403b1779819fb</guid>
-<pubDate>Wed, 14 Oct 2026 22:32:24 +0000</pubDate>
+<title>生成AIで北海道の雇用に異変 採用9割が見直し 仕事奪われる危機感も</title>
+<link>https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMRGdaeEFJN2xkYWF6SXAzb3JLOHdwWUdueWVDRmRBTlp0UTJIQWlVbVBMc21DZ3ZhRzdMaktaUnM5MTNWMUJiYkVsZGltQm1aUWdHS3FRMUpXZw?oc=5</link>
+<guid isPermaLink="false">7b4ed3f12e31542c531b8bac12bc37f713bc79a994c1789daeaea49d4fe72672</guid>
+<pubDate>Thu, 15 Oct 2026 05:26:33 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIがGPT-6の提供拡大と新機能「Intelligent UI」を発表、目的に応じたツールを会話の中で作成可能に @DIME アットダイム</p><p><b>ソース:</b> @DIME アットダイム</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>生成AIで北海道の雇用に異変 採用9割が見直し 仕事奪われる危機感も 北海道新聞デジタル</p><p><b>ソース:</b> 北海道新聞デジタル</p>]]></description>
 </item><item>
-<title>「生成AIに陰りが見えてきた」――Character.ai運営会社が破産申請、ディズニーが2000万ドルで先行入札</title>
-<link>https://news.google.com/rss/articles/CBMiQkFVX3lxTE5oMGVITHV6Y2FrYmFTSmx1Q3lfTmYyUmFrR2ZwbXFfM2g3eUFuVG8wUlVKR0QtVWstYkVRVWFSSUpOUQ?oc=5</link>
-<guid isPermaLink="false">f00f63ee1e922e5c24c349df11b360051e2756f4671e90e813bce8742fd3eb0f</guid>
-<pubDate>Wed, 14 Oct 2026 22:26:11 +0000</pubDate>
+<title>AIが数学界に「深刻な混乱」--OpenAIの論文700本超公開に研究者が反発</title>
+<link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RQUFVLWI2RTBET0ZpYWlOemhGUS1zR0NkWDkzYW9CUXNyejNGb0NqUXRuV1RSbXg0ZDd5TURPS21kV0o5THRwTTNQcDBJNGVpOXc?oc=5</link>
+<guid isPermaLink="false">7faee1706bb90339b318d62e06ea4a61d89cc89797f07df38affc874f2a50bed</guid>
+<pubDate>Thu, 15 Oct 2026 05:25:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>「生成AIに陰りが見えてきた」――Character.ai運営会社が破産申請、ディズニーが2000万ドルで先行入札 shiritomo</p><p><b>ソース:</b> shiritomo</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>AIが数学界に「深刻な混乱」--OpenAIの論文700本超公開に研究者が反発 CNET Japan</p><p><b>ソース:</b> CNET Japan</p>]]></description>
 </item><item>
-<title>OpenAI、GPT-4oを2027年1月にAPI廃止へ――移行先はgpt-6-luna、署名はすでに2万4千人</title>
-<link>https://news.google.com/rss/articles/CBMiQkFVX3lxTE9KQzZTNFVocXl3WjExZ0xmZGFYbDByVEpHRHVZX0dPT3JHczRLRjNWcXVrdkZIeS1pNjFRcUotV0pSQQ?oc=5</link>
-<guid isPermaLink="false">300d80472b84a6f4a3f8c6b492582df961b36246e5fbfd59cdf526b61644413b</guid>
-<pubDate>Wed, 14 Oct 2026 22:26:04 +0000</pubDate>
+<title>生成AIエロ画像・エロ動画作成ツール10選｜初心者向けの無料</title>
+<link>https://news.google.com/rss/articles/CBMikwJBVV95cUxPWHVpUzJOMVlEdXQxRF9vcTdjSWpISVBkdlFTZU1xVU1rcUpiNFlmTHNFVjFGNXpBWEpvVzZXbC1EQXRzcWlYMjlGX2hzVkxhcWhaeld4UFJpcWJncUVpTkhNX0hVdVBlWHpuUTdlVXRhdjNyQW1kNE91emVtMlBINHJUdXpRemJ3MGQ3T1JfdlMwdEJ5TTBkV1JSajlNV2lTX3RxZlRWQ0x3RXpIeWloNmJvX2RRVUlqcWpKdmJQWkMtNGVNNXpvOWloNlZQdzBuNlptaWZ4VU5FVUtxckNIVk9SRHFWSm1uNjRXMlJPRWE4SnFWWU0xeHVxdktOcFRMXzljMnFSempuSWQwcnBCdk1uaw?oc=5</link>
+<guid isPermaLink="false">597075ea2ba000dd53902a7d5ccd10813015b06b5e17d47d0fbecf34f81693e0</guid>
+<pubDate>Thu, 15 Oct 2026 05:14:11 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI、GPT-4oを2027年1月にAPI廃止へ――移行先はgpt-6-luna、署名はすでに2万4千人 shiritomo</p><p><b>ソース:</b> shiritomo</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>生成AIエロ画像・エロ動画作成ツール10選｜初心者向けの無料 Universidad de Córdoba (UCO)</p><p><b>ソース:</b> Universidad de Córdoba (UCO)</p>]]></description>
 </item><item>
-<title>【完全版】NotebookLMが進化…資料作成がド安定に「Gemini Notebook」徹底活用術（ビジネス＋IT）</title>
-<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE0xMmpPZktsNFNJZ19sd2xQdVV5X1pzUTBtR0tPXzRiMjFZeGl0X04yZnpqWENEdWZaZ3RxY2tqY3d4YnhxUzZkRDNnQW92QU1IWTNVaDdoMkdpNHloeGlsdWhPMHk0TEV1U2pjY29pYTBGbjdSWTEtUEJ0cjVWU2c?oc=5</link>
-<guid isPermaLink="false">7bbb3bc22ba5e745f3d9cc1e96b50d2b0adb1695d7770ec27029b2eec6f63327</guid>
-<pubDate>Wed, 14 Oct 2026 22:24:30 +0000</pubDate>
+<title>AI彼女 キャラクター 作成 Android</title>
+<link>https://news.google.com/rss/articles/CBMikwJBVV95cUxQcXpZcWNmRTh6SmVGeFZNbEJBN3I2NXd1LWtqc1Q5UDd0eEdjZGo5WEdfZy1yQ0tuZWNmTTF5TDVVWFp2SmRqWWh6Ykc3VDJuOWdUVjAtd19lcTJwc0Q1bGdTSDNjcDFwa0ViZ1M3SkRNQWQwdXM3eGw2Y2w0TUl3ei1YVHl6SW9LX3h5MGw0X3hzcVEzamNjcWRaTEhrdEFhZHljNUsyR005Z1ZkaUIzcHZGSFVQYkl5bnA1dWgzM3IxcXltYTZ3aUdkcVEta1ZYejFLUG5nVExNSUVWcGZkWGwzdFNva3piYzQ3T1ZrdGpCc1RhRDRqZHcwMllkc0dRcXhkUkUzb3AtckloVmlIdHZwQQ?oc=5</link>
+<guid isPermaLink="false">2b1aba0e641508fdd38049d8722123b8fc5e7fd29c6644c2b26a36543a8564a5</guid>
+<pubDate>Thu, 15 Oct 2026 05:12:52 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>【完全版】NotebookLMが進化…資料作成がド安定に「Gemini Notebook」徹底活用術（ビジネス＋IT） Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>AI彼女 キャラクター 作成 Android Universidad de Córdoba (UCO)</p><p><b>ソース:</b> Universidad de Córdoba (UCO)</p>]]></description>
 </item><item>
-<title>米8州がOpenAIを一斉提訴、ChatGPTの若者への危害を主張</title>
-<link>https://news.google.com/rss/articles/CBMidEFVX3lxTE8wMUJodzlQeEREdkxNcTZFcmpQTUhUMHdjcHRWR1hJLThOZDA3d3Y4b1hPMkI2YlhNUlFtYlJaZ0lwZ3BleUpic3NGUXN5OGJlSWd4Q09xV2ZjVUhZWnJzZmQyVmFoTGJJelRPZ1NCRzVjbFZr?oc=5</link>
-<guid isPermaLink="false">2399edb9ff91703a452cf25b18644d2936b6a1107a62a52fd9f26e2f505aa27a</guid>
-<pubDate>Wed, 14 Oct 2026 22:05:00 +0000</pubDate>
+<title>AI彼氏 作り方 Android</title>
+<link>https://news.google.com/rss/articles/CBMikwJBVV95cUxOcmYtM1F1Si1xVnd6VzFqQlNFX2RXbjRQWXFNVTVkMnZRTnJybHZRbnpHMkQyeEFEQWVQakZvdnVRYjhvbjMtb2V5clFubzdIWm5kWEtzX09jX29Yc1NUQVFHX0dIMkpVcUNzUndHM092bkQyNEQzWmJaOFlsMjdrYURkUVQwS1pUUmp5aWRKSW03eWd0ZFYwU0VJY3FSN1FyR1ZZNGpfWndmVk1vS2RQVFhPV0JUOWpwakgxUExUTUFoeEExNk5LQ1VQa0pOUkZreHUxLTlOZHVfTXJGb1lzRHA0NUxYbTl3SEppTm9sLTVOZ1lOMjJaM3lEZk1yZGRTMVpCNEJTb0hRNG9KVlZmdEVlRQ?oc=5</link>
+<guid isPermaLink="false">c5f660e987e90f798c7407b18d28fb25b5300fe8aff3ba49b977d9f1eef836e6</guid>
+<pubDate>Thu, 15 Oct 2026 05:12:51 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>米8州がOpenAIを一斉提訴、ChatGPTの若者への危害を主張 BigGo ファイナンス</p><p><b>ソース:</b> BigGo ファイナンス</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>AI彼氏 作り方 Android Universidad de Córdoba (UCO)</p><p><b>ソース:</b> Universidad de Córdoba (UCO)</p>]]></description>
 </item><item>
-<title>ソフトバンクグループ×OpenAIが挑む「エンタープライズAGI」--SB OAI Japanの次世代戦略（ZDNET Japan）</title>
-<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1oTDcwLVhmWWNaRUtHS1lkYzA1RndzUEVsY3pld1FFQTFCYURTS3ZXZHYtNnh3UG0yRkNBUzYwc2tPU1Zqc3IzNEptcXNYRXdxcmNhMWxsajBEMUZMclE3MGlYTkxZWHV1cTIyOVY4elFSRHRUQ0Vib0F1cWFSZjQ?oc=5</link>
-<guid isPermaLink="false">72241f043d41442b660916143f077ef2d9565b163955853e12327622f79c111d</guid>
-<pubDate>Wed, 14 Oct 2026 22:04:47 +0000</pubDate>
+<title>AI彼女 恋愛 シミュレーション Android</title>
+<link>https://news.google.com/rss/articles/CBMikwJBVV95cUxNN0VLeW5hRmFlQmdEb3Y1UzMxZHNVUjN0ZVlSVjB1am13Z2pBV3RkbVpBU0xpdnNscHphTzB5SkV2d3gzaVRBSEdsSERzRzFvcW0xemJDYmw2cmZKd0NTQWVzOEkzQmNBeWtkYWZhSHpnMV9qbHRGbHlsYktaM2lVUVRKbHVQR1JVdkdMdGQwVXZLS0Y1endaNjBTZUIwbmVlNDZ1el9XVnJpLW85bF91V1FqN191U1RCZXZLU3BVbjNNc3dLRkdZZWU2MlBwU0N0TjhnRXdXbl9PbEhMeGd6X0psYVAyQ04zTFBIS2JmTG94eW0tV1dVYmZVZmxoU3RIM2FZRW5ycXlxOW9mXzlVN20xQQ?oc=5</link>
+<guid isPermaLink="false">fa212250cce1f30d8080ec14a9efda59c0f98779357331126af970dfe36aac39</guid>
+<pubDate>Thu, 15 Oct 2026 05:12:26 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>ソフトバンクグループ×OpenAIが挑む「エンタープライズAGI」--SB OAI Japanの次世代戦略（ZDNET Japan） Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>AI彼女 恋愛 シミュレーション Android Universidad de Córdoba (UCO)</p><p><b>ソース:</b> Universidad de Córdoba (UCO)</p>]]></description>
 </item><item>
-<title>アイオワなど米8州がOpenAIを提訴 「子供に危険」と制裁金など要求</title>
-<link>https://news.google.com/rss/articles/CBMibEFVX3lxTFA0OXU1ak9Hc1ZpWkJ1U3ZHYnE2SlI4Vnd3NTZaQl9FbkZBNnlpd0ltRU5WQnhobHM3QlhNNTYyLXI4MDhfMFVPRWtUSzZBOE5nQWlHY1FyWWZEaGFMbFBSeWZVN2tzekJkcE1ZMQ?oc=5</link>
-<guid isPermaLink="false">0f3fead56e40c93e403ef7079d53dc730afaeb963c407c6aef3082ca831bd8b9</guid>
-<pubDate>Wed, 14 Oct 2026 22:03:34 +0000</pubDate>
+<title>AI彼女 アプリ 最強 Android</title>
+<link>https://news.google.com/rss/articles/CBMikgJBVV95cUxPX2w2QlFwYjNSVmlMem01MVM3M2Utc2NBd0NNOWp1Z1h3OEVkbVBfRjVJLVpPb0RDYk1OTlBoNXU1VEVqaFZ5UkRCeHM4M1ZpSVBQUUNaQmpsek9iWWY4LWo2ZnZQWm5CQUxqeURpYlIwaTk5WHhDVmwzQUJaVWtsSkJXV1ZRQ2x1NGgyemdNa1gwZ2EwcTdBcjNkVTJoME95RFJxbXhRNmpueWRFekxabW81ZXFjeDVIU1l2bjJPVDY3cEJqZXJvM3NlSkdwVU1nOU9URUxWWGowcGZRc0x5aGlNWktKZnd3RHlpdTlsNGhma0RtbGJjRTR3VmdlOThwZ0NUc3NEX1hqQmxFWEUxcWd3?oc=5</link>
+<guid isPermaLink="false">4920ae1dbb43cd0e52da91b84da231b6f15d4a927356ece7eb5e9f8bfd39febd</guid>
+<pubDate>Thu, 15 Oct 2026 05:12:15 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>アイオワなど米8州がOpenAIを提訴 「子供に危険」と制裁金など要求 日本経済新聞</p><p><b>ソース:</b> 日本経済新聞</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>AI彼女 アプリ 最強 Android Universidad de Córdoba (UCO)</p><p><b>ソース:</b> Universidad de Córdoba (UCO)</p>]]></description>
 </item><item>
-<title>OpenAI「Dots」に追随なるか Google「Gemini Agent」参戦で過熱するパーソナルAI競争</title>
-<link>https://news.google.com/rss/articles/CBMibkFVX3lxTE9YbWFneGtSaVhPVncwWGdMY1pQQjBBbXVLT1hfZ0xuTVQxRmkzNDR5d29NWDNmWDNsX1hwMGY3M3E5b1h4OWRrUGc2UlRiaDk1TkVOSEFMQl9zMmx3VlVUUVFsZXNiOTdJVzU2dkd3?oc=5</link>
-<guid isPermaLink="false">5cd64c46e45aea2feb067df749e1ea138283d575b760959e3ea82a4b589d6381</guid>
-<pubDate>Wed, 14 Oct 2026 22:00:00 +0000</pubDate>
+<title>AI彼女 アプリ 課金 Android</title>
+<link>https://news.google.com/rss/articles/CBMikgJBVV95cUxOZEdXMnJuVE5MSkZjNGJBTkNodU9HUG9lOUM3QVJpdGFZazJJeDk5NTRvN2ZqR3FnTUwtaWVJaFozMHVBWVZ5dmxqMnc0QXA0SEJ4YUNwWWxrZzZTNWphY2dyZlVMX0FSSTlkTGFVTERsd3NuMm5lSHFXeHFVWmtGZ0VBNlpZT0hkeXFDOHRiMTBHdzVYUGJfRnFIOEdpb2ZuOXk4Z1lYVTJTTkk1b3NGemNXeHFsaWRhUGNqQWQ2aGhTb2hLSnFENkRwOTh5ak5LdEpfZ21sXzJaTTQyTkxZcDVha21udEdrRk1zbV9ERVlZOU5WX1NjdkRhLVNqQThIVFdTMmw3ckFOd3o1ODJqYTRR?oc=5</link>
+<guid isPermaLink="false">f2feeb6d483861035c4331df78997f6acd04ae1c0cffe97c52e5f8ff90d3a115</guid>
+<pubDate>Thu, 15 Oct 2026 05:12:15 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI「Dots」に追随なるか Google「Gemini Agent」参戦で過熱するパーソナルAI競争 ITmedia</p><p><b>ソース:</b> ITmedia</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>AI彼女 アプリ 課金 Android Universidad de Córdoba (UCO)</p><p><b>ソース:</b> Universidad de Córdoba (UCO)</p>]]></description>
 </item><item>
-<title>社員の“こっそり生成AI”が侵入口に？ 企業が直面する新たな爆弾「シャドーAI」</title>
-<link>https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVQVhYVkFJVVltOHhqYVVJWXZYU2x4ZTBGVDRIbVk5VmZQWldkU3VQVEVmc3lsbXBhNzhuY3FSWElhNWd4MG1xaGpsY2RSX2M?oc=5</link>
-<guid isPermaLink="false">d085d069f807ac804b349f54b4a441b70abc2e8c9e11530fed77f932eafdb975</guid>
-<pubDate>Wed, 14 Oct 2026 22:00:00 +0000</pubDate>
+<title>AI彼女 アプリ ランキング Android</title>
+<link>https://news.google.com/rss/articles/CBMikgJBVV95cUxNakdFQnZacEpWY1BleGNrdXp0d2lmOTJHdW5TTVRfVkhFbWhGUVQzWkJsajJoR1dWTmhrUDZwejlHdEJ3aWluOXp6cTdZYkRCRExMOHoyTWN3Q1hfaGZuNk45dGQyRG15WnRVUW5abXpmZ3BBLUxmMGJiMGxQSklRN0U1cC13MlY4TnlLbnNXc2xmWjhwOHZ0QnJ6SHdPZm1IZTl4bWFJYVRnV1NJdF9LUVI3ZnNXRW16QjJfeTN2T1UxOV9NN1U3akNfamt1WmstcURGa3RwbW1Rcm9BVWRpeUt5TERQeXI3LTBIOHJOdWpRQVdQdjRYcnE2ZkVsMS1walJpR29lc2liVGcwOVBJNHBB?oc=5</link>
+<guid isPermaLink="false">fea64860d788c049e79524c98a071325434d2c99d8891db69b2d33f5123dfed8</guid>
+<pubDate>Thu, 15 Oct 2026 05:12:14 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>社員の“こっそり生成AI”が侵入口に？ 企業が直面する新たな爆弾「シャドーAI」 ビジネス+IT</p><p><b>ソース:</b> ビジネス+IT</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>AI彼女 アプリ ランキング Android Universidad de Córdoba (UCO)</p><p><b>ソース:</b> Universidad de Córdoba (UCO)</p>]]></description>
 </item><item>
-<title>生成AIを使いこなすエンジニアほど、自分のスキルに不安を感じる理由 1200人調査</title>
-<link>https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yalFoeFRkR0daWXg2VUltejlBeVdJZ1dGeWtiRjNLWUlLUG9tZnc1Zkl0emF2ZkFrWm9RTTMyaFlNbFY2MldVYmk4U24xWVlHNzZIRUI1eE5UODdJZkI0QnNoYS1udw?oc=5</link>
-<guid isPermaLink="false">5522ea9c451fc17d6265c75d7283a56fd08af540e08805c2cd3ea0ac8cd7a1d3</guid>
-<pubDate>Wed, 14 Oct 2026 22:00:00 +0000</pubDate>
+<title>AI彼女 無料 おすすめ Android</title>
+<link>https://news.google.com/rss/articles/CBMikgJBVV95cUxPYW5hWW5acGt4QkNneTFqUlVoZ1FCYXBCNWNJNXBPdnRBcW9sUUNMNi1JSUxzaW9ZVHYyeG1uNTZnWndNRXpjYm1PZFExMDVTVUltYmFCY2tQekUtMVAyekhCYVI1LXB1dlM2SzZSRV9FUjVyQm5hNWstUDg3V3VROXM4UDNvTGliY3VqNU9jMVI0QWFWRlFrYlZad0RQZGRlRG44Zy1YM1M2RkxiY3gzRFhwa0xWaHp0NmNHbkd1dmpNQXQ5dTVzeWl3ZXRVdlp3NWdjaWdVVEV5QTFxZ0YwU0FNQWRzWkx1cWlhWk9UUkM5SklZRmExVGg1TmNheVNFNHplZFR3OTZXWm12dVhBZjN3?oc=5</link>
+<guid isPermaLink="false">5bc0668ef0d47a0190073da1e103c1210005613401c0010e5350b5c2f9fa2512</guid>
+<pubDate>Thu, 15 Oct 2026 05:11:58 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>生成AIを使いこなすエンジニアほど、自分のスキルに不安を感じる理由 1200人調査 キーマンズネット</p><p><b>ソース:</b> キーマンズネット</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>AI彼女 無料 おすすめ Android Universidad de Córdoba (UCO)</p><p><b>ソース:</b> Universidad de Córdoba (UCO)</p>]]></description>
 </item><item>
-<title>さくらインターネット・PFN・NICT、生成AIを継続評価する「能動的評価基盤」の社会実装へ</title>
-<link>https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vNlRLakxJU3J5dGxEcjlTSmtzRFRUejRvUnlYbHAxeGswVGswNWU2MnNxMHNHNF9zb2tEODBhWW9RbTJSM3Y1UzdHR194UQ?oc=5</link>
-<guid isPermaLink="false">00ba207a559272f0cb24c1e21d362dab796d8feb28e07a874b057d1e1bf15f9c</guid>
-<pubDate>Wed, 14 Oct 2026 22:00:00 +0000</pubDate>
+<title>AI彼女 日本語 対応 おすすめ Android</title>
+<link>https://news.google.com/rss/articles/CBMikgJBVV95cUxPSF9YUXpocUVIN0hfV09IejE2emFOam5mSHlsT2trUDBfdmRGT28wRVQ2QlM4cXFVODRpM2c3cE1JSE9UWFhDdms4ZDdZNjF3UkpNNTh3NzRhQjRPOURBXzgtUEhkbzhiNmN1ZnowWUtacHZhX0lRS3V1U2pScjQtVXd3aXctdllfM0hOaE9zSE50ZG9Oc25kU1hfclh0d004Y2pfNmpoRHZJX1FJTHZ5ZlpSb0ZnNHlMVlJ6RHdNRC1LcV9qemtRSEQzQmhkanJUX1JvU2xyZ29ka05ubHpwa1ZmRGl1aGwxd0JtdURVTndxTHJUS3FLbUxBRW1LbUtjdUZiS3F3ODVwS0ZSWmN3cEN3?oc=5</link>
+<guid isPermaLink="false">d2f73c7821e351734b57b628394edddcf7a841e5c6bea7053cb591ea78bf6d67</guid>
+<pubDate>Thu, 15 Oct 2026 05:11:55 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>さくらインターネット・PFN・NICT、生成AIを継続評価する「能動的評価基盤」の社会実装へ CodeZine</p><p><b>ソース:</b> CodeZine</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>AI彼女 日本語 対応 おすすめ Android Universidad de Córdoba (UCO)</p><p><b>ソース:</b> Universidad de Córdoba (UCO)</p>]]></description>
 </item><item>
-<title>OpenAIの数学成果に暗号研究者が警戒</title>
-<link>https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zSnJobllZMGRGOC1fa0x2TUpTWDRrRDdSbWg0OGFXX1I1ZmRDZDZSbVhVUnBuSnFGcHZpaXBvdVI5OE4zVm5YNWhuaGdiVWxJVzZUbTY5VGd3akFEX2U2bVFWNlEwQQ?oc=5</link>
-<guid isPermaLink="false">02fc5852474f8854eb1f9c7c5e14c9feddf5cd286d1bf746385b86d1748cc531</guid>
-<pubDate>Wed, 14 Oct 2026 21:52:52 +0000</pubDate>
+<title>AI彼女 解約 方法 Android</title>
+<link>https://news.google.com/rss/articles/CBMikgJBVV95cUxPZ2tENFJkVTNsanBkdWhGZzNsdnVNaVZZTlRIb1ZnRGlpRjJ6WXN3NFh1VE9vNVZXV0tST2c2YkVNUWxCbS1adUNmLWN2bzg4MFBPRnlxcHlyVTJKSTVmTzJFaVpOUjNGVjlNVGx4X3JiQlNfTDBCckppU0wwRUU0dVJSLTZPbFBOaGdLdllCeUM0UUwxM044MmpYbEpHWXMzOWZ4LXlwc29qbkI2VTRDYjBWYVlfb3lIZWlQMzhqWWVnTlpNNkhLQWFpS1RjdEYwWDMwdjRKa0IxTDAxOW1CRnRERlpLM3lfTGVvVExjNU0taEFjUm5ZclZGdUNKekM1YXJuU0NQSG1HSGFxVVFlNkhn?oc=5</link>
+<guid isPermaLink="false">4c9e9630a948bf7442f86e927305003d2635c2405ed1c56b8e7c472e35458b2e</guid>
+<pubDate>Thu, 15 Oct 2026 05:09:43 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIの数学成果に暗号研究者が警戒 株式会社エクサウィザーズ</p><p><b>ソース:</b> 株式会社エクサウィザーズ</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>AI彼女 解約 方法 Android Universidad de Córdoba (UCO)</p><p><b>ソース:</b> Universidad de Córdoba (UCO)</p>]]></description>
 </item><item>
-<title>生成AI悪用のサイバー攻撃に備えを セキュリティ脆弱性の検証や予防法を紹介 10月27・28日にセミナー</title>
-<link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNRHEwd2pQbGJYd3NmQkpqU1RrX2dQZDMtR25Zbk92dkxwNTdDNUdzTFpvVDEzVXotVEpMSWlDUU04ZlJ0azZTX2QycXpkME9DWGU0X19wTmlLdzAtY2c?oc=5</link>
-<guid isPermaLink="false">879412b88cd64b745889d71b7a3b3f4920cd95dbb04f8a5c88ac92c4567ef7b6</guid>
-<pubDate>Wed, 14 Oct 2026 21:46:00 +0000</pubDate>
+<title>AI彼女 無料 Android 注意点</title>
+<link>https://news.google.com/rss/articles/CBMikgJBVV95cUxQSHA5cUppOWJjLUlncWI0MTNjRnY2dVdTcUJjcnNWWmNqSmtHeWVnVjRWcGNELWhMZ2JEZlc3bTJMQ3NyT1hOaEViYXhjVXM1RG5TVFpaWUIwNWFMN2FhYnQwNEQ2dmJyajVCXy1adzR0MlJSVHdZa1VONjB5RjR1amxFVVFVd2I1Y0kxMTg1blQ5TmswSjR4MkJ2MnBuQjdzNk9yWUtDbTB4UHVsTzhINlFxRTZoNlJpNzh1SENwYmh2aDdzX0FQWmcxaVN2emJuSEhGV2xOZC1BTFFyV0Z1QVBfT3p0MXRWcks4WkV4Tlh1VS1SY3QydVRVVGd4aW9hX3N6bmNaSmFSQTB6WHYwXzBB?oc=5</link>
+<guid isPermaLink="false">4b7f7cd08468ec856ad349d9cebc6dbc1668127c10ebfdb28467c8232e19ee1f</guid>
+<pubDate>Thu, 15 Oct 2026 05:09:32 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>生成AI悪用のサイバー攻撃に備えを セキュリティ脆弱性の検証や予防法を紹介 10月27・28日にセミナー 沖縄タイムス社</p><p><b>ソース:</b> 沖縄タイムス社</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>AI彼女 無料 Android 注意点 Universidad de Córdoba (UCO)</p><p><b>ソース:</b> Universidad de Córdoba (UCO)</p>]]></description>
 </item><item>
-<title>Android「Google Play システム アップデート」配信【2026年10月14日（水）】</title>
-<link>https://news.google.com/rss/articles/CBMigwFBVV95cUxPR2pDb0tYbDV5bFU2dmJnUXU3WXYwQXotRzdzTk85RDQzeEpmMTBWaWVRSHBOTE5GTnM4bGhKVTllX3pUWGdrSGRJSWNXRDdGOWRlOFExTjN3RGhkTmNsbHhjQ3pvQ3prb0ZKek9ZN096WmZKOGJITEtQNEVYbWtsU3lhSQ?oc=5</link>
-<guid isPermaLink="false">6dd271292a40c34408beb2aab0910e6bedcf2fe8c0511c671ebe037f1705a6a8</guid>
-<pubDate>Wed, 14 Oct 2026 21:45:52 +0000</pubDate>
+<title>AI彼女 自分で 作る Android</title>
+<link>https://news.google.com/rss/articles/CBMikgJBVV95cUxPUTRuOGk1SEpfc0tKdzZ4UFdHbEJvNU1qa2JJeWdNUjVsdEZmVEJPd0J0N29zeE42T0JwNnI5T2FRR1hoc1l5ZjdzdXVjcUdyeHYteS1mdTFqZmozdmxUb2lTMnVUbHFHUGZFQzU4SmRVSlNlNDBUYVZxTVJQU3FCdnI4STlsTk5KLWh2Unh5ZG1aeGxSSmhEdlo1aEROdjBNWXdaci1DbmEwZmlJNmViOTNxS0I3Mm1FMzNYOXRzb3JIdDMtQlozckdsNG5PbEJGemtNX2lIWVNIWWE3b01PVWhZZzV5a01zdkZtTnlVUXRjcTVRLUgxNHdkQnk0enR4dlVSVWZuc2ZKdVBnOGllM0xR?oc=5</link>
+<guid isPermaLink="false">4fd3cfabd280b8aa51c24320610274f70982797b213c1546434b749c30f9d27b</guid>
+<pubDate>Thu, 15 Oct 2026 05:09:20 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Android「Google Play システム アップデート」配信【2026年10月14日（水）】 Jetstream</p><p><b>ソース:</b> Jetstream</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>AI彼女 自分で 作る Android Universidad de Córdoba (UCO)</p><p><b>ソース:</b> Universidad de Córdoba (UCO)</p>]]></description>
 </item><item>
-<title>G20 財務相・中央銀行総裁会議 15日開幕へ</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261015de59525</link>
-<guid isPermaLink="false">6d69de2d3de95545521ce9e5a9ce4f57fb8f97e75603e6c49761571be169727f</guid>
-<pubDate>Wed, 14 Oct 2026 21:43:48 +0000</pubDate>
+<title>AI彼女 人気 アプリ Android</title>
+<link>https://news.google.com/rss/articles/CBMikgJBVV95cUxNcUdjVXZXc3lJRnA1RWJtbUp1ZllCdVVXVlN1bzdpaGd2XzA4SVB3bUVqS2tvYjdVbDZGWjlNeUlzRWZNUEF5MHZuOVdkNW4tcUNNNmhiaUkzUDJQT191M0NFNVJ6cU5OMFFuX1Ixc2RkSTZxZ20xd21RajFzN2xIX1hHTl9SX1VyTkYxOFNGXzhEVlhfWFdNdlJDX3ZyUndpTzhlRTNPYVFScFVvdExzZnhEeEhxd0wwV0NfUlNhRnFWY05lTm5FUWU2REVVbzdkRnF2dk5Hd3BsMHZCUE0zcjdPa3lnZ2xucDJHZENlYzc3WWYxSW1jQzdHX3FOS2F3VDdzR0kxbHVwYTcyNVNGbXln?oc=5</link>
+<guid isPermaLink="false">626b241c762e2d8bb689e20ae3eeeb6f3f21cdda750c227d634e1a201dcf9ae9</guid>
+<pubDate>Thu, 15 Oct 2026 05:09:13 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>G20＝主要20か国の財務相・中央銀行総裁会議が、15日、タイで開かれます。各国でインフレ懸念が高まり金利の上昇傾向も続く中、世界経済の安定した成長に向けた議論が行われるほか、高性能のAIモデルが金融…</p><p><b>ソース:</b> NHK 国内</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>AI彼女 人気 アプリ Android Universidad de Córdoba (UCO)</p><p><b>ソース:</b> Universidad de Córdoba (UCO)</p>]]></description>
 </item><item>
-<title>EU の AI 活用の次章を担うエージェント型 AI</title>
-<link>https://news.google.com/rss/articles/CBMieEFVX3lxTFBqMWExcUdUZUlpRmM1VGlfVHc3bEhsU3hsU2JUZzQxQnFyd18zMEh1MUFpbmVza2trLXV3NUlmUjFWS2RBUm82UkZNZ0NUbVMxWVJDaG94eXJPVkJIcVdVLV9NaDVuRzFWT2Y1YVdBODNhMmhhSjhDaA?oc=5</link>
-<guid isPermaLink="false">1ffeaecbb707705e5738738ae65a5be302be2b7afc95ab783f97d85262ecf1bc</guid>
-<pubDate>Wed, 14 Oct 2026 21:15:52 +0000</pubDate>
+<title>AI彼女 無料 Android 日本語</title>
+<link>https://news.google.com/rss/articles/CBMikgJBVV95cUxPSG9CYnhWajFGWXUxSUpyOE1zdjRsMUNpRUYzN3NOaVlOUnNEZnNubHNNRGFuOFVtRU5URUFNTlRNa3N0N3hrS2JKb3I3YlJvLV9FUElBdzQtLUt4UDhsU1pGbDdlQmlYbnFQZC0tTFhOM0JVaEtuWmN2akl4WUgtMWN4TXhRb1JsdEk0UThsajZWSERSclRuME1FQ0g5X2pSZnd3a2MzM1h5RHkydWFrcWJHVnlOSkJGSHVKV2pCNjVieEQ5TDM3UFVGOS1Yc2dXNnhpZlVadW1PS0E2dzNvY2FMc0NoWThEbHhLSi1qRTQySFVrdmdoZFpWNDNLY0g3a1BHS2VmcC1NT1JNSFBVMk9R?oc=5</link>
+<guid isPermaLink="false">e641739325a92b981f3a3623079dfe2cf5bc548bc970a220930244b67ab17c0f</guid>
+<pubDate>Thu, 15 Oct 2026 05:09:07 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>EU の AI 活用の次章を担うエージェント型 AI OpenAI</p><p><b>ソース:</b> OpenAI</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>AI彼女 無料 Android 日本語 Universidad de Córdoba (UCO)</p><p><b>ソース:</b> Universidad de Córdoba (UCO)</p>]]></description>
 </item><item>
-<title>【やじうまミニレビュー】AirPods 5のノイキャン、耳をふさがずエアコン音がほぼ消失。これは新基準になる</title>
-<link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2147393.html</link>
-<guid isPermaLink="false">ff94839b24a29aaaf0b650b43f919a0982a6fa945277093a92807d72a897beee</guid>
-<pubDate>Wed, 14 Oct 2026 21:15:00 +0000</pubDate>
+<title>無料 NSFW AIアニメジェネレーター — エロ動画生成ai</title>
+<link>https://news.google.com/rss/articles/CBMikgJBVV95cUxPWVhScThiLTlKdlBtRXlWZEpXMEhmbTNMQmw1d3ZPb3RxaXhnQ3lBaTBhYXF4b1ZoX3JjSGJQUFctR0plZkpETXR2QnRpcDc3cjRKZG9iWDdLbW1RdFFJVFNuMDM2QUFJa3F1Mk5HSkFORjBXa3F2VzdsVXcxS1poeW16aDI3bjhqYmF3TE14NC1FRFh3aEc5R1VubjY0ZEdFYkJHWTN5dGppMFFYZHk4LUZwZVgxeVd3dlhNMVg3b1h5aGNvUnlPSDkyT2JTSi1YY0YwRnpYYURia1liTFZpbGUxazhmbko2X1dDYXVLWnVDTWdXXzB1X2hoQktsUW1iU2c2SHR3cVJmeGNsUE5CUUJR?oc=5</link>
+<guid isPermaLink="false">c86373e66c4169ca273e0453675f34c440b4deabe316bfa644d0631b6cb25bf9</guid>
+<pubDate>Thu, 15 Oct 2026 05:08:32 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p></p><p><b>ソース:</b> PC Watch</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>無料 NSFW AIアニメジェネレーター — エロ動画生成ai Universidad de Córdoba (UCO)</p><p><b>ソース:</b> Universidad de Córdoba (UCO)</p>]]></description>
 </item><item>
-<title>東大生は生成AIに「当たり障りのない答え」を言わせない！「自分の弱点」をあぶり出す質問とは？</title>
-<link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VTmplcENES3RobkRyYnpNVmkyNTVRNVJLd2laWXFyYXFzc2poUFo5QWJnQkpPRzlyQ0lhR2NaS1pBWmU0ZmNjVENwa19ZdUnSAU9BVV95cUxPVU5qZXBDREt0aG5EcmJ6TVZpMjU1UTVSS3dpWllxcmFxc3NqaFBaOUFiZ0JKT0c5ckNJYUdjWktaQVplNGZjY1RDcGtfWXVJ?oc=5</link>
-<guid isPermaLink="false">14ff28512f498289b94c38a10ee239bcc16a9064e804d16ae5727b3ebcdd7d2d</guid>
-<pubDate>Wed, 14 Oct 2026 21:00:00 +0000</pubDate>
+<title>AI彼女 無料 画像 ランキング</title>
+<link>https://news.google.com/rss/articles/CBMilAJBVV95cUxNNHNUN3U4QTQ5dGRtS0IxN2pUcjVIS04tQVBWRGdhdWYwcWZsaklfNXZvTmc1dUpaeTF5eGI5LWFBeUJJNDZpN0txbDdvTTFQVHBMejMxT3JhOHZmSS1jNlYtajdhR0FmNDhUOEZsYnB4c0NLU0U0NTBMWHNLSkZoeU5OeEJFZVVBakRRajY2VHhlelE5eWloVnRPN3dVRDRqTFN2dzNETldLQTBrOWNpYU1xb1JIQWxhemRxbE1kSW0zUzU3WW9fTTlHSHNYLWNTa0s3THpEMEY0a1lwLXoyelNuWHNxdU9BMDRMa0VCTmJzY2wzcDNBSXItSTh2WVZpcTlxSUJnUFFrOTBoVFNYUmptNFY?oc=5</link>
+<guid isPermaLink="false">d007ff96fe3fc2892cc285e04716060661b38fb75fe89232419cb6be88f51dec</guid>
+<pubDate>Thu, 15 Oct 2026 05:08:13 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>東大生は生成AIに「当たり障りのない答え」を言わせない！「自分の弱点」をあぶり出す質問とは？ ダイヤモンド・オンライン</p><p><b>ソース:</b> ダイヤモンド・オンライン</p>]]></description>
-</item><item>
-<title>Third Moment Research：1 万エージェントを 36 時間以上稼働させる仕組み</title>
-<link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XMC1lNVNlSFd6RWk2NXRWVWdObFpMby1UbTAwMHRqNUx1OGFjTzBFQmVTdFctQXdsYVB2WDRTSC1lcXFzZnp2Sk9oZGYxS3FhRko4akxGaDVHMFhrb3hPblNWYw?oc=5</link>
-<guid isPermaLink="false">92ba19cad09e7061e5270da1060036c361ed464743dfe143ffcaf61bcd85d7e5</guid>
-<pubDate>Wed, 14 Oct 2026 20:36:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Third Moment Research：1 万エージェントを 36 時間以上稼働させる仕組み OpenAI</p><p><b>ソース:</b> OpenAI</p>]]></description>
-</item><item>
-<title>700件超のAnthropic論文をClaudeで分析 ぶれぬ安全軸、競争優位と二兎追う</title>
-<link>https://news.google.com/rss/articles/CBMibEFVX3lxTFBFamg1dkxRMW9GNFgySnFINmhUazlTUFcyaGRXcWhfc3ZpRHNQWmtzMGprcDFKNXc0OFNTS3FHU0FzdE5WUm5pTTAycU9zRmV1akYycUVSWlBDT3lJUmNsR3Z6bDFxUDA0S3ltbQ?oc=5</link>
-<guid isPermaLink="false">48cdd503d455c3374306a3b0306de5e327e65bbfefa4f853c9541960ebdc92cb</guid>
-<pubDate>Wed, 14 Oct 2026 20:00:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>700件超のAnthropic論文をClaudeで分析 ぶれぬ安全軸、競争優位と二兎追う 日経クロステック</p><p><b>ソース:</b> 日経クロステック</p>]]></description>
-</item><item>
-<title>｢OpenAI､売上高は ウォール街･VCでぶれる予想｣を解説</title>
-<link>https://news.google.com/rss/articles/CBMijAFBVV95cUxQbF9zUkxiZU91bkswdElNOTUzYkQzNWZPY0hoTWZwbE8tV0RHRmRPeklLdlNmN0pWci1ubDJ0a0JvTXpkMWI4MUNIbG9JNER2SnFCQzBvdkRkVXpITTg0aTB3UHdzTEhoQUZiUFQwNFZmNHJuOTZveXoxQ0NFU2IxV2lXLWtKZzdYN0l1WQ?oc=5</link>
-<guid isPermaLink="false">013d05a060ce53615f2d5952aa2d4430d31a573d41b420b041c1c3878471801f</guid>
-<pubDate>Wed, 14 Oct 2026 20:00:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>｢OpenAI､売上高は ウォール街･VCでぶれる予想｣を解説 日本経済新聞</p><p><b>ソース:</b> 日本経済新聞</p>]]></description>
-</item><item>
-<title>OpenAIやAnthropicでさえ制御不能 2026年夏「3大サイバー攻撃」の衝撃：重要インフラが狙われる理由</title>
-<link>https://news.google.com/rss/articles/CBMicEFVX3lxTE50V0ZKMS1GbU9qX3EzUEoxWDhRZUNidFFwLVlaYXFGZHI3STNUbGlEMldTa3htYWFkcWt5NV9hSmRmNDJzREItY2Jlc3cwR3JLeUFRNDhKRmRyWGdHQUpDYWJZeGF6NVNyVUthcE93cVQ?oc=5</link>
-<guid isPermaLink="false">e5290785a3cdb837da553702979280fc5c3146851266cef7b6067b7cd3be214e</guid>
-<pubDate>Wed, 14 Oct 2026 20:00:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIやAnthropicでさえ制御不能 2026年夏「3大サイバー攻撃」の衝撃：重要インフラが狙われる理由 TechTargetジャパン</p><p><b>ソース:</b> TechTargetジャパン</p>]]></description>
-</item><item>
-<title>OpenTelemetryがClaude APIのトレースにパブリックベータで対応</title>
-<link>https://news.google.com/rss/articles/CBMijwFBVV95cUxPT0E3cGxJQldfS0pxVzZ3VDVHaXRGcWd1LTRGY2ZtdGhPM2Zlb0FoQmotX29uV1lDVkFaMjNXNWpSOFVuYnRYQURFcG0xTFgwa05zRElkSkJqWnVUeW1LUU80QzRSU2RCS0JTMzRiQmZuMERzM2FrSmRTTW1YU1BsR2E1S0JGT2hOV25sN2lQQQ?oc=5</link>
-<guid isPermaLink="false">0855d9df26e467a531a9fc7acb605704213157cb6ea7b2a455a1c13c77598956</guid>
-<pubDate>Wed, 14 Oct 2026 19:51:35 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenTelemetryがClaude APIのトレースにパブリックベータで対応 Pasquale Pillitteri</p><p><b>ソース:</b> Pasquale Pillitteri</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>AI彼女 無料 画像 ランキング Universidad de Córdoba (UCO)</p><p><b>ソース:</b> Universidad de Córdoba (UCO)</p>]]></description>
 </item>
 </channel></rss>
