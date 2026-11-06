@@ -4,48 +4,48 @@
 <link>https://example.invalid/</link>
 <description>個人用ニュースフィード</description>
 <language>ja</language>
-<lastBuildDate>Fri, 06 Nov 2026 02:51:44 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 10:04:18 +0000</lastBuildDate>
 <item>
-<title>アメリカ 中間選挙の大敗受け ルビオ国務長官の去就報道相次ぐ</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261105de71260</link>
-<guid isPermaLink="false">e6265b60fb94ae1bd38246d9cc240f6e1603248a221dbbd04995277ab10c3634</guid>
-<pubDate>Fri, 06 Nov 2026 02:38:40 +0000</pubDate>
+<title>東海から西の信用金庫のシステム障害 一部サービス除き復旧</title>
+<link>https://news.web.nhk/newsweb/na/nd-20261106de71533</link>
+<guid isPermaLink="false">238d081e8e036770a63e2af1d8bb1abfebd0302979019c7f2c918c30d8df1abc</guid>
+<pubDate>Fri, 06 Nov 2026 09:52:25 +0000</pubDate>
 <category>国内重要ニュース</category>
-<description><![CDATA[<p><b>カテゴリー:</b> 国内重要ニュース</p><p>アメリカのメディア・ブルームバーグは、共和党が大敗した中間選挙の結果を受け、ルビオ国務長官がトランプ政権からの離脱を検討していると報じました。一方、有力紙ニューヨーク・タイムズは本人が辞任を否定したと…</p><p><b>ソース:</b> NHK 国内</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> 国内重要ニュース</p><p>信用金庫のATMなどを管理する「しんきん共同センター」によりますと、6日午後1時半すぎ以降、東海・北陸地方から西の地域にある128の信用金庫で窓口での取引やATMでの入出金などができなくなっていました…</p><p><b>ソース:</b> NHK 国内</p>]]></description>
 </item><item>
-<title>消費税減税法案 衆議院財務金融委員会で可決</title>
+<title>佐川急便 5323万件が外部流出の可能性で“被害状況を調査中”</title>
+<link>https://news.web.nhk/newsweb/na/nd-20261106de71689</link>
+<guid isPermaLink="false">8e7eb9d3f1990777ad92c5e57fca8ca4b13e1b3a7a9c940b129ac85a637f7b2e</guid>
+<pubDate>Fri, 06 Nov 2026 09:44:26 +0000</pubDate>
+<category>国内重要ニュース</category>
+<description><![CDATA[<p><b>カテゴリー:</b> 国内重要ニュース</p><p>宅配大手の佐川急便が不正アクセスを受け、荷物の送り主と送り先の氏名や住所など最大で5323万件が外部に流出した可能性があることについて、親会社のSGホールディングスの高垣考志取締役は決算発表の会見で、…</p><p><b>ソース:</b> NHK 国内</p>]]></description>
+</item><item>
+<title>国際ハッカー集団“日本企業はぜい弱性を放置”取材に回答</title>
+<link>https://news.web.nhk/newsweb/na/nd-20261106de71650</link>
+<guid isPermaLink="false">987632816e8ffa4792535a8088bb1b049d20efe91c5055f900708ec6ac1104bc</guid>
+<pubDate>Fri, 06 Nov 2026 09:31:19 +0000</pubDate>
+<category>国内重要ニュース</category>
+<description><![CDATA[<p><b>カテゴリー:</b> 国内重要ニュース</p><p>国内外の企業にサイバー攻撃を仕掛けている国際ハッカー集団が、NHKの取材にメッセージで回答し、日本企業を狙う理由として、システムのぜい弱性が放置されていることがあるなどと主張しました。</p><p><b>ソース:</b> NHK 国内</p>]]></description>
+</item><item>
+<title>サブウェイ ライフ 個人情報漏えいか アララ不正アクセス影響</title>
+<link>https://news.web.nhk/newsweb/na/nd-20261106de71543</link>
+<guid isPermaLink="false">c14a7f87d31ee848674397493c0fd16023dd3d3b99d95a3dc4cb3310db2a7a00</guid>
+<pubDate>Fri, 06 Nov 2026 09:02:48 +0000</pubDate>
+<category>国内重要ニュース</category>
+<description><![CDATA[<p><b>カテゴリー:</b> 国内重要ニュース</p><p>企業向けにメール配信サービスを提供する「アララ」が不正アクセスを受けた影響で、外食チェーンやスーパーなどから個人情報の漏えいに関する発表が相次ぎました。</p><p><b>ソース:</b> NHK 国内</p>]]></description>
+</item><item>
+<title>総務省 NTTドコモに行政指導 アマゾンに契約者の情報漏えいで</title>
+<link>https://news.web.nhk/newsweb/na/nd-20261106de71649</link>
+<guid isPermaLink="false">ce58147add39b59b38505367406173b872e3ea048c1dc2ac58500b968fb69343</guid>
+<pubDate>Fri, 06 Nov 2026 08:30:00 +0000</pubDate>
+<category>国内重要ニュース</category>
+<description><![CDATA[<p><b>カテゴリー:</b> 国内重要ニュース</p><p>NTTドコモが特定の料金プランの契約で契約者の同意を得ないまま電話番号などの情報をアマゾンジャパンに渡していたとして、総務省は6日再発防止を求める行政指導を行いました。</p><p><b>ソース:</b> NHK 国内</p>]]></description>
+</item><item>
+<title>消費税減税法案 衆議院を通過 自民・維新などの賛成多数で可決</title>
 <link>https://news.web.nhk/newsweb/na/nd-20261106de71359</link>
-<guid isPermaLink="false">322f1d436c1d3dc3ef1bc2922d2c2eec853fa6b82a8915c5dbaffed6e3888f20</guid>
-<pubDate>Fri, 06 Nov 2026 02:34:57 +0000</pubDate>
+<guid isPermaLink="false">612d301e20f5504a7d9c23ccf9958294076a3c29cacccb99c535e9e7fd0c2a61</guid>
+<pubDate>Fri, 06 Nov 2026 06:39:00 +0000</pubDate>
 <category>国内重要ニュース</category>
-<description><![CDATA[<p><b>カテゴリー:</b> 国内重要ニュース</p><p>食料品の消費税率を来年4月から2年間、1％に引き下げることなどを盛り込んだ消費税減税関連法案は、衆議院財務金融委員会で採決が行われ、自民・維新両党の賛成多数で可決されました。</p><p><b>ソース:</b> NHK 国内</p>]]></description>
-</item><item>
-<title>武部農相 公共事業受注企業から選挙中に受けた寄付を返金へ</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261106de71388</link>
-<guid isPermaLink="false">3c5c4cf17d797ecf826c6c752886c61907fa25906d68ea832ff282f7211989f0</guid>
-<pubDate>Fri, 06 Nov 2026 02:33:11 +0000</pubDate>
-<category>国内重要ニュース</category>
-<description><![CDATA[<p><b>カテゴリー:</b> 国内重要ニュース</p><p>武部農林水産大臣は、過去の衆議院選挙で公職選挙法で禁じられている国の公共事業を請け負った企業からの寄付を受けたことが確認されたとして、その分を返金する方針を示しました。 その上で、過去の政治資金収支…</p><p><b>ソース:</b> NHK 国内</p>]]></description>
-</item><item>
-<title>不正アクセス対策 政府が予備費100億円の支出を決定</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261106de71363</link>
-<guid isPermaLink="false">a4058e25cd5f0c5412ebd7b66070daa0109cb025467a18ef81ceb1b883bf8ae4</guid>
-<pubDate>Fri, 06 Nov 2026 02:18:27 +0000</pubDate>
-<category>国内重要ニュース</category>
-<description><![CDATA[<p><b>カテゴリー:</b> 国内重要ニュース</p><p>不正アクセスによる情報漏えいが相次ぐ中、政府は、警察のシステム整備など対策に必要な費用として、今年度予算の予備費から100億円を支出することを決めました。</p><p><b>ソース:</b> NHK 国内</p>]]></description>
-</item><item>
-<title>NTTドコモ通信障害が復旧 原因は装置の不具合</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261106de71360</link>
-<guid isPermaLink="false">486afc7cb626eefe4cd030586a026e6bf12cf360cd0dbe0a52d47fd9736c8156</guid>
-<pubDate>Fri, 06 Nov 2026 02:03:25 +0000</pubDate>
-<category>国内重要ニュース</category>
-<description><![CDATA[<p><b>カテゴリー:</b> 国内重要ニュース</p><p>NTTドコモでは、5日午前11時すぎから「5G SA」と呼ばれる通信の方式を契約している利用者の間で、通話やデータ通信などが利用しにくい状況が続いていましたが、6日午前1時20分ごろ復旧したということ…</p><p><b>ソース:</b> NHK 国内</p>]]></description>
-</item><item>
-<title>ロシア国内のJT関連工場 一時的にロシア企業管理下に 大統領令</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261105de71261</link>
-<guid isPermaLink="false">c7db922ae501431798dff87be39fc4ddf2830cd1b0faf8c132a48a58ee273437</guid>
-<pubDate>Fri, 06 Nov 2026 01:51:00 +0000</pubDate>
-<category>国内重要ニュース</category>
-<description><![CDATA[<p><b>カテゴリー:</b> 国内重要ニュース</p><p>ロシアのプーチン大統領は5日、JT＝日本たばこ産業の海外の子会社がロシア国内に保有する4つの生産拠点を、一時的にロシア企業の管理下に置く大統領令に署名しました。</p><p><b>ソース:</b> NHK 国内</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> 国内重要ニュース</p><p>食料品の消費税率を来年4月から2年間、1％に引き下げることなどを盛り込んだ消費税減税関連法案は、6日の衆議院本会議で採決が行われ、自民・維新両党などの賛成多数で可決されて参議院に送られました。 記事…</p><p><b>ソース:</b> NHK 国内</p>]]></description>
 </item>
 </channel></rss>
