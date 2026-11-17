@@ -4,314 +4,97 @@
 <link>https://example.invalid/</link>
 <description>個人用ニュースフィード</description>
 <language>ja</language>
-<lastBuildDate>Mon, 16 Nov 2026 19:12:05 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 04:47:18 +0000</lastBuildDate>
 <item>
-<title>カリフォルニア州、AIモデルによるサイバー攻撃でOpenAIを提訴</title>
-<link>https://news.google.com/rss/articles/CBMicEFVX3lxTE5aOTZCaF96dTlOMHNBVHZaaWhucjNiMWVNeFdLeXQ5bXdsQkhNZkdBRWttOURNZWtRX3h4MUxzWlpZcmxxTTUtRWsyb1hQaUF6cXhrazBwT1hjenVHbk1tN0ZYS25TUzFQLXVZeHk1VGM?oc=5</link>
-<guid isPermaLink="false">8e3703d58731505f175944265c7852f8d8b0ad1ae2f6fed122f0040da95a664c</guid>
-<pubDate>Mon, 16 Nov 2026 18:47:00 +0000</pubDate>
+<title>Microsoft 365の大規模障害、原因はサーバーの潜在的なバグ</title>
+<link>https://pc.watch.impress.co.jp/docs/news/2157036.html</link>
+<guid isPermaLink="false">74690160fd5a55ef46732659defd8858289c854f6be6c462bfbdeb42a174b17f</guid>
+<pubDate>Tue, 17 Nov 2026 04:34:34 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>カリフォルニア州、AIモデルによるサイバー攻撃でOpenAIを提訴 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</p><p><b>ソース:</b> Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>11月13日(日本時間、以下同)の深夜に発生し、その後約24時間にわたって続いたMicrosoft 365の大規模障害。メールサービスのExchangeやWeb会議サービスのTeamsなど多くのクラウドサービスに影響を与えた。Microsoftは11月16日、管理者向けに本障害に関する暫定的な報告を行なった。</p><p><b>ソース:</b> PC Watch</p>]]></description>
 </item><item>
-<title>OpenAI、4つの外部研究所に内部アクセスを開放 安全性主張を検証へ</title>
-<link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9uODhWdEV3U0Vtc0NSYW9mT3Zhd1JIT0Y4NF9aZk9SRzlUd1QxR3ZfcF9Za091VXpZODRwRXlYakVzZ2ZaUDJDU1Y1TGFMaHR6QkZTeGhYRzN0bWJSZ1RmS05MZlpJcnpmdVZjN01jSDhTelJa?oc=5</link>
-<guid isPermaLink="false">b3ea10502d4a1754885de0efeb9628845a4275de90116edf6140f79b5cadc3cf</guid>
-<pubDate>Mon, 16 Nov 2026 18:25:00 +0000</pubDate>
+<title>米商務省、中国企業による第三国データセンター経由のAIチップ“遠隔利用”を規制へ</title>
+<link>https://www.itmedia.co.jp/news/article/2611/17/2000003258/</link>
+<guid isPermaLink="false">26b2aad62f0682d719736a0ada5591e64762ec82ea3a4ffec300c399ccde617b</guid>
+<pubDate>Tue, 17 Nov 2026 03:50:05 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI、4つの外部研究所に内部アクセスを開放 安全性主張を検証へ BigGo ファイナンス</p><p><b>ソース:</b> BigGo ファイナンス</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>米商務省は、中国企業などが第三国のデータセンターを経由して米国製先端AIチップを遠隔利用することを防ぐ暫定最終規則を発表した。物理的な輸出規制の抜け道をふさぐ狙いで、一定以上の計算資源を提供するデータセンターへのチップ輸出にライセンスを義務付ける。NVIDIAを巡る疑惑が背景にあるとみられる。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
 </item><item>
-<title>AIエージェント DXPO に出展 〜実務に直結する生成AI・CRM 活用ノウハウを実機デモで公開</title>
-<link>https://news.google.com/rss/articles/CBMiTkFVX3lxTE1RTXJGQkR1dVdkXzN4UmhUZTV5TV9QSlNVcnNDMjlBOVFOSUhMVjRyajc2WmU0OVMtNnpVTEQ5ZDBZWGJJV2c3cFNUalNmQQ?oc=5</link>
-<guid isPermaLink="false">dae94ccff61c18c5c3210d1f3a769d1a9c1e0c67fe8f3995a7a144ae2c9eda3c</guid>
-<pubDate>Mon, 16 Nov 2026 17:50:52 +0000</pubDate>
+<title>モリサワや「mineo」など会員情報漏えい マーケツール「KARTE」不正アクセス、外部サービス連携用シークレットキーなども</title>
+<link>https://www.itmedia.co.jp/news/article/2611/17/2000003257/</link>
+<guid isPermaLink="false">b02c08e272a251cd0f74553019c9d225abf2859912ec1f4b046fc8d698ed77fc</guid>
+<pubDate>Tue, 17 Nov 2026 03:35:13 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>AIエージェント DXPO に出展 〜実務に直結する生成AI・CRM 活用ノウハウを実機デモで公開 クラウドエース株式会社</p><p><b>ソース:</b> クラウドエース株式会社</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>企業向けマーケティングサービス「KARTE」（カルテ）が不正アクセスを受け、利用企業のアカウント情報や、利用企業から預かっている顧客情報の一部、利用企業が外部サービスとの連携に使うシークレットキーなどが漏えいした。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
 </item><item>
-<title>OpenAIの調査：科学者がAIに研究の全工程を依頼することはまれ</title>
-<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxQcG5fb21tMnB3UFJzWHNQanRrcW5nYmlZRDVrdDd6ZDdUamQtZ3hPbzU1NnJobHNwQ0pCaDBVVV9nX211ZnNYZzYzWXU2YjBvQlFJNUJwMDlSYzNQUmpEZnQtcjhhZXNQYURZcmxCVWhncC1PeUlBNzEwZVZicVdmYll0Ylc0X1c2QXNFU3JHNmp4Zm8wWlpB?oc=5</link>
-<guid isPermaLink="false">2354dc1c0e249c92f944c805ade2c249cfb1eac80df7d264fe6c13c0342c2c35</guid>
-<pubDate>Mon, 16 Nov 2026 17:43:03 +0000</pubDate>
+<title>AIに打ち明けた相談は“広告トラッカー”に筒抜け？ ChatGPT、Claude、Gemini含む42サービスを米大が調査</title>
+<link>https://www.itmedia.co.jp/news/article/2611/17/2000003241/</link>
+<guid isPermaLink="false">ce87673cb0879ba822a05acf0d99800c6dfee3f6fe267d2b3107d1f7efe80775</guid>
+<pubDate>Tue, 17 Nov 2026 03:00:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIの調査：科学者がAIに研究の全工程を依頼することはまれ Unite.AI</p><p><b>ソース:</b> Unite.AI</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>米ニューヨーク州立大学ストーニーブルック校に所属する研究者らが発表した論文「Penny for Your Prompts: A Measurement Study of Contextual Leakage in AI Chat Platforms」（IEEE S&amp;P 2027採択）は、AIチャットbotに入力した会話内容や個人情報が、サイト内の追跡プログラム（トラッカー）を通じて外部企業へ漏えいする実態を調査した研究報告だ。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
 </item><item>
-<title>Apollo Research、OpenAIの転覆行為に関する試験運用に6人の評価担当者を派遣</title>
-<link>https://news.google.com/rss/articles/CBMilgFBVV95cUxPdW1weWRoSkVpcXJ3WjRVOFBwX0owVGk3TUxqODItWWxhMndDODZQU3k5QWpOOS1WNFZvamVyVElfX1Ruc0lEY2pZbFFYLVl3SC1NeXBqeTluNXVkd2NvOGp6LTJiWFBRZzgyZDBDS1IzYjdRc19hMkhUZUg3cVVNeTVSbGpHSkdiR0F5aUw5RVdlUEhKUnc?oc=5</link>
-<guid isPermaLink="false">037f97010a6dfff99429d610b4d464d68bc52dd9fcb5e97dfc95e7a3a0d0e6c9</guid>
-<pubDate>Mon, 16 Nov 2026 17:38:04 +0000</pubDate>
+<title>OpenAI、児童性的虐待コンテンツ（CSAM）検出ツールを公開 ChatGPTで探すと24時間アカウント停止の警告も</title>
+<link>https://www.itmedia.co.jp/news/article/2611/17/2000003254/</link>
+<guid isPermaLink="false">33a1c8f708c5694e3a40d49f420509e17903df416c6a517e07ecb773b92de92e</guid>
+<pubDate>Tue, 17 Nov 2026 01:45:02 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Apollo Research、OpenAIの転覆行為に関する試験運用に6人の評価担当者を派遣 Unite.AI</p><p><b>ソース:</b> Unite.AI</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIは、児童性的虐待コンテンツ（CSAM）を検出するための新たな画像分類ツールを発表した。従来は検出が困難だった新規画像やAI生成画像も対象とし、審査を通過した組織へAPI経由で無償提供する。同時にChatGPT上でのCSAM検索行為に対し、アカウントを24時間停止する警告機能も導入した。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
 </item><item>
-<title>OpenAI、研究者にChatGPT Plusの助成枠5万件を提供へ</title>
-<link>https://news.google.com/rss/articles/CBMiigFBVV95cUxONHU3QWMyYVhSVFh3azJnaV9hTFZPdDItRUJLb3lNNzc5MzdCY2pFNXY5cEFZbWZfdENGTExvc2ZhNk55RjBMbWtaRU80alpMWHA0aEtjWUllaHRhU0x1dl9LVEJTZFFVSlJhNExrdG5FRkpsNXk3R3RtWUVFZWgyWG5JNjVGclhUWkE?oc=5</link>
-<guid isPermaLink="false">ad94e729086b9f5479470a520ab669050a60b0d3b05f3c5c4ef3f42628954516</guid>
-<pubDate>Mon, 16 Nov 2026 17:25:02 +0000</pubDate>
+<title>スパコン「富岳」不正アクセスで運用停止 研究データや外部接続用SSH鍵など流出の可能性 他システムへの接続試行も確認</title>
+<link>https://www.itmedia.co.jp/news/article/2611/17/2000003253/</link>
+<guid isPermaLink="false">cb9c181ecf7b40968e19cac01231b5405fdde78d4621189ec1ce16a51520eae2</guid>
+<pubDate>Tue, 17 Nov 2026 01:44:12 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI、研究者にChatGPT Plusの助成枠5万件を提供へ Unite.AI</p><p><b>ソース:</b> Unite.AI</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>ネット上に公開されていた富岳の稼働状況を表示するダッシュボードを足がかりに、運用系の内部ネットワークに不正に侵入されたという。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
 </item><item>
-<title>DevinのSilicon 2はClaude Fable 5.1と同じ価格設定</title>
-<link>https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0eENhRW9mVm53NmYyVmY4LWVxX194MEt1aVpib0pRcDVzcWxyOHVKa1Zoc1JLMmZDWDhBLUFxVThCc2laT3hsNE9CTzdWcjJ0NzJ1NjFSd3g5UmF4NzkzY245X18?oc=5</link>
-<guid isPermaLink="false">f5daa6ce387205b68bed2329ca3344a7eab65fa76592298bb47e6391ac154dc8</guid>
-<pubDate>Mon, 16 Nov 2026 17:16:44 +0000</pubDate>
+<title>NTTの島田明社長、宇宙光通信構想を発表 月面インフラや宇宙データセンターの整備も</title>
+<link>https://www.itmedia.co.jp/news/article/2611/17/2000003252/</link>
+<guid isPermaLink="false">5b0c2da9cef4f80508f097e05053ba73e4fcca1ce3c94b36b79d18198da9f7b9</guid>
+<pubDate>Tue, 17 Nov 2026 01:30:57 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>DevinのSilicon 2はClaude Fable 5.1と同じ価格設定 OrcaRouter</p><p><b>ソース:</b> OrcaRouter</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>NTTの島田明社長は16日、都内で講演し、宇宙で光通信網を構築する構想を明らかにした。人工衛星同士や地上の通信施設を光信号でつなぎ、高速通信を実現する。宇宙データセンターや月の発電インフラの整備にも乗り出す。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
 </item><item>
-<title>インパクトマネジメント基盤の「impactlake(TM)」、MCPに対応しChatGPTのプラグイン提供を開始</title>
-<link>https://news.google.com/rss/articles/CBMickFVX3lxTE0tZFdMcU0ydmVRYXFzTTRNX29wdTRPRzZUbGpRdDh4UzNxbW1zVTBtazQ0NlFZZDM1dGFyUjZUQVNwdHZUQVNJSDQ5NEllVFA3NXRTU05ROVZYSV9ZT2ZhYW1meUhjb2xDajJERjlnV25jZw?oc=5</link>
-<guid isPermaLink="false">132ba737b698950607ec984aa0bbec8556a0a8d917946277fc292b5de3ca4204</guid>
-<pubDate>Mon, 16 Nov 2026 17:10:02 +0000</pubDate>
+<title>「京成スカイライナー」予約システム不正アクセス、最大約337万件の顧客情報漏えいか</title>
+<link>https://www.itmedia.co.jp/news/article/2611/17/2000003250/</link>
+<guid isPermaLink="false">4ec25c3d2c8376808df53f7390cf0a2d50cd78d2b245e9589494c7c214038899</guid>
+<pubDate>Tue, 17 Nov 2026 01:09:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>インパクトマネジメント基盤の「impactlake(TM)」、MCPに対応しChatGPTのプラグイン提供を開始 Infoseek</p><p><b>ソース:</b> Infoseek</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>カナ氏名、電話番号、メールアドレス、ユーザーID、ハッシュ化済みパスワード、生年月日、性別、国籍が、第三者に取得された可能性があるという。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
 </item><item>
-<title>生成AI「劣等生」の中小メーカー、名古屋大発スタートアップと挽回</title>
-<link>https://news.google.com/rss/articles/CBMibEFVX3lxTE1xVXpuc3kyc2JGdER1NTBNOG15THZsQ2VfUzY0Z3BBNXNZZ01nckFYeXhpYk5ZSHk5R3BwQnIybHVIc3NvSEg2Zk5WT0U1YTZYV0tZczFhQVZNWGtHdDhFWFNTUWxONkR4RzFzRg?oc=5</link>
-<guid isPermaLink="false">52ae32e508c8b4bc43680b4e4cad45e16e5db468aca65103a54ccb53498db229</guid>
-<pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
+<title>【Hothotレビュー】SX14-R愛用者の本音。「VAIO S13」でうらやましかったのは手厚い新保証だった</title>
+<link>https://pc.watch.impress.co.jp/docs/column/hothot/2156884.html</link>
+<guid isPermaLink="false">72e6064041a71292a161dcd8a86cc92801112e4fc51b06b004402f39760862ca</guid>
+<pubDate>Tue, 17 Nov 2026 01:00:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>生成AI「劣等生」の中小メーカー、名古屋大発スタートアップと挽回 日本経済新聞</p><p><b>ソース:</b> 日本経済新聞</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p></p><p><b>ソース:</b> PC Watch</p>]]></description>
 </item><item>
-<title>トヨタ出身婿入り社長、三河に新風 社長・部長知見を生成AIで外販</title>
-<link>https://news.google.com/rss/articles/CBMibEFVX3lxTE9EY0RCd011ZWVWeUNhMmdsUWQ2TGhSWjBWRThkTlF5c0ZoNmFDS0d3eTFoNkc1LUtkekxiNTNheUNJdGg1MkpLQUFkcnY3bVh4RFIwcnBwSWp3b1BlMHEybDFDTk1EZUlFaXpySw?oc=5</link>
-<guid isPermaLink="false">ac33921313596c8618b8cfa3137311c4e549c336c6d6c83c8803a74cafe21d44</guid>
-<pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
+<title>【Hothotレビュー】落下・水濡れも無償修理。大学4年間を任せられる「VAIO F14」を親目線で試す</title>
+<link>https://pc.watch.impress.co.jp/docs/column/hothot/2156881.html</link>
+<guid isPermaLink="false">a6034af4b8c95412ac07739f759a4c4f3dfe4731bffebeb28e9ca28de19c873c</guid>
+<pubDate>Tue, 17 Nov 2026 01:00:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>トヨタ出身婿入り社長、三河に新風 社長・部長知見を生成AIで外販 日本経済新聞</p><p><b>ソース:</b> 日本経済新聞</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p></p><p><b>ソース:</b> PC Watch</p>]]></description>
 </item><item>
-<title>Qwen4-Max vs Claude Fable 5.5：一方は製品ではない</title>
-<link>https://news.google.com/rss/articles/CBMickFVX3lxTFBVdzQ1cS1WbzFFd04tS293aDZESzFDTW13RHktRTBhVFJuUkh0Wnd0UGJvZk9lLTZDQkdNeVh0ZXdJMlFfNnNZbjdwbWZ3Q0RYSTlob1NWTEFCT0tXZnRzVXpLY0dfNXpyOENNb0pRU1NzZw?oc=5</link>
-<guid isPermaLink="false">02c4b19c8abdfd6da322383328d311ff5d1ed4d5618ff6d4903e5cc1611718b5</guid>
-<pubDate>Mon, 16 Nov 2026 16:51:52 +0000</pubDate>
+<title>OpenAI、Apollo ResearchやMETRなど外部4団体を社内に迎える「埋め込み型」安全性評価を開始</title>
+<link>https://www.itmedia.co.jp/news/article/2611/17/2000003248/</link>
+<guid isPermaLink="false">4025bbd4886639a52f1e2d54ff9a876b05fe89d023aa113061bb6b040863c15f</guid>
+<pubDate>Tue, 17 Nov 2026 00:03:15 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Qwen4-Max vs Claude Fable 5.5：一方は製品ではない OrcaRouter</p><p><b>ソース:</b> OrcaRouter</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIは、外部の独立評価機関が社内に常駐してAIの安全性を検証する「埋め込み型評価」の開始を発表した。METRやApollo Researchなど4団体と契約を結び、学習中のモデルやソースコードへの深いアクセスを提供する。モデルの意図的な妨害行為や不適切な挙動を評価し、安全管理の透明性向上を図る狙いだ。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
 </item><item>
-<title>市場の噂：OfficeアプリでClaudeがMicrosoft Copilotに後れを取る</title>
-<link>https://news.google.com/rss/articles/CBMitwFBVV95cUxOTzVTSkp0cFVrbk9WbFhDbHhaUXlZUWFmNkh3UXd1R0V3QjlyRk9jaXhIZU9ha29xaWQxa2Q1X3pyNUxxeDF4SDlHY2xTeWsyNFdycDFUNWFSenlXNWdHckdPZ3hXOHJIeGxuM0dPUVhCR25lbVhtWTJrckxaa1BVWExqYWF1TzJVM3ByeDZMemZST2JoOFJFNEszdEFHbnFpZTBfc2ZRYWFHT1dvUzlqcXZfOFhPTms?oc=5</link>
-<guid isPermaLink="false">10c12cbd18566f45e4c722840f5efcc31d061f9d97493696fa343c51ed7f830c</guid>
-<pubDate>Mon, 16 Nov 2026 16:38:16 +0000</pubDate>
+<title>OpenAIをカリフォルニア州が提訴 「AIエージェントの制御を80回以上失った」</title>
+<link>https://www.itmedia.co.jp/news/article/2611/17/2000003246/</link>
+<guid isPermaLink="false">7e89cf37133a506c22642b6395b8d73cd2f1fa0bbfc978ce344f04125a629a7c</guid>
+<pubDate>Mon, 16 Nov 2026 23:04:43 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>市場の噂：OfficeアプリでClaudeがMicrosoft Copilotに後れを取る Moomoo</p><p><b>ソース:</b> Moomoo</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>カリフォルニア州の司法長官は、OpenAIを提訴した。十分な安全対策を講じずに高度なAIモデルを開発・テストしたとしている。テスト中に自律エージェントの制御を80回以上失ったにもかかわらず一部しか公表しなかったと指摘。OpenAI側は「自社のみが狙い撃ちにされている」と反論している。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
 </item><item>
-<title>速報：OpenAIとTensorWaveのAMD契約、AI設備投資（Capex）売り圧力に対抗</title>
-<link>https://news.google.com/rss/articles/CBMivgFBVV95cUxQMWctc1NqbEhjTDAyUGRYWThsRUYxZll3R1lBbG9EQVBrNzJTWUpqMFJ0WTBuODE2ZmFzUWtsWFVWNzJNVExMZTdUWUtiZktyU1haV1VzZlJpV3FVYUZ5WWJTZGRQZFJQT0JENkhzY1RsSUxmU3VUZTZOa1VvX19sdm1JM1lnaHdKaEdvc1RmOVVjeXFCdjNyNEMxT0NpRDdMc1hPZ3BhWW9tX2IxTlRmdVJRNUFKM3Ztd2NPeExB?oc=5</link>
-<guid isPermaLink="false">1a457d269e3173bc3bd8c78acf6315f15a31183b9462a63d266e5b23db4f28c0</guid>
-<pubDate>Mon, 16 Nov 2026 16:34:31 +0000</pubDate>
+<title>「Microsoft 365」大規模障害、7月の修正で混入した不具合が原因 負荷増と容量減が重なり世界に波及</title>
+<link>https://www.itmedia.co.jp/news/article/2611/17/2000003245/</link>
+<guid isPermaLink="false">3b5f5d36f09493d4c8312ecad6fae58d8d945014cb9e714c321d91b35a0f2fc4</guid>
+<pubDate>Mon, 16 Nov 2026 22:05:16 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>速報：OpenAIとTensorWaveのAMD契約、AI設備投資（Capex）売り圧力に対抗 Moomoo</p><p><b>ソース:</b> Moomoo</p>]]></description>
-</item><item>
-<title>バーンスタイン：OpenAIが「ChatGPTウォレット」を発表、AI決済競争に新たな転換点 ビザ(V.US)とマスターカード(MA.US)が最大の勝者となる見込み</title>
-<link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPQWpCZldCNG5qRWdYVDZQWEFPNFlvdWR1MjI5aXRMV1ZOSnpIdEpKSjFBVHJTTTVsRzVHZDZKLVdqcXFQb2RsNGZLZnVpS2hjb0ZDQjNMYWVrZFpHd05QemdwdGNxYmgtMmI3Mk0weVg3OGZqSHZ6dTdHVWhjdTh5MmlPNnlfMDlncXJXZldWU3k3ZUJudzJRS3p2ODdvbTRKZzRQWFVwZDZESC14ZnQ3Tm9nSGRqZw?oc=5</link>
-<guid isPermaLink="false">f945ff8c5d5fd9d76a4742ad682078e33905f34e338a8d5b4032ad2b37011a14</guid>
-<pubDate>Mon, 16 Nov 2026 15:54:19 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>バーンスタイン：OpenAIが「ChatGPTウォレット」を発表、AI決済競争に新たな転換点 ビザ(V.US)とマスターカード(MA.US)が最大の勝者となる見込み Moomoo</p><p><b>ソース:</b> Moomoo</p>]]></description>
-</item><item>
-<title>LVMH傘下メディア部門、OpenAIとの提携でChatGPT Enterpriseを編集部に導入</title>
-<link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5oSGI3VDlZclFDT3IwWjZsSmFSd1JaS3JxX3RSWG1Sd2dZM1R0LTNqOUVaR25pUXgzZFRkRVIyRjA5a1J1Wk1hTFUybjNDNDUzcXhBazBVYWdlQ3VKdUdyazJMclZPQ3lDYmhqcV9ySGpGOWlV?oc=5</link>
-<guid isPermaLink="false">0954a1f4f58e30788da3962877ffb223ab688fd554448d0d29b1401eededd181</guid>
-<pubDate>Mon, 16 Nov 2026 15:35:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>LVMH傘下メディア部門、OpenAIとの提携でChatGPT Enterpriseを編集部に導入 BigGo ファイナンス</p><p><b>ソース:</b> BigGo ファイナンス</p>]]></description>
-</item><item>
-<title>Luma Health、クリニック業務の59種類のアクションを実行できるChatGPTプラグインを公開</title>
-<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPYlJJczY1V0pleWVzOVBpUHRibU9oNjR4WVBBS2pFZ1JENDRiMGsyS3hJWFV6VXdNZkJ1aERQRER5OUQxREh0RHhROUFTcGwyR0pKRGo4N0podXNjUzBOMGtWazR3MlFrUzByak9PbW94QnhOQmp1WVhYUHR4d0owLXAtbGRWbDVDS004b2VYTEN3UzhDM2tV?oc=5</link>
-<guid isPermaLink="false">29a6e8335e5d136f45aba31cf16227dff252f238f55dac439dd7e1789b18224b</guid>
-<pubDate>Mon, 16 Nov 2026 14:55:03 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Luma Health、クリニック業務の59種類のアクションを実行できるChatGPTプラグインを公開 Unite.AI</p><p><b>ソース:</b> Unite.AI</p>]]></description>
-</item><item>
-<title>OpenAI、医療分野向けプラグインを20種類以上追加し、臨床検索を強化</title>
-<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxNVlVrdE9zXzJDQ2FIUjFkQ25qc1RsUDc4V3NHTjhmeWwtNEZfUGEtMXNQR2JOcDF0SUR6V1M0enp0cFN3UFpxUjh0RWgyajNua1RDLTdfSlVCS0E0YTFOcVFxSTBkQk1KVFBaR0dnZjFYMUUzbDVWTlkxeF9uLTVWbkJQS2pxc1FybnpSZE9zZ2k2cTdBVVEw?oc=5</link>
-<guid isPermaLink="false">3c0af2c9ca5e175cef2a61cfa302c5244b60c813a33bc182150a66ac5efbc42f</guid>
-<pubDate>Mon, 16 Nov 2026 14:49:02 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI、医療分野向けプラグインを20種類以上追加し、臨床検索を強化 Unite.AI</p><p><b>ソース:</b> Unite.AI</p>]]></description>
-</item><item>
-<title>Gemini、サブスク解約と返金申請の方法</title>
-<link>https://news.google.com/rss/articles/CBMikgFBVV95cUxNaHRXOGNoeWwzSXlYM0tHeTN5OW1WUkIxSF9ZQW1CMVk2R0FVWXRtbUUzMEJZbkJLckg5MXRUeG9OWDB1aTFLOHRZeEdyckY1R01Tc3p1alNDQkdSWXdsV0txdXQ3Qm1DbWV2akpTM21NMC15bC1OR0UwTzA0aGJ4ZWF1MnlYRzExSk5HblZHam5JZw?oc=5</link>
-<guid isPermaLink="false">ed40152eb73ca1f2bc166b8de34b395379136fb5cdc772e6b156518edb089dac</guid>
-<pubDate>Mon, 16 Nov 2026 14:43:05 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Gemini、サブスク解約と返金申請の方法 Meteora Web</p><p><b>ソース:</b> Meteora Web</p>]]></description>
-</item><item>
-<title>OpenAI、医療業務にコンピューター操作エージェントを導入</title>
-<link>https://news.google.com/rss/articles/CBMiigFBVV95cUxNR0xIaDhmdVE0MjhlOUpHbHh6WHNObUJlZXNpcjhuSDB3QW9SeHp6RHVvN0dlN3pxN2UwTG5FSjUyd2xBcF8xR0I5RG1MN0ptRGRiZGhNbDhjaHNaYkhzN2w0R29rMENEWmdMRktMU3FBNTRlejFfRlZuemU1bEF2TGt0VWU3M1AxOEE?oc=5</link>
-<guid isPermaLink="false">66d6313b4fc3a82b1a8baa8efc401aa61478d36db96c57d26882f3384a306edb</guid>
-<pubDate>Mon, 16 Nov 2026 14:33:04 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI、医療業務にコンピューター操作エージェントを導入 Unite.AI</p><p><b>ソース:</b> Unite.AI</p>]]></description>
-</item><item>
-<title>Codexの「model at capacity」エラー、ピーク時の80分の1に――OpenAIエンジニアが明かした中身</title>
-<link>https://news.google.com/rss/articles/CBMiQkFVX3lxTFBfMWJ5MmU2bTZlZWVYVEliOEFCMkJvdjdFS19DQ3VHS0Nyd2ZSUmJ2XzJiUjJzN1NPX2tpU3BkUzR1Zw?oc=5</link>
-<guid isPermaLink="false">5e0972c35358d1e6f918ea6b45421715ee7b6fe612163bb20bb856327ecd8b39</guid>
-<pubDate>Mon, 16 Nov 2026 14:28:46 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Codexの「model at capacity」エラー、ピーク時の80分の1に――OpenAIエンジニアが明かした中身 shiritomo</p><p><b>ソース:</b> shiritomo</p>]]></description>
-</item><item>
-<title>Google GeminiとAntigravityのアカウント停止リスクが限定範囲に明確化</title>
-<link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pcUF2OG9sUS1KSmNkcnpsSDhzcUdBbzg0ZUpKaEdoTElfRGR1T2UzUnh3enNsQXBCZkRxQjRvYzNxdk9WbmpicmlCVGdGQXR0QWNGaTYxcw?oc=5</link>
-<guid isPermaLink="false">9a5f4e6c586b5a8ccca2635cb4bcb153041b4a6013b71a1606abf8fc8bc5c482</guid>
-<pubDate>Mon, 16 Nov 2026 14:08:24 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Google GeminiとAntigravityのアカウント停止リスクが限定範囲に明確化 X</p><p><b>ソース:</b> X</p>]]></description>
-</item><item>
-<title>LVMHとOpenAIが提携、ChatGPTを仏紙の編集部に導入</title>
-<link>https://news.google.com/rss/articles/CBMimwFBVV95cUxQc05MVzIzMEoza3ZuU283VDduaEVmc2xPN01YS2lJeEJ6aVVpVVpUSHMteGNfeFhWaklUR2pERG1Ua3h5WnRxb0pXbm1SSG9QYm1uOG5QTDZhSzlwb3NJTTZnUzNuWVRLUjZFRFR1NEhxb0dlT2Q4aGVxd0ltbXp0M3FsdHhtWE1STS1jdHVFUWt6NjN6YzlzX0FpMA?oc=5</link>
-<guid isPermaLink="false">ecb55a71594211667e6fe0bfbf172da70521838dbe5d661e7cfdeeeaf4e12358</guid>
-<pubDate>Mon, 16 Nov 2026 14:04:14 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>LVMHとOpenAIが提携、ChatGPTを仏紙の編集部に導入 Meteora Web</p><p><b>ソース:</b> Meteora Web</p>]]></description>
-</item><item>
-<title>Androidは初期設定のままじゃもったいない。使い心地が変わる5つのカスタマイズ</title>
-<link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQZGMwUFl5eTUtMUNkVW5Hbm9fUllERWZlWXBOTmJ3YlZnSjd2N09hdUxQMFlLV0Y0QjdKTmQ5NC1ic2ZkZER6QjNnVHhkb1VtbjQ2aVNZLVdYNjF6Sms2eXFCSzZ6LTdOWUlwQlNZckUyakJVT3lLQktHaGp6MXNZclg1X19rQXh6WUdQcWdsYV9wZFppajB2Ug?oc=5</link>
-<guid isPermaLink="false">cf0196e8159312ed1006d8eaea124245c9ddfe526eb517213a08d33452566f4b</guid>
-<pubDate>Mon, 16 Nov 2026 13:30:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Androidは初期設定のままじゃもったいない。使い心地が変わる5つのカスタマイズ ライフハッカー・ジャパン</p><p><b>ソース:</b> ライフハッカー・ジャパン</p>]]></description>
-</item><item>
-<title>OpenAI Codexの「model at capacity」エラーが大幅改善、ユーザー体験向上</title>
-<link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nNkp0NFlKRENrVGZFQXFmd1lwTUNjUHNFY3laNDdsQzg4dy1ILXMxcXlGcTM4a05HenBTUUpDUGNkUmMxa3Y4ZWNBelN6d1B2RzQyblpkWQ?oc=5</link>
-<guid isPermaLink="false">5ddce323f99dfc9a3e57b4805a080ed52a0bc719e500537250e653f376aaeefb</guid>
-<pubDate>Mon, 16 Nov 2026 13:29:51 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI Codexの「model at capacity」エラーが大幅改善、ユーザー体験向上 X</p><p><b>ソース:</b> X</p>]]></description>
-</item><item>
-<title>東北電力とリコー、生成AI環境の構築で協力 東北・新潟の自治体や企業向けに</title>
-<link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IRHJEcFVNS09ZMTMyMU1IMXNkWFpCc2FYdGY5elRBOEV4RjlIdUpHQmRkY3d5aThOcXVmT2I1aXRNdGJxcGpuYVdnOEwzODBaUlc0alVpdmtBTms?oc=5</link>
-<guid isPermaLink="false">f3606daa90af3eae66d394c30b133097826b149552bf43bd80db12524eaf6652</guid>
-<pubDate>Mon, 16 Nov 2026 13:15:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>東北電力とリコー、生成AI環境の構築で協力 東北・新潟の自治体や企業向けに 河北新報オンライン</p><p><b>ソース:</b> 河北新報オンライン</p>]]></description>
-</item><item>
-<title>ChatGPT、ユーザーのクレカでお買い物をしてくれるようになったけど…、大丈夫？</title>
-<link>https://news.google.com/rss/articles/CBMidEFVX3lxTFBud3pDdzg5bEw5Q0Q2bURsZ241a2xqOWE1VGlnU3dsVHcwejF6OWE3M1o4emxHUGxRUGJTbExqaDQtWm5LdU8yMHlVWjRacmVOZTloUkJHMm5tNGIzbHFoeXhQVUM0YUtpSG9jQmJrdVVlS2hf?oc=5</link>
-<guid isPermaLink="false">df9f0ea4b7a75aff11c1d73e5813834e05eedd1870460e48984ca3b2ea24c3c7</guid>
-<pubDate>Mon, 16 Nov 2026 12:30:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>ChatGPT、ユーザーのクレカでお買い物をしてくれるようになったけど…、大丈夫？ Gizmodo</p><p><b>ソース:</b> Gizmodo</p>]]></description>
-</item><item>
-<title>OpenAIのGPT-6 Astra、物理学者の50年来の難題解決を支援 標準模型の格点定義に候補案</title>
-<link>https://news.google.com/rss/articles/CBMidEFVX3lxTFB3bUJqMXd3S3cyZnNOUEJ4bGQ5Y1dlaG9zbGJucU1UWkloNFNFY3Znd0lWclJUTVJIYVdfUkpfMlcxall6UUJlbDdDQlFldjBBUTl0bHVvVkdiR2gtd2lIWUwxbm1XaVJkTGk4aS1QZDVMblJm?oc=5</link>
-<guid isPermaLink="false">f1b4934bb7fde707f980fae219b87e865db0accc940223babb098f30040d73b6</guid>
-<pubDate>Mon, 16 Nov 2026 12:25:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIのGPT-6 Astra、物理学者の50年来の難題解決を支援 標準模型の格点定義に候補案 BigGo ファイナンス</p><p><b>ソース:</b> BigGo ファイナンス</p>]]></description>
-</item><item>
-<title>【速報】生成AIで偽のギフトカード買い取りサイトを作成、1億円超不正取得か 容疑の自称ミュージシャン逮捕（京都新聞）</title>
-<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5LNU5OUGJ0dVpKRUJqRDh6Um9pYm5xZGw5Z0Q3N1RpSndTVFdqZVRSZk5JcHJoc29SZDZwYWNKUlVpWDY2TG5rbkNMQlFobVZOZzRTVzJlUGNfRm1yb2Q4dWlVcUU4eTMxSEdYaGhLMjNWX0U4dG9XWjRMWWx3T3M?oc=5</link>
-<guid isPermaLink="false">2e4b1193966f4f34ecad46ab22edcdff40255170132c7738635ce693a5967e86</guid>
-<pubDate>Mon, 16 Nov 2026 12:15:35 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>【速報】生成AIで偽のギフトカード買い取りサイトを作成、1億円超不正取得か 容疑の自称ミュージシャン逮捕（京都新聞） Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
-</item><item>
-<title>Claude Code生みの親ボリス・チャーニーとは。プロンプトではなくループを書く理由</title>
-<link>https://news.google.com/rss/articles/CBMigAFBVV95cUxNb2p6WjRObHZMY290a3luZm5QMzN2VGpObkE4a1Zaa1I2ejNKUHZXZzFjeTNCbENZb180ZGJGUWNmTEdGOTlZOXZzZ2NuMnZhZEJJX0FOdTJQaU1BeWJ0a1E3a0VFUk9RRE1LNmI5SjQ2U1dfWE93MUFlTkxXUUdEZg?oc=5</link>
-<guid isPermaLink="false">dcf54a0f17803fd58db88c61ba4407a51cf81ddd5f3e4abcc9758f7d3955a947</guid>
-<pubDate>Mon, 16 Nov 2026 12:05:39 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Claude Code生みの親ボリス・チャーニーとは。プロンプトではなくループを書く理由 Pasquale Pillitteri</p><p><b>ソース:</b> Pasquale Pillitteri</p>]]></description>
-</item><item>
-<title>ClaudeとCodexで32年落ちのジープをリバースエンジニアリングして修理</title>
-<link>https://news.google.com/rss/articles/CBMib0FVX3lxTFBaSUMyTnAwZmkwbHhOVDlxbDNlUVMtN2F3Q3lGbUV0SnR0TVhvMUtLYktnUDFBUzRZcU4ydUNwX2ZnSXJaRTUzbElBelRKNzNmcnI3aF9oTDMzeUpWVHQySWE4bjFULUplN0NMZmhkbw?oc=5</link>
-<guid isPermaLink="false">2bf2f523ff77063b5e09186e060f5ebc7e757f35ea83fb9f9a319fa001b5abc0</guid>
-<pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>ClaudeとCodexで32年落ちのジープをリバースエンジニアリングして修理 GIGAZINE</p><p><b>ソース:</b> GIGAZINE</p>]]></description>
-</item><item>
-<title>Androidの容量不足、写真を消す前にここを見て。「その他」に隠れたデータの探し方</title>
-<link>https://news.google.com/rss/articles/CBMigAFBVV95cUxNMnpyVFNOVUVjaDZ3X3JMQzZlZHBjbVg3RlVsb1ZBNS1QRjRtRnpXUG9TeGdjSV9OMlZwRk53U1pyUUNPM2VnYkVyVzZjeGVXcUFkVkUwbTA2OUozZXo2RWlza0Ixb0FfRHdwVUl2VmZ1NXQyYUVWTEZOQlZOcDd4Qg?oc=5</link>
-<guid isPermaLink="false">050a383ff0d5c300407cdab450ad228f11ff1f73a03af172baa28210c07191c1</guid>
-<pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Androidの容量不足、写真を消す前にここを見て。「その他」に隠れたデータの探し方 ライフハッカー・ジャパン</p><p><b>ソース:</b> ライフハッカー・ジャパン</p>]]></description>
-</item><item>
-<title>OpenAI、英国の若者最大2万5,000人を対象にAI研修を支援</title>
-<link>https://news.google.com/rss/articles/CBMikwFBVV95cUxQWHZUdmt4bnpiYWxPZEJLYjF0b2lDQUZITE5yQ1hZaWh0dWtYWjhNaUU3dUh2ZEVPZlZlTVdQczVWTDYtRVlFZGNWV3JrZ3UzcWNzUlpTblNCSTFTaDJYYlZOYW1vTllMYWxhTlVHY2dlc1VRckR6cWFmR3JWeElfV0ZFd3UtcFY2LTJObk5PX0M4NUU?oc=5</link>
-<guid isPermaLink="false">7fd4cbd87f369cd31509b865fedf9fc045ede78c6eb2160825e0e1cc0b3f90c7</guid>
-<pubDate>Mon, 16 Nov 2026 11:57:03 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI、英国の若者最大2万5,000人を対象にAI研修を支援 Unite.AI</p><p><b>ソース:</b> Unite.AI</p>]]></description>
-</item><item>
-<title>教員が生成AIで教育用アプリ開発 公開・利用の指針作成</title>
-<link>https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrMUxIZ3hlZnFBYmRDMWZKNGhFTEpNaHMxSzdmSEtKNVNnZEFycWtSU01pekJUdzhxbzVQanhONWI0NjZ4c0lBNV9MZnlUQ0pTak5NQU53?oc=5</link>
-<guid isPermaLink="false">2858921431ff6769aa759bc8583c3fba00d6d0216d53c8d9c3a3bb993817b561</guid>
-<pubDate>Mon, 16 Nov 2026 11:55:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>教員が生成AIで教育用アプリ開発 公開・利用の指針作成 教育新聞</p><p><b>ソース:</b> 教育新聞</p>]]></description>
-</item><item>
-<title>生成AIで偽サイト作成か ギフトカード詐欺疑い逮捕</title>
-<link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE8wdi1jd3ltWTFxRkFiRTdrc2szVEtfQVFIVm5Gb3B5cjVndDJ5Z1ZyUG1WNV9rVDhoT3llRVF2WGJSV2RqMXpXVzNaMA?oc=5</link>
-<guid isPermaLink="false">b767da1faa599c051c15807b43844570bcb3fb1689416e6dbceb5c33f838deec</guid>
-<pubDate>Mon, 16 Nov 2026 11:36:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>生成AIで偽サイト作成か ギフトカード詐欺疑い逮捕 47NEWS</p><p><b>ソース:</b> 47NEWS</p>]]></description>
-</item><item>
-<title>生成ＡＩで偽サイト作成か ギフトカード詐欺疑い逮捕</title>
-<link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ka1lXTDhGaVY3TG1JY1F1RzZtQ2lxLUJpMkt5MFUxRXZucE91XzB0SHNEejlka056dHRINVlKQkZZNTZuaFVBVU1va25OdzJja3N1Z1dOODg3eGF2dVE?oc=5</link>
-<guid isPermaLink="false">57c8493d513806089c2771f8ffbb517843048e7b50ceb53d2655dfc294fdc4ce</guid>
-<pubDate>Mon, 16 Nov 2026 11:35:04 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>生成ＡＩで偽サイト作成か ギフトカード詐欺疑い逮捕 新潟日報</p><p><b>ソース:</b> 新潟日報</p>]]></description>
-</item><item>
-<title>生成AIで偽サイト作成か ギフトカード詐欺疑い逮捕（共同通信）</title>
-<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5pRmNDcF9yX2xyVXNrYkhkdEkxRWJ6QS1uMEtYU1ZyeXhxY3dDTXpXYTl0SEdLT0VUWnctWVpJMmJXWTlKWWRyZ1F6eTJMbG9tcWlCaURNRE01X3ZqdXJOOHNQNnA0RjExT2hOWGlORkF6aUI1NUNrT2cyS0VIVTA?oc=5</link>
-<guid isPermaLink="false">9bebbecd2974174720e6df4fa930d31cb6177c897114eed3fe152dccfbdb267c</guid>
-<pubDate>Mon, 16 Nov 2026 11:35:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>生成AIで偽サイト作成か ギフトカード詐欺疑い逮捕（共同通信） Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
-</item><item>
-<title>生成ＡＩで偽サイト作成か</title>
-<link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DU05kZlRxRWNMX3hxT0FoY0xzSEZHandUSjdJOGtyMktJQk5aSnNCbnAxSUY1Y0VHWGtESnE5d2Y4MldvR1k0WFRMV2tmTjZJMThkSlpEOXZtZw?oc=5</link>
-<guid isPermaLink="false">672f28ead528e5e8d9bf4d6097433bec78854721e318e57da0d96f5203c3e560</guid>
-<pubDate>Mon, 16 Nov 2026 11:35:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>生成ＡＩで偽サイト作成か 中国新聞デジタル</p><p><b>ソース:</b> 中国新聞デジタル</p>]]></description>
-</item><item>
-<title>生成ＡＩで偽サイト作成か ギフトカード詐欺疑い逮捕 | | 全国のニュース</title>
-<link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jSFdOdFE2eVZjOHl0RHVuRHNHSm50a3A2VnRKNHpOZWtBbm54V29qY2poVmc1NDFJNEZ5emljUFFOMjJIbXE3di1Bdm0wd2JUYlhPbGpn?oc=5</link>
-<guid isPermaLink="false">c7c85fca4ae3b3cb73985a780f01e4192064dc75d8e4450a7949e3d882636789</guid>
-<pubDate>Mon, 16 Nov 2026 11:35:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>生成ＡＩで偽サイト作成か ギフトカード詐欺疑い逮捕 | | 全国のニュース 佐賀新聞</p><p><b>ソース:</b> 佐賀新聞</p>]]></description>
-</item><item>
-<title>NVIDIA Auto Ontology MCPをClaude DesktopとCursorにつなぐ方法</title>
-<link>https://news.google.com/rss/articles/CBMilgFBVV95cUxNdUlNOTBGN1RsNW5VNE9BRnY3MkVsMy1jeUpacEFmOWY1ams1TFZYTnZVRDRfZTZpc09JRjNDU0t3emhWenFnMFhBN3Rrc0M5TUxXdks4MFBTaVgxUUNCYXJieWI3ZlhrdGhEeG5FbjgwdmZsNkk5Q1BkS01Fb0Z3cjFiNk8tNFpINDl0MUowcTJ6VXVpbXc?oc=5</link>
-<guid isPermaLink="false">40fa912691c4932d4bbf41fb3ac98bd5d1ff76afcd6489a1f3082ffc977f3ba3</guid>
-<pubDate>Mon, 16 Nov 2026 11:16:48 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>NVIDIA Auto Ontology MCPをClaude DesktopとCursorにつなぐ方法 Pasquale Pillitteri</p><p><b>ソース:</b> Pasquale Pillitteri</p>]]></description>
-</item><item>
-<title>Qwen4-Max vs Gemini 4 Pro：GoogleのPro枠は空席だ</title>
-<link>https://news.google.com/rss/articles/CBMibEFVX3lxTFBTT1NyV1lkdk84UkZsVkRwbnNtRlNaWmRXN1J6YWxsVjlLOHgxcTVNUnU1WTlIcklxNE5PN185YlhnWUJZWUFpTHUyQ0ZKYkdmSWhuQlNSVl9Kc0I1RW9wa1AzejdDLUlHaDN0Vw?oc=5</link>
-<guid isPermaLink="false">1df52d05bb11717ba931276b212911ace79ad0bea3520890094611d423971660</guid>
-<pubDate>Mon, 16 Nov 2026 11:00:18 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Qwen4-Max vs Gemini 4 Pro：GoogleのPro枠は空席だ OrcaRouter</p><p><b>ソース:</b> OrcaRouter</p>]]></description>
-</item><item>
-<title>AIのかしこさとは。『ポケモン』で同じ崖から3回落ちる→メモを整理してミスに気づく（ギズモード・ジャパン）</title>
-<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1PYWVZTmhCUC0tbHNPSUxXOUFxV1paM3VmdjF5bWoyV2dqdXc2cGs3bVdnYlVtQnFDOU5CdFZ2QUdCODVzcGU2WkJQaHVUdURPQmMxVXJ4VEE4dW9kMFRsVVlRVGNFNkg0TnU1QnpXT1liOUUxYUlkb0VpT1RHZUU?oc=5</link>
-<guid isPermaLink="false">b1ebd6e6627a1737ac0d762604ddd05d9b89f6e3f51923838bd845b53f724dee</guid>
-<pubDate>Mon, 16 Nov 2026 11:00:02 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>AIのかしこさとは。『ポケモン』で同じ崖から3回落ちる→メモを整理してミスに気づく（ギズモード・ジャパン） Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
-</item><item>
-<title>Qwen4-Max 対 Claude Fable 5.1：トークンあたりではなく、タスクあたりの価格</title>
-<link>https://news.google.com/rss/articles/CBMickFVX3lxTE9ZVTNoZ3pzdFBDdjB5bUpsT2VnT0lMalFjQ2NJX25RTjVtSnFWY3owTVVZM3hZZUlsTXdqTHJ3QzlyRzVORHhUblZqUm1TQ3hLdFhuc0FTdWFxM0VEVXh2cjVrSEh6MEtqSXg3eGN6amdDZw?oc=5</link>
-<guid isPermaLink="false">0e188450a0a18e09c44b98443477cfdf12179b97df2a2564143a5fd7377468a8</guid>
-<pubDate>Mon, 16 Nov 2026 10:57:38 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Qwen4-Max 対 Claude Fable 5.1：トークンあたりではなく、タスクあたりの価格 OrcaRouter</p><p><b>ソース:</b> OrcaRouter</p>]]></description>
-</item><item>
-<title>教育DXと生成AI活用の最前線「EDIXツアー in 福岡 2026」、マリンメッセ福岡で12月2日～4 日に初開催</title>
-<link>https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1NzNVUzh5QXdHcVktQkRPaENaQUo2dzh5U1UtMUw0WExkSEg4OVNSUjdhYnNVa0ZBQ0VfNV9MQ19nRGFZOTlHQ09mOEtZai1l?oc=5</link>
-<guid isPermaLink="false">83c1f02aade87bd0b9debe9dc5a486d36cdcd669f1021b60cbd049d4909d9bbe</guid>
-<pubDate>Mon, 16 Nov 2026 10:47:00 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>教育DXと生成AI活用の最前線「EDIXツアー in 福岡 2026」、マリンメッセ福岡で12月2日～4 日に初開催 風傳媒</p><p><b>ソース:</b> 風傳媒</p>]]></description>
-</item><item>
-<title>偽サイトでAppleギフトカード詐取、サイトは生成AIで作成 42歳男逮捕 京都府警</title>
-<link>https://news.google.com/rss/articles/CBMidkFVX3lxTE5hcDAtQnowM1lhOVRDT29xWnhwcndhR1MwRXFJMmxrNUxZUDlhU3Q3YVFCTVkwX0FKSDRhbmQyTUVCbVNkUXBHN2NETnVEYjgwZDNnMkNmeDgyYmMwQktyNE1ELTI1alpWMTM3TGFYZFlDdEFPQnc?oc=5</link>
-<guid isPermaLink="false">63a76b3073711f00c28ae959887f3b8f5d38d7550748b584f4ea09eb928eb766</guid>
-<pubDate>Mon, 16 Nov 2026 10:27:09 +0000</pubDate>
-<category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>偽サイトでAppleギフトカード詐取、サイトは生成AIで作成 42歳男逮捕 京都府警 産経ニュース</p><p><b>ソース:</b> 産経ニュース</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Microsoftは、「Microsoft 365」で12日に発生した大規模障害の暫定的なインシデントレポートを公開した。7月に展開した更新プログラムに潜む不具合が、通信トラフィック移行による負荷増と容量低下という悪条件と重なり顕在化。世界規模で連鎖的なサーバダウンを引き起こした。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
 </item>
 </channel></rss>
