@@ -4,97 +4,195 @@
 <link>https://example.invalid/</link>
 <description>個人用ニュースフィード</description>
 <language>ja</language>
-<lastBuildDate>Tue, 17 Nov 2026 04:47:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 11:21:08 +0000</lastBuildDate>
 <item>
-<title>Microsoft 365の大規模障害、原因はサーバーの潜在的なバグ</title>
-<link>https://pc.watch.impress.co.jp/docs/news/2157036.html</link>
-<guid isPermaLink="false">74690160fd5a55ef46732659defd8858289c854f6be6c462bfbdeb42a174b17f</guid>
-<pubDate>Tue, 17 Nov 2026 04:34:34 +0000</pubDate>
+<title>AnthropicがMythosでClaudeをAMD GPUに3日で移植したと発表</title>
+<link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdXN5Tk1qbERrN2dNV3ZLRVV6Z2d0WHU2enRJRFRER3BMakcyVWNvNzdxVHhmT1VUUUVNazRmaF94ckc1RmZINGRTSDhfd1I2YXFBaWFpMnE3YWx4QUp0Mm1KNWxTT1AzTjV2YldQdUJFRGdmRTk0VkhMZUFqNXlId1NOQThPTk55cE5V?oc=5</link>
+<guid isPermaLink="false">e29fc34af0ab70c2a9730ae450b33ab46425a5b96611123f2cb2edb78176f652</guid>
+<pubDate>Tue, 17 Nov 2026 11:16:30 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>11月13日(日本時間、以下同)の深夜に発生し、その後約24時間にわたって続いたMicrosoft 365の大規模障害。メールサービスのExchangeやWeb会議サービスのTeamsなど多くのクラウドサービスに影響を与えた。Microsoftは11月16日、管理者向けに本障害に関する暫定的な報告を行なった。</p><p><b>ソース:</b> PC Watch</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>AnthropicがMythosでClaudeをAMD GPUに3日で移植したと発表 Pasquale Pillitteri</p><p><b>ソース:</b> Pasquale Pillitteri</p>]]></description>
 </item><item>
-<title>米商務省、中国企業による第三国データセンター経由のAIチップ“遠隔利用”を規制へ</title>
-<link>https://www.itmedia.co.jp/news/article/2611/17/2000003258/</link>
-<guid isPermaLink="false">26b2aad62f0682d719736a0ada5591e64762ec82ea3a4ffec300c399ccde617b</guid>
-<pubDate>Tue, 17 Nov 2026 03:50:05 +0000</pubDate>
+<title>Claude開発元が史上最大級IPOへ、調達最大10兆円｜19日上場</title>
+<link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wQ3NOai11YVRrWFdPcEIxaHVWMUEwSUZpcS1tU3E2M1JiazBvQTc4LVlObXZqS3NHNC0yWHIwWEFWTEJxb0RFVllpY2g3SnhTbGdGSGRieW9BVm92R0JLbTJNNDc?oc=5</link>
+<guid isPermaLink="false">ea6018ca6e4cdd765ada25a5a3755652a84374dea6183ef9cd51af01a5bffd35</guid>
+<pubDate>Tue, 17 Nov 2026 11:12:05 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>米商務省は、中国企業などが第三国のデータセンターを経由して米国製先端AIチップを遠隔利用することを防ぐ暫定最終規則を発表した。物理的な輸出規制の抜け道をふさぐ狙いで、一定以上の計算資源を提供するデータセンターへのチップ輸出にライセンスを義務付ける。NVIDIAを巡る疑惑が背景にあるとみられる。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Claude開発元が史上最大級IPOへ、調達最大10兆円｜19日上場 crypto-times.jp</p><p><b>ソース:</b> crypto-times.jp</p>]]></description>
 </item><item>
-<title>モリサワや「mineo」など会員情報漏えい マーケツール「KARTE」不正アクセス、外部サービス連携用シークレットキーなども</title>
-<link>https://www.itmedia.co.jp/news/article/2611/17/2000003257/</link>
-<guid isPermaLink="false">b02c08e272a251cd0f74553019c9d225abf2859912ec1f4b046fc8d698ed77fc</guid>
-<pubDate>Tue, 17 Nov 2026 03:35:13 +0000</pubDate>
+<title>楽天証券に不正アクセス、最大1125万口座のIDなど漏えいか 「テスト環境」の一部情報が流出のおそれ</title>
+<link>https://www.itmedia.co.jp/news/article/2611/17/2000003275/</link>
+<guid isPermaLink="false">7520f26b7bfaf6807b465749b78846d3c51600549654617e7e02da316c5914f9</guid>
+<pubDate>Tue, 17 Nov 2026 10:57:46 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>企業向けマーケティングサービス「KARTE」（カルテ）が不正アクセスを受け、利用企業のアカウント情報や、利用企業から預かっている顧客情報の一部、利用企業が外部サービスとの連携に使うシークレットキーなどが漏えいした。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>楽天証券は、第三者による不正アクセスで最大約1125万口座分の顧客情報が漏えいした可能性があると発表した。うち最大約447万口座分は氏名や住所、金融資産情報なども対象。パスワードや暗証番号の漏えいは確認していない。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
 </item><item>
-<title>AIに打ち明けた相談は“広告トラッカー”に筒抜け？ ChatGPT、Claude、Gemini含む42サービスを米大が調査</title>
-<link>https://www.itmedia.co.jp/news/article/2611/17/2000003241/</link>
-<guid isPermaLink="false">ce87673cb0879ba822a05acf0d99800c6dfee3f6fe267d2b3107d1f7efe80775</guid>
-<pubDate>Tue, 17 Nov 2026 03:00:00 +0000</pubDate>
+<title>「生成AIも間違いなくインフラの1つ」幅広い業界で進むAI導入 AI開発会社と提携した建設会社が目指すものは? AIを学んだ社員が専用のアプリを開発した企業も=静岡</title>
+<link>https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyaWE3c1JYT3BWUENWNVBYemZvVDFXY3VzU3JiUTRNSFA2eDRXcEd5bk8xaTE0RE9YZmVBY2xPNkRiTmZ3LVJCT2FZc3k0MHJZZ0dWT1VsM2haTi1HNXJBbw?oc=5</link>
+<guid isPermaLink="false">ad3d9c2b86c7c590f60ebf107e0db2c38815a35e2bf07462530be164cc639d26</guid>
+<pubDate>Tue, 17 Nov 2026 10:50:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>米ニューヨーク州立大学ストーニーブルック校に所属する研究者らが発表した論文「Penny for Your Prompts: A Measurement Study of Contextual Leakage in AI Chat Platforms」（IEEE S&amp;P 2027採択）は、AIチャットbotに入力した会話内容や個人情報が、サイト内の追跡プログラム（トラッカー）を通じて外部企業へ漏えいする実態を調査した研究報告だ。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>「生成AIも間違いなくインフラの1つ」幅広い業界で進むAI導入 AI開発会社と提携した建設会社が目指すものは? AIを学んだ社員が専用のアプリを開発した企業も=静岡 アットエス</p><p><b>ソース:</b> アットエス</p>]]></description>
 </item><item>
-<title>OpenAI、児童性的虐待コンテンツ（CSAM）検出ツールを公開 ChatGPTで探すと24時間アカウント停止の警告も</title>
-<link>https://www.itmedia.co.jp/news/article/2611/17/2000003254/</link>
-<guid isPermaLink="false">33a1c8f708c5694e3a40d49f420509e17903df416c6a517e07ecb773b92de92e</guid>
-<pubDate>Tue, 17 Nov 2026 01:45:02 +0000</pubDate>
+<title>舞台は，核戦争で原始社会に近い状態まで後退した2075年の世界。ナラティブ重視のADV「MMIXXV_The Holy Mountain」では，生存者たちが罪を洗い流す象徴的な洗濯機に救済を求める</title>
+<link>https://www.4gamer.net/games/059/G105913/20261117047/</link>
+<guid isPermaLink="false">830d46511b85a609ef5862c0eec44f4f43630ed1289832ffa442c7aa752f6064</guid>
+<pubDate>Tue, 17 Nov 2026 10:47:43 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIは、児童性的虐待コンテンツ（CSAM）を検出するための新たな画像分類ツールを発表した。従来は検出が困難だった新規画像やAI生成画像も対象とし、審査を通過した組織へAPI経由で無償提供する。同時にChatGPT上でのCSAM検索行為に対し、アカウントを24時間停止する警告機能も導入した。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>ナラティブ重視のADV「MMIXXV_TheHolyMountain」が発表された。本作では，核戦争で文明が崩壊した2075年の世界を舞台に，罪を洗い流す洗濯機シミュレータ「聖なる山」の秘密を探っていく。</p><p><b>ソース:</b> 4Gamer</p>]]></description>
 </item><item>
-<title>スパコン「富岳」不正アクセスで運用停止 研究データや外部接続用SSH鍵など流出の可能性 他システムへの接続試行も確認</title>
-<link>https://www.itmedia.co.jp/news/article/2611/17/2000003253/</link>
-<guid isPermaLink="false">cb9c181ecf7b40968e19cac01231b5405fdde78d4621189ec1ce16a51520eae2</guid>
-<pubDate>Tue, 17 Nov 2026 01:44:12 +0000</pubDate>
+<title>グーグル、Geminiにスキル共有機能 ドライブやフォトのファイルも参照可能に</title>
+<link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5yaUsxSEZraU1Kel9EZDZBbE5lWmxFWE5Sekg2SS1xb3NJWWtZcGJCUHVXR2ZRVlNiQVRNX1N0U240X0tGQl9jcUdRejJ0c1NQWUtyUVRFZFBYdkV2cm9vWnRfMklMc0FVU3k3NGR3ckhlV0tR?oc=5</link>
+<guid isPermaLink="false">94fb60f4caac0f164edddb56a2367a0deba2259d7af4f5bef2539cfaccb248ae</guid>
+<pubDate>Tue, 17 Nov 2026 10:35:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>ネット上に公開されていた富岳の稼働状況を表示するダッシュボードを足がかりに、運用系の内部ネットワークに不正に侵入されたという。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>グーグル、Geminiにスキル共有機能 ドライブやフォトのファイルも参照可能に BigGo ファイナンス</p><p><b>ソース:</b> BigGo ファイナンス</p>]]></description>
 </item><item>
-<title>NTTの島田明社長、宇宙光通信構想を発表 月面インフラや宇宙データセンターの整備も</title>
-<link>https://www.itmedia.co.jp/news/article/2611/17/2000003252/</link>
-<guid isPermaLink="false">5b0c2da9cef4f80508f097e05053ba73e4fcca1ce3c94b36b79d18198da9f7b9</guid>
-<pubDate>Tue, 17 Nov 2026 01:30:57 +0000</pubDate>
+<title>メルカリ、Google Play ストアでアプリが検索・ダウンロードできない状態に</title>
+<link>https://www.itmedia.co.jp/news/article/2611/17/2000003274/</link>
+<guid isPermaLink="false">7d4a73df9b1198af71453ceaa2d17826960089c7bb97a7667b5c112094ec185b</guid>
+<pubDate>Tue, 17 Nov 2026 10:31:33 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>NTTの島田明社長は16日、都内で講演し、宇宙で光通信網を構築する構想を明らかにした。人工衛星同士や地上の通信施設を光信号でつなぎ、高速通信を実現する。宇宙データセンターや月の発電インフラの整備にも乗り出す。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>11月17日午後6時40分ごろから、Google Playでフリマアプリ「メルカリ」が検索・ダウンロードできない状況だ。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
 </item><item>
-<title>「京成スカイライナー」予約システム不正アクセス、最大約337万件の顧客情報漏えいか</title>
-<link>https://www.itmedia.co.jp/news/article/2611/17/2000003250/</link>
-<guid isPermaLink="false">4ec25c3d2c8376808df53f7390cf0a2d50cd78d2b245e9589494c7c214038899</guid>
-<pubDate>Tue, 17 Nov 2026 01:09:00 +0000</pubDate>
+<title>BlackLineプラットフォームにOpenAIのモデルが導入、財務業務のエージェンティック化を支援</title>
+<link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PZW9heEpzZm5FSWFqc1hrbk5QMVo4SWt5Wl84bThHb2k3RlBOdG8xV29udW82WWE5VGoxZVlXQ1lOR3ZFbmUtWDA1bmdFSmpmWEVYQ0Jn?oc=5</link>
+<guid isPermaLink="false">ad9fbcbaf536413ad916c636cd2c9cc3caf9dca71e1ea5f9d151335998b5231d</guid>
+<pubDate>Tue, 17 Nov 2026 10:03:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>カナ氏名、電話番号、メールアドレス、ユーザーID、ハッシュ化済みパスワード、生年月日、性別、国籍が、第三者に取得された可能性があるという。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>BlackLineプラットフォームにOpenAIのモデルが導入、財務業務のエージェンティック化を支援 EnterpriseZine</p><p><b>ソース:</b> EnterpriseZine</p>]]></description>
 </item><item>
-<title>【Hothotレビュー】SX14-R愛用者の本音。「VAIO S13」でうらやましかったのは手厚い新保証だった</title>
-<link>https://pc.watch.impress.co.jp/docs/column/hothot/2156884.html</link>
-<guid isPermaLink="false">72e6064041a71292a161dcd8a86cc92801112e4fc51b06b004402f39760862ca</guid>
-<pubDate>Tue, 17 Nov 2026 01:00:00 +0000</pubDate>
+<title>OpenAI、「ChatGPT Wallet」発表。AIエージェントに支払いまで任せられます</title>
+<link>https://news.google.com/rss/articles/CBMiakFVX3lxTFBrMnZEZFhkdE8zYlotSlJTSjdJTk52VldZV3IyS1BGQTl3S3RKOHBqaDBYOU9Ha3lVTDV0VmFzUmpUVWxROU1OZ3p2a1JJT3dfMzFsUjNSbVVPcWF3SUZkbVU0dS1GNFNQVGc?oc=5</link>
+<guid isPermaLink="false">9be2ea3c731b4b6621217e3044d1b24c0a00994b0e4da25ca1549389d21e0213</guid>
+<pubDate>Tue, 17 Nov 2026 10:00:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p></p><p><b>ソース:</b> PC Watch</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI、「ChatGPT Wallet」発表。AIエージェントに支払いまで任せられます Gizmodo</p><p><b>ソース:</b> Gizmodo</p>]]></description>
 </item><item>
-<title>【Hothotレビュー】落下・水濡れも無償修理。大学4年間を任せられる「VAIO F14」を親目線で試す</title>
-<link>https://pc.watch.impress.co.jp/docs/column/hothot/2156881.html</link>
-<guid isPermaLink="false">a6034af4b8c95412ac07739f759a4c4f3dfe4731bffebeb28e9ca28de19c873c</guid>
-<pubDate>Tue, 17 Nov 2026 01:00:00 +0000</pubDate>
+<title>カリフォルニア州は、サイバーセキュリティ違反を理由にOpenAIを提訴した。</title>
+<link>https://news.google.com/rss/articles/CBMigwFBVV95cUxQbmFUdVkyNTE0dTRncF9QUjBEcXU4ZzFEd2tWUUM2Vnp4N1UtcUFiRDk0MHVudERxa0dRbWFSTTdueEJ5RndHNHJBWkstM2tNYlBtMzdPMlNfQXU4MjFnRFFDb2VEZHd2SF9ycnZCX1B5ZEhnVUh1SHpDdGJOYVd5Wm40cw?oc=5</link>
+<guid isPermaLink="false">2a48dc3391dca1efd2b865eb8552e7096a5b2a2a2a0d0cf2bd41331c92102c54</guid>
+<pubDate>Tue, 17 Nov 2026 09:56:57 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p></p><p><b>ソース:</b> PC Watch</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>カリフォルニア州は、サイバーセキュリティ違反を理由にOpenAIを提訴した。 Vietnam.vn</p><p><b>ソース:</b> Vietnam.vn</p>]]></description>
 </item><item>
-<title>OpenAI、Apollo ResearchやMETRなど外部4団体を社内に迎える「埋め込み型」安全性評価を開始</title>
-<link>https://www.itmedia.co.jp/news/article/2611/17/2000003248/</link>
-<guid isPermaLink="false">4025bbd4886639a52f1e2d54ff9a876b05fe89d023aa113061bb6b040863c15f</guid>
-<pubDate>Tue, 17 Nov 2026 00:03:15 +0000</pubDate>
+<title>メルカリ、Android版がダウンロードできなくなる不具合 Playストアにはエラー画面、削除しないよう呼びかけ</title>
+<link>https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpWWtJZGhIMHJsd3MwX0FhaURtMUN4NWtqUER0QUowQnUybHRDQzRPUWxBY3QxZkRfWldtWm1lWmlBSVA5MlJmSm1TTk1qQ2xtaUdTdEYxRFRibGRVbk1seDZR0gFnQVVfeXFMT1RTbG9VMHo5dGFPMmdmVktXWklYUG5kZFQ4UmJVSENrLXA2UXlVQTFlbmxycjVVX0VRdkFZREdFd0FueVR4ZFNCMFNtQ2x1LTJkU3ZGZjF4YnlVWkdpQnVxRWRQdVI1RQ?oc=5</link>
+<guid isPermaLink="false">a2c0152e1c9265c05553c3d51047f1bb7bbc72d108d46b576856d2330b4d4397</guid>
+<pubDate>Tue, 17 Nov 2026 09:56:25 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAIは、外部の独立評価機関が社内に常駐してAIの安全性を検証する「埋め込み型評価」の開始を発表した。METRやApollo Researchなど4団体と契約を結び、学習中のモデルやソースコードへの深いアクセスを提供する。モデルの意図的な妨害行為や不適切な挙動を評価し、安全管理の透明性向上を図る狙いだ。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>メルカリ、Android版がダウンロードできなくなる不具合 Playストアにはエラー画面、削除しないよう呼びかけ Infoseek</p><p><b>ソース:</b> Infoseek</p>]]></description>
 </item><item>
-<title>OpenAIをカリフォルニア州が提訴 「AIエージェントの制御を80回以上失った」</title>
-<link>https://www.itmedia.co.jp/news/article/2611/17/2000003246/</link>
-<guid isPermaLink="false">7e89cf37133a506c22642b6395b8d73cd2f1fa0bbfc978ce344f04125a629a7c</guid>
-<pubDate>Mon, 16 Nov 2026 23:04:43 +0000</pubDate>
+<title>グーグルDeepMindの最高戦略責任者がAnthropicへ転職、人材流出が加速</title>
+<link>https://news.google.com/rss/articles/CBMidEFVX3lxTE1BQzl5NFhqOHZWd1Z0N1ZJT09ZdkJtS3Z6aXFwLXJ0OUhPNlFYODlVdDBwVGktNEh4bnkzYm55VE1aUnlVYktxZ3FvWGVIRWFUOFhWeldTWERDUTlKcnNNZlZ5N0ZjNkt6bC16X2lMak1OR2tu?oc=5</link>
+<guid isPermaLink="false">4b73f58a93a2ba0c569e4a26adab6f807bbf35d661094c9307819b562e83f292</guid>
+<pubDate>Tue, 17 Nov 2026 09:55:00 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>カリフォルニア州の司法長官は、OpenAIを提訴した。十分な安全対策を講じずに高度なAIモデルを開発・テストしたとしている。テスト中に自律エージェントの制御を80回以上失ったにもかかわらず一部しか公表しなかったと指摘。OpenAI側は「自社のみが狙い撃ちにされている」と反論している。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>グーグルDeepMindの最高戦略責任者がAnthropicへ転職、人材流出が加速 BigGo ファイナンス</p><p><b>ソース:</b> BigGo ファイナンス</p>]]></description>
 </item><item>
-<title>「Microsoft 365」大規模障害、7月の修正で混入した不具合が原因 負荷増と容量減が重なり世界に波及</title>
-<link>https://www.itmedia.co.jp/news/article/2611/17/2000003245/</link>
-<guid isPermaLink="false">3b5f5d36f09493d4c8312ecad6fae58d8d945014cb9e714c321d91b35a0f2fc4</guid>
-<pubDate>Mon, 16 Nov 2026 22:05:16 +0000</pubDate>
+<title>【Google】米国のGeminiアプリがGoogle Walletと連携！支出傾向の分析やサブスク値上げ検知が可能に</title>
+<link>https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tMkVQaE83TzdrUW13R1EyNHJaUmpUSUpjaTRjdUg4MkFKaVpCSTJQbG5YQkZEbnhTNTNFUXlDYnh6emdRQ2hwaFVLNXE?oc=5</link>
+<guid isPermaLink="false">78b0e5ca531bd8407195c46b0fe99f6ea5fe60ef5ec046a1bda790ae83152c6f</guid>
+<pubDate>Tue, 17 Nov 2026 09:48:52 +0000</pubDate>
 <category>IT・AI</category>
-<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Microsoftは、「Microsoft 365」で12日に発生した大規模障害の暫定的なインシデントレポートを公開した。7月に展開した更新プログラムに潜む不具合が、通信トラフィック移行による負荷増と容量低下という悪条件と重なり顕在化。世界規模で連鎖的なサーバダウンを引き起こした。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>【Google】米国のGeminiアプリがGoogle Walletと連携！支出傾向の分析やサブスク値上げ検知が可能に DXマガジン</p><p><b>ソース:</b> DXマガジン</p>]]></description>
+</item><item>
+<title>グーグルの「Gemini」、スキルの共有やGoogleドライブなどからのファイル追加に順次対応</title>
+<link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwRThJQjNPZnROSlRlOVBKd2NicHJqbXE0X3RtYlFpbGowb2g3dkZxUHgxR2tJeERkTm1lcW1sTGRBWDE2LUUxR2JmdXRpQU5UeUV6NHpmdjlXRVBodTdwcHA2c0szWmc?oc=5</link>
+<guid isPermaLink="false">b2f7ab0ff2805667115f189b71245fe6ac96d281b3262773885020afcea2ae81</guid>
+<pubDate>Tue, 17 Nov 2026 09:43:10 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>グーグルの「Gemini」、スキルの共有やGoogleドライブなどからのファイル追加に順次対応 ケータイ Watch</p><p><b>ソース:</b> ケータイ Watch</p>]]></description>
+</item><item>
+<title>NTTデータ、古い基幹システムを生成AIで刷新 保守工数5割削減</title>
+<link>https://news.google.com/rss/articles/CBMibEFVX3lxTE5WQzRLVUxPMzhZZE5acks5R3IyXzNFWWRFcnJQdU9MUWdKdG9YdENTNEl5anlsYVJrMHdKTEFzSF8zUkd1dWxoTWNRcnEtWUxJekxSLVZocHptWDIxRVhicjNCMU1mLWh4TUVuXw?oc=5</link>
+<guid isPermaLink="false">ceeb00909d3a6ec69893f5217baf971839a71c419f642d5f83b5b70fe42f6037</guid>
+<pubDate>Tue, 17 Nov 2026 09:33:40 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>NTTデータ、古い基幹システムを生成AIで刷新 保守工数5割削減 日本経済新聞</p><p><b>ソース:</b> 日本経済新聞</p>]]></description>
+</item><item>
+<title>Android XR、OpenXRの空間コンテナ拡張に対応</title>
+<link>https://news.google.com/rss/articles/CBMib0FVX3lxTFA1Z1pZWUhxQm1TQWpnTGtTUGJ2WEZ6Zy11YXpCTHVWd3F6bnl6UDh4NnJGQ0UyV1JINlBQb3JKRDh1OUNjTk8zdlJaLWs0VzRYbWt5aElNa1ZGcWpiRTRqdS1zYnM0bkcwQm96VVhYYw?oc=5</link>
+<guid isPermaLink="false">d4dc3369e99f075c556035b3317add9611964de05b16552a057639fbdd6e1241</guid>
+<pubDate>Tue, 17 Nov 2026 09:33:08 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Android XR、OpenXRの空間コンテナ拡張に対応 Mogura VR</p><p><b>ソース:</b> Mogura VR</p>]]></description>
+</item><item>
+<title>生成AIでCOBOLなどの基幹システムを保守性の高いJavaへ再設計 金融機関や官公庁をはじめとするユーザーを中心に提供</title>
+<link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE9McW1pUGpqS0NaUWpEUnJ5UlNyUGRlTjNkT1IwWW8wbGhwTGpiWkM5aWM0dk1TRDZjaktCZUJ3enhhZWF4TnpPc0lJUGs0WEhWd3hKSVB3NWdJb1BENURBTEdvNA?oc=5</link>
+<guid isPermaLink="false">e6c0de3b737712cce9b46ff6df7982d12f7c3086e7897f51ff8dd98493ae5a06</guid>
+<pubDate>Tue, 17 Nov 2026 09:31:11 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>生成AIでCOBOLなどの基幹システムを保守性の高いJavaへ再設計 金融機関や官公庁をはじめとするユーザーを中心に提供 株式会社インプレス</p><p><b>ソース:</b> 株式会社インプレス</p>]]></description>
+</item><item>
+<title>OpenAI、NATOにサイバー防衛モデルを提供―NATOは月間3000億トークンを消費</title>
+<link>https://news.google.com/rss/articles/CBMidEFVX3lxTE91bmpzWUxRYTM5eEptSFlFMFhqaXpUUEpDWnhvbjNZT1JWdDRSUEwyX0kxV2lPTzU3THpsRGZTOEFrc0pfVC1ZVW9FVl9uVUJCX3NYbDJpVy1FS2Z3cnF5UXJzNTZIWWx5dW1pWVBGNk1wMzll?oc=5</link>
+<guid isPermaLink="false">cccc89293436b35efd5b23fa36b27555a8814b8517b14d56d6bc8e4b17aa4b49</guid>
+<pubDate>Tue, 17 Nov 2026 09:15:00 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI、NATOにサイバー防衛モデルを提供―NATOは月間3000億トークンを消費 BigGo ファイナンス</p><p><b>ソース:</b> BigGo ファイナンス</p>]]></description>
+</item><item>
+<title>OpenAI、ChatGPT Walletを米国で提供開始―購入内容の確認と生体認証でAI決済を承認</title>
+<link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pN1ZDd1ZBbk5MWFRfUllsUW9NZFpjRldsZWhxRklvZHVNVHJ3OHdFcm0xaWVpYjJvWVk4MkIwVjdBU0ZqNTl3NExkbVpBSF9qWnJXRXhIa1V3MVA4bEtkRWVUY9IBaEFVX3lxTE5yTENVNGgzbWYtTWZYcElqSUYzbVRSN0d0ZElCamo2SW03V0lyZUlBSFRkOVJtMWVqZG15TUJqUGhpT1JWZXFrcHhlN3YtRUVKRWFlMEphTGVOOVc3aXl0OVJDWUxPdFNQ?oc=5</link>
+<guid isPermaLink="false">afcd77eefc706a70627e82bb1386452563d6cbd50d96fac8647e09b0356a8c4d</guid>
+<pubDate>Tue, 17 Nov 2026 08:41:14 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>OpenAI、ChatGPT Walletを米国で提供開始―購入内容の確認と生体認証でAI決済を承認 財経新聞</p><p><b>ソース:</b> 財経新聞</p>]]></description>
+</item><item>
+<title>中国のAI戦略：米国のチップ規制に対抗するため、OpenAIの出力を産業規模で蒸留</title>
+<link>https://news.google.com/rss/articles/CBMidEFVX3lxTFBaZmd1R2tDa3JUUnhCU05KNU5IVFJDQVpwX2ROTFlqaGsxUnpwOWJZbll0dldPYzNpSmlFdDZORE9BSVlOM2xzMHpHUWpZcUdiTi1XNEo5bUs5VDdFUFpyLVFSOG1qa0FUYXhEMU1Wd05HZnY3?oc=5</link>
+<guid isPermaLink="false">d95d7dfabfaba5698584c715cd24a9e2057624dffe63a27241b482fd11586368</guid>
+<pubDate>Tue, 17 Nov 2026 08:35:00 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>中国のAI戦略：米国のチップ規制に対抗するため、OpenAIの出力を産業規模で蒸留 BigGo ファイナンス</p><p><b>ソース:</b> BigGo ファイナンス</p>]]></description>
+</item><item>
+<title>東京都、水道利用者個人情報871件含むHDD紛失 一部に口座番号も 10月に同様事案</title>
+<link>https://www.itmedia.co.jp/news/article/2611/17/2000003270/</link>
+<guid isPermaLink="false">7c8b47b9362422fd2aad0c372be0176306a458ba98cd6d346100de44ea1e2c60</guid>
+<pubDate>Tue, 17 Nov 2026 08:18:24 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>東京都水道局は11月16日、個人情報を記録したハードディスクドライブ（HDD：情報記憶装置）の紛失が発覚したと発表した。</p><p><b>ソース:</b> ITmedia NEWS</p>]]></description>
+</item><item>
+<title>Samsung、Googleと共同開発したGemini搭載のAIスマートグラス「Intelligent Eyewear」</title>
+<link>https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IV0l5VGdEYmxickpDZ3U4Um5WalhhZHRZdmJnbjJxbmx4SE5fWVlzUDlBUWtCazB2NEJWU2pmY2pSVHppaUpMRDFWaEZLY2ZWWU13NnM3VC1ITGdlTGxiTQ?oc=5</link>
+<guid isPermaLink="false">1c1422beec86c1508b0d430fc33cc24662b8e879d663a2861de5cfcb49c3cbcf</guid>
+<pubDate>Tue, 17 Nov 2026 08:07:00 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Samsung、Googleと共同開発したGemini搭載のAIスマートグラス「Intelligent Eyewear」 エルミタージュ秋葉原</p><p><b>ソース:</b> エルミタージュ秋葉原</p>]]></description>
+</item><item>
+<title>NTTデータ、COBOL基幹システムを生成AIで「作り直し」 工期4割短縮、3年500億円めざす（ビジネス＋IT）</title>
+<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9lS1JfZlNCZVZWM3dVYUZxcVBOQkgxTXBxWUIwS1Nhc0ZxYkNxbk5NZ2wwWG9jWDFFZWFkMHZrN0piYTBOeTB1Z1RNa2pPY2pWT1FWRUhuNFVsMGFGNmIxaEN0V2pqWmNrUE4xeGlOUDBLQl93TWFnZGJlZWpZODQ?oc=5</link>
+<guid isPermaLink="false">119894711011d9c484078ef8a02e6a509719418886aff0383db534bbc88acc3e</guid>
+<pubDate>Tue, 17 Nov 2026 08:05:07 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>NTTデータ、COBOL基幹システムを生成AIで「作り直し」 工期4割短縮、3年500億円めざす（ビジネス＋IT） Yahoo!ニュース</p><p><b>ソース:</b> Yahoo!ニュース</p>]]></description>
+</item><item>
+<title>米国：カリフォルニア州、サイバーセキュリティ違反でOpenAIを提訴。</title>
+<link>https://news.google.com/rss/articles/CBMijgFBVV95cUxNU21oXzhwanBwMThfLXgwY0VvcFp2N0trT1F5UTRmaXV6eGlzbG1lVmNVbEYzRGs0Y2JDdzdOcHJ4M3B0OW5Va1pzYjBlWlF0eTVSUlA0TW5nbThxTE5iallSZHVWZ2Rab2pLV1dhaWNCdTdkX05YRUNVckM1U2Z5OERUclNBSFJsX1FRS1Vn?oc=5</link>
+<guid isPermaLink="false">d90320f14c40901a1cdb05cec959a766127ea52801cda9915a425840b2eebcf9</guid>
+<pubDate>Tue, 17 Nov 2026 07:59:34 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>米国：カリフォルニア州、サイバーセキュリティ違反でOpenAIを提訴。 Vietnam.vn</p><p><b>ソース:</b> Vietnam.vn</p>]]></description>
+</item><item>
+<title>謎。Android「メルカリ」Google Playから排除される</title>
+<link>https://news.google.com/rss/articles/CBMijAFBVV95cUxNT1BNbjFHT2JRVjVkWWhKZlowU1ZMNVBnWVZmYVlZb2REZms2bUN2ZTRVYWFPZ0UyRUpGb0hvYWVzVnp5VmZIQlBMOUdZOUpWLTV6aElEQnZGYlc5RDJ2VUx4XzJiY2g1WDJvTHU1VktycG5aenotUmQtMFBOR3luMDJKd2VGS19NR2J2Zg?oc=5</link>
+<guid isPermaLink="false">23efa499a1ac2feb77c416510ee846bdc11b372bfd13fff810417d4f2cbd4bd1</guid>
+<pubDate>Tue, 17 Nov 2026 07:55:34 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>謎。Android「メルカリ」Google Playから排除される Jetstream</p><p><b>ソース:</b> Jetstream</p>]]></description>
+</item><item>
+<title>NTTデータ、生成AIでCOBOL資産をJavaに再構築 3年で500億円目指す</title>
+<link>https://news.google.com/rss/articles/CBMidEFVX3lxTE1TNTlNSjR2MEh5UmVWbW1QYVlsZ1BGWWtYamNuT1FvcGl2R3NiekZsdWdjblpQblV2aDJ6bHQ4WXcxOUd5XzJETWtmTlhFZFFtOUI1dVdqVFNscGlFck9GMDBJY0RCTWtEWHFENzJGbTQ0Y2VZ?oc=5</link>
+<guid isPermaLink="false">bd180f0a13ca0b9c1bffeb92da3bf578b586f7973d7933e2769ba19fbbc153ea</guid>
+<pubDate>Tue, 17 Nov 2026 07:55:00 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>NTTデータ、生成AIでCOBOL資産をJavaに再構築 3年で500億円目指す BigGo ファイナンス</p><p><b>ソース:</b> BigGo ファイナンス</p>]]></description>
+</item><item>
+<title>Windows 11がClaude CodeやCodexなどの使用状況を収集してMicrosoftに送信していることが判明</title>
+<link>https://news.google.com/rss/articles/CBMidEFVX3lxTE1HMGxVb3VueVdsb3pmZURmT1JNRTUzWkNPMl9hVEx1WVpYSlRtTHRCREREVjRPOVJ6MlY2N3Nhbi00VEo3ZjMtcm12eXJmQm5zOUlTQ1dic2VncEtyOWNiVFBqbEpJZjlGbXRNZG50YUdQNVlE?oc=5</link>
+<guid isPermaLink="false">f20dab7ed6158a15c6db6d9006d0b1e2b5eb97dccb75919d1d59d43dba4e838e</guid>
+<pubDate>Tue, 17 Nov 2026 07:45:00 +0000</pubDate>
+<category>IT・AI</category>
+<description><![CDATA[<p><b>カテゴリー:</b> IT・AI</p><p>Windows 11がClaude CodeやCodexなどの使用状況を収集してMicrosoftに送信していることが判明 GIGAZINE</p><p><b>ソース:</b> GIGAZINE</p>]]></description>
 </item>
 </channel></rss>
